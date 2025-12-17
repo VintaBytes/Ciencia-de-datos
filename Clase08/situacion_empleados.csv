@@ -1,0 +1,53 @@
+ID,Tipo de Contrato,Salario,Fecha de Incorporación,Departamento,Cargo
+1,Temporal,"$100,00",05/07/2024,Marketing,Gerente de Marketing
+2,Indefinido,"$85,00",18/10/2024,Business Intelligence,Analista de Datos
+3,Formación en Alternancia,"$110,00",02/08/2024,TI,Desarrollador de Software
+4,Formación en Alternancia,"$115,00",23/01/2025,TI,Ingeniero de Datos
+5,Indefinido,"$120,00",07/10/2024,Project Management,Project Manager
+6,Formativo para práctica profesional,"$75,00",05/01/2025,Marketing,Especialista en SEO
+7,Indefinido,"$70,00",12/06/2024,Ventas,Ejecutivo de Ventas
+8,Formativo para práctica profesional,"$45,00",10/11/2024,Administración,Asistente Administrativo
+9,Indefinido,"$60,00",21/04/2024,Marketing,Diseñador Gráfico
+10,Temporal,"$80,00",16/04/2024,Finanzas,Contador
+11,Indefinido,"$85,00",02/09/2024,Recursos Humanos,Recursos Humanos
+12,Formación en Alternancia,"$105,00",12/05/2024,Ingeniería,Ingeniero de Proyectos
+13,Indefinido,"$75,00",23/08/2024,Ventas,Ejecutivo de Cuentas
+14,Indefinido,"$70,00",22/10/2024,Marketing,Analista de Marketing
+15,Indefinido,"$95,00",26/01/2025,TI,Desarrollador Web
+16,Indefinido,"$90,00",02/10/2024,Finanzas,Analista Financiero
+17,Formativo para práctica profesional,"$80,00",10/07/2024,Logística,Ejecutivo de Logística
+18,Temporal,"$70,00",02/12/2024,Recursos Humanos,Especialista en Recursos Humanos
+19,Formación en Alternancia,"$85,00",05/06/2024,Marketing,Investigador de Mercado
+20,Indefinido,"$90,00",02/10/2024,TI,Especialista en Redes
+21,Indefinido,"$65,00",28/05/2024,Marketing,Community Manager
+22,Indefinido,"$125,00",14/07/2024,Project Management,Gerente de Proyectos
+23,Indefinido,"$85,00",01/02/2024,TI,Analista de Sistemas
+24,Temporal,"$95,00",26/12/2024,TI,Especialista en UX/UI
+25,Indefinido,"$140,00",18/02/2024,Finanzas,Gerente de Finanzas
+26,Formación en Alternancia,"$120,00",07/12/2024,Legal,Abogado Interno
+27,Formación en Alternancia,"$60,00",06/12/2024,Marketing,Coordinador de Eventos
+28,Temporal,"$70,00",26/03/2024,Compras,Analista de Compras
+29,Temporal,"$75,00",21/03/2024,Producción,Supervisor de Producción
+30,Indefinido,"$95,00",11/11/2024,Calidad,Gerente de Calidad
+31,Temporal,"$110,00",23/04/2024,TI,Consultor de IT
+32,Formación en Alternancia,"$140,00",02/06/2024,Operaciones,Director de Operaciones
+33,Indefinido,"$80,00",27/06/2024,Recursos Humanos,Coordinador de Capacitación
+34,Indefinido,"$90,00",08/03/2024,TI,Analista de Seguridad
+35,Formación en Alternancia,"$100,00",30/05/2024,TI,Desarrollador Móvil
+36,Indefinido,"$95,00",18/08/2024,TI,Administrador de Redes
+37,Indefinido,"$135,00",26/05/2024,Marketing,Director de Marketing
+38,Formación en Alternancia,"$130,00",01/03/2024,TI,Gerente de Tecnología
+39,Formación en Alternancia,"$100,00",18/10/2024,Legal,Especialista en Compliance
+40,Formación en Alternancia,"$85,00",08/05/2024,Finanzas,Planificador Financiero
+41,Temporal,"$90,00",24/07/2024,Ventas,Jefe de Ventas
+42,Formación en Alternancia,"$120,00",24/09/2024,Innovación,Gerente de Innovación
+43,Formativo para práctica profesional,"$85,00",10/01/2025,Project Management,Gerente de Proyectos
+44,Indefinido,"$90,00",10/02/2024,TI,Analista de Sistemas
+45,Formativo para práctica profesional,"$65,00",04/02/2024,TI,Especialista en UX/UI
+46,Formativo para práctica profesional,"$125,00",04/10/2024,Finanzas,Gerente de Finanzas
+47,Indefinido,"$85,00",20/02/2024,Legal,Abogado Interno
+48,Temporal,"$95,00",22/12/2024,Marketing,Coordinador de Eventos
+49,Temporal,"$140,00",05/03/2024,Compras,Analista de Compras
+50,Temporal,"$120,00",05/01/2025,Producción,Supervisor de Producción
+51,Indefinido,"$60,00",28/12/2024,Calidad,Gerente de Calidad
+52,Indefinido,"$70,00",29/03/2024,TI,Consultor de IT
