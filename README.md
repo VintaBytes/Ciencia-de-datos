@@ -38,10 +38,10 @@ La siguiente es una guia breve de que vas a encontrar en cada uno de ellos:
 - [Consolidación de Datos: Análisis de Asistencia y Resultados en Talleres de Capacitación](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase12/Clase12-Actividad-practica-2.ipynb)
 
 ### Clase 13
--[Matplotlib: Análisis de Ventas a lo Largo del Tiempo - Lineas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase13/Clase13-Actividad-practica-1-Matplotlib.ipynb)
--[Matplotlib: Análisis de Ventas a lo Largo del Tiempo - Barras](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase13/Clase13-Actividad-practica-2-Matplotlib.ipynb)
--[Seaborn: Análisis de Ventas a lo Largo del Tiempo - Lineas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase13/Clase13-Actividad-practica-1-Seaborn.ipynb)
--[Seaborn: Análisis de Ventas a lo Largo del Tiempo - Barras](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase13/Clase13-Actividad-practica-2-Seaborn.ipynb)
+- [Matplotlib: Análisis de Ventas a lo Largo del Tiempo - Lineas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase13/Clase13-Actividad-practica-1-Matplotlib.ipynb)
+- [Matplotlib: Análisis de Ventas a lo Largo del Tiempo - Barras](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase13/Clase13-Actividad-practica-2-Matplotlib.ipynb)
+- [Seaborn: Análisis de Ventas a lo Largo del Tiempo - Lineas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase13/Clase13-Actividad-practica-1-Seaborn.ipynb)
+- [Seaborn: Análisis de Ventas a lo Largo del Tiempo - Barras](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase13/Clase13-Actividad-practica-2-Seaborn.ipynb)
 
 ### Clase 14
 - [Gráficos con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase14/Clase14.ipynb)
