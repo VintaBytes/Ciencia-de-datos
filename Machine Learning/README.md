@@ -40,7 +40,7 @@ La siguiente es una guia breve de que vas a encontrar en cada cuaderno:
   - Comparación y evaluación de modelos
 
 ### Cuaderno 13
-  - xploración y preparación de un dataset clínico
+  - Exploración y preparación de un dataset clínico
 
 ### Cuaderno 14
   - Entrenamiento, evaluación y selección de modelos
