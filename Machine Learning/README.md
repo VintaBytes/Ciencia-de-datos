@@ -19,10 +19,10 @@ La siguiente es una guia breve de que vas a encontrar en cada cuaderno:
   - [Regresión lineal y métricas de evaluación (MAE, MSE, RMSE y R²)](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_05.ipynb)
 
 ### Cuaderno 6
-  - Regresión Logística y Evaluación de Clasificadores
+  - [Regresión Logística y Evaluación de Clasificadores](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_06.ipynb)
 
 ### Cuaderno 7
-  - Clasificación con KNN (K-Nearest Neighbors)
+  - [Clasificación con KNN (K-Nearest Neighbors)](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_07.ipynb)
 
 ### Cuaderno 8
   - Árboles de Decisión
