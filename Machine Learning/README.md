@@ -1,7 +1,7 @@
 # Machine Learning con Python
 ### Ariel Palazzesi - 2026
 
-La siguiente es una guia breve de que vas a encontrar en cada cuaderno:
+La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
 
 ### Cuaderno 1
   - [Introducción al Machine Learning](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_01.ipynb)
