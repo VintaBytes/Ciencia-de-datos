@@ -1,0 +1,22 @@
+Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)
+
+Este trabajo se distribuye bajo la Licencia Creative Commons Atribución 4.0 Internacional.
+
+Usted es libre de:
+
+- Compartir: copiar y redistribuir el material en cualquier medio o formato.
+- Adaptar: remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercial.
+
+Bajo las siguientes condiciones:
+
+- Atribución: Usted debe dar crédito de manera adecuada, proporcionar un enlace a la licencia e indicar si se han realizado cambios.  Puede hacerlo de cualquier manera razonable, pero no de forma tal que sugiera que usted o su uso cuentan con el apoyo del licenciante.
+
+No hay restricciones adicionales:
+No puede aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otros de hacer cualquier uso permitido por la licencia.
+
+Texto completo de la licencia:
+https://creativecommons.org/licenses/by/4.0/deed.es
+
+Autor original: Ariel Palazzesi
+Repositorio: https://github.com/VintaBytes/Ciencia-de-datos/new/main/Machine%20Learning
+Año: 2025
