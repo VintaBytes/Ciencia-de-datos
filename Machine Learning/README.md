@@ -25,7 +25,7 @@ La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
   - [Clasificación con KNN (K-Nearest Neighbors)](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_07.ipynb)
 
 ### Cuaderno 8
-  - Árboles de Decisión
+  - [Árboles de Decisión](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_08.ipynb)
 
 ### Cuaderno 9
   - Random Forest
