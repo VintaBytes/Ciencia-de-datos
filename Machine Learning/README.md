@@ -28,7 +28,7 @@ La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
   - [Árboles de Decisión](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_08.ipynb)
 
 ### Cuaderno 9
-  - Random Forest
+  - [Random Forest](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_09.ipynb)
 
 ### Cuaderno 10
   - Introducción al aprendizaje no supervisado y al clustering
