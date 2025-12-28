@@ -34,7 +34,7 @@ La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
   - [Introducción al aprendizaje no supervisado y al clustering](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_10.ipynb)
 
 ### Cuaderno 11
-  - Automatización del flujo de trabajo con Pipelines y GridSearchCV
+  - [Automatización del flujo de trabajo con Pipelines y GridSearchCV](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_11.ipynb)
 
 ### Cuaderno 12
   - Comparación y evaluación de modelos
