@@ -37,13 +37,13 @@ La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
   - [Automatización del flujo de trabajo con Pipelines y GridSearchCV](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_11.ipynb)
 
 ### Cuaderno 12
-  - Comparación y evaluación de modelos
+  - [Comparación y evaluación de modelos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_12.ipynb)
 
 ### Cuaderno 13
-  - Exploración y preparación de un dataset clínico
+  - [Exploración y preparación de un dataset clínico](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_13.ipynb)
 
 ### Cuaderno 14
-  - Entrenamiento, evaluación y selección de modelos
+  - [Entrenamiento, evaluación y selección de modelos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_14.ipynb)
 
 ----
 ## Licencia
