@@ -23,7 +23,7 @@ En ella encontrarás:
 
 ---
 ### 2. Machine Learning con Python (2026)
-Esta sección contiene una serie de cueadernos que te van a guiar para aprender [Machine Learning con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/Machine%20Learning)
+Esta sección contiene una serie de cueadernos que te van a guiar para aprender **Machine Learning con Python**
 
 En ella encontrarás:
 - Introducción al Machine Learning
