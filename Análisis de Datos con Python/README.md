@@ -44,11 +44,11 @@ La siguiente es una guia breve de que vas a encontrar en cada uno de ellos:
 - [Seaborn: Análisis de Ventas a lo Largo del Tiempo - Barras](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-2-Seaborn.ipynb)
 
 ### Clase 14
-- [Gráficos con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase14/Clase14.ipynb)
+- [Gráficos con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase14/Clase14.ipynb)
 
 ### Clase 15
-- [Dasboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase15/Clase15.ipynb) (Este cuaderno debe ser visualizado en Colab)
-- [Actividad práctica:dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase15/Clase15-Actividad-practica.ipynb)
+- [Dasboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15.ipynb) (Este cuaderno debe ser visualizado en Colab)
+- [Actividad práctica:dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15-Actividad-practica.ipynb)
 
 ---
 ## Licencia
