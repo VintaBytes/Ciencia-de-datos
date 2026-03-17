@@ -6,7 +6,7 @@ Este repositorio contiene los cuadernos Colab más relevantes creados como mater
 La siguiente es una guia breve de que vas a encontrar en cada uno de ellos:
 
 ### Clase 05
-  - [Técnicas para limpiar datos con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase05/Clase05.ipynb)
+  - [Técnicas para limpiar datos con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase05/Clase05.ipynb)
 
 ### Clase 06
 - [Selecciones y filtros de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase06/Clase06.ipynb) 
