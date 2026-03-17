@@ -9,8 +9,8 @@ La siguiente es una guia breve de que vas a encontrar en cada uno de ellos:
   - [Técnicas para limpiar datos con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase05/Clase05.ipynb)
 
 ### Clase 06
-- [Selecciones y filtros de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase06/Clase06.ipynb) 
-- [Actividad práctica: Filtrar pasajeros sobrevivientes en el naufragio del Titanic](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase06/Clase06-Actividad-Practica.ipynb)
+- [Selecciones y filtros de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06.ipynb) 
+- [Actividad práctica: Filtrar pasajeros sobrevivientes en el naufragio del Titanic](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06-Actividad-Practica.ipynb)
   
 ### Clase 07
 - [Funciones de Agregación y Agrupamiento de Datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase07/Clase07.ipynb)
