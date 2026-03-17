@@ -13,25 +13,25 @@ La siguiente es una guia breve de que vas a encontrar en cada uno de ellos:
 - [Actividad práctica: Filtrar pasajeros sobrevivientes en el naufragio del Titanic](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06-Actividad-Practica.ipynb)
   
 ### Clase 07
-- [Funciones de Agregación y Agrupamiento de Datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase07/Clase07.ipynb)
-- [Actividad práctica: Usar groupby() de Pandas para segmentar el dataset](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase07/Clase07-Actividad-Practica.ipynb)
+- [Funciones de Agregación y Agrupamiento de Datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase07/Clase07.ipynb)
+- [Actividad práctica: Usar groupby() de Pandas para segmentar el dataset](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase07/Clase07-Actividad-Practica.ipynb)
 
 ### Clase 08
-- [Manejo de Arrays en NumPy](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase08/Clase08.ipynb)
-- [Actividad práctica: Integración de DataFrames](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase08/Clase08-Actividad-Practica.ipynb)
+- [Manejo de Arrays en NumPy](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08.ipynb)
+- [Actividad práctica: Integración de DataFrames](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08-Actividad-Practica.ipynb)
   
 ### Clase 09
-- [Estadística descriptiva: Análisis de Tendencia Central](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase09/Clase09_1.ipynb)
-- [Estadística descriptiva: Análisis de Dispersión](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase09/Clase09_2.ipynb)
+- [Estadística descriptiva: Análisis de Tendencia Central](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase09/Clase09_1.ipynb)
+- [Estadística descriptiva: Análisis de Dispersión](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase09/Clase09_2.ipynb)
   
 ### Clase 10
-- [Introducción a la Visualización de Datos (Matplotlib)](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase10/Clase10.ipynb)
-- [Actividad práctica: Análisis exploratorio del conjunto de datos "diamonds"](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase10/Clase10-Actividad-Practica.ipynb)
+- [Introducción a la Visualización de Datos (Matplotlib)](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase10/Clase10.ipynb)
+- [Actividad práctica: Análisis exploratorio del conjunto de datos "diamonds"](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase10/Clase10-Actividad-Practica.ipynb)
   
 ### Clase 11
-- [Análisis y Cálculo de Correlación con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase11/Clase11.ipynb)
-- [Introducción a gráficos con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase11/Clase11-Graficos-Seaborn.ipynb)
-- [Actividad práctica: Análisis de Correlación](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase11/Clase11-Actividad-practica.ipynb)
+- [Análisis y Cálculo de Correlación con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11.ipynb)
+- [Introducción a gráficos con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11-Graficos-Seaborn.ipynb)
+- [Actividad práctica: Análisis de Correlación](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11-Actividad-practica.ipynb)
 
 ### Clase 12
 - [Consolidación de Datos: Análisis de Ventas y Productos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase12/Clase12-Actividad-practica-1.ipynb)
