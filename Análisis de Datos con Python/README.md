@@ -50,12 +50,6 @@ La siguiente es una guia breve de que vas a encontrar en cada uno de ellos:
 - [Dasboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15.ipynb) (Este cuaderno debe ser visualizado en Colab)
 - [Actividad práctica:dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15-Actividad-practica.ipynb)
 
----
-## Licencia
-
-Este proyecto se distribuye bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
-
-Se permite su uso, modificación y redistribución, siempre que se atribuya correctamente la autoría.
 
 ---
 
