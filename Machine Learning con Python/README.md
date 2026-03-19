@@ -4,52 +4,47 @@
 La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
 
 ### Cuaderno 1
-  - [Introducción al Machine Learning](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_01.ipynb)
+  - Introducción al Machine Learning - Analizando el dataset](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno01_Analizando_el_dataset.ipynb)
 
 ### Cuaderno 2
-  - [Repaso de Pandas, Matplotlib, Seaborn y Plotly](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_02.ipynb)
+  - Repaso de Pandas, Matplotlib, Seaborn y Plotly
 
 ### Cuaderno 3
-  - [Transformación de datos: el primer paso hacia el modelo](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_03.ipynb)
+  - Transformación de datos: el primer paso hacia el modelo
 
 ### Cuaderno 4
-  - [División de datos y validación cruzada](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_04.ipynb)
+  - División de datos y validación cruzada
 
 ### Cuaderno 5
-  - [Regresión lineal y métricas de evaluación (MAE, MSE, RMSE y R²)](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_05.ipynb)
+  - Regresión lineal y métricas de evaluación (MAE, MSE, RMSE y R²)
 
 ### Cuaderno 6
-  - [Regresión Logística y Evaluación de Clasificadores](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_06.ipynb)
+  - Regresión Logística y Evaluación de Clasificadores
 
 ### Cuaderno 7
-  - [Clasificación con KNN (K-Nearest Neighbors)](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_07.ipynb)
+  - Clasificación con KNN (K-Nearest Neighbors)
 
 ### Cuaderno 8
-  - [Árboles de Decisión](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_08.ipynb)
+  - Árboles de Decisión
 
 ### Cuaderno 9
-  - [Random Forest](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_09.ipynb)
+  - Random Forest
 
 ### Cuaderno 10
-  - [Introducción al aprendizaje no supervisado y al clustering](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_10.ipynb)
+  - Introducción al aprendizaje no supervisado y al clustering
 
 ### Cuaderno 11
-  - [Automatización del flujo de trabajo con Pipelines y GridSearchCV](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_11.ipynb)
+  - Automatización del flujo de trabajo con Pipelines y GridSearchCV
 
 ### Cuaderno 12
-  - [Comparación y evaluación de modelos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_12.ipynb)
+  - Comparación y evaluación de modelos
 
 ### Cuaderno 13
-  - [Exploración y preparación de un dataset clínico](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_13.ipynb)
+  - Exploración y preparación de un dataset clínico
 
 ### Cuaderno 14
-  - [Entrenamiento, evaluación y selección de modelos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_14.ipynb)
+  - Entrenamiento, evaluación y selección de modelos
 
-----
+
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
-
-Se permite su uso, modificación y redistribución, siempre que se atribuya correctamente la autoría.
-
-  
