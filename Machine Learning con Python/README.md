@@ -46,5 +46,3 @@ La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
   - Entrenamiento, evaluación y selección de modelos
 
 
-## Licencia
-
