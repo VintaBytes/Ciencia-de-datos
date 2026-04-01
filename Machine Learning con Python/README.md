@@ -7,7 +7,7 @@ La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
   - [Introducción al Machine Learning - Analizando el dataset](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno01_Analizando_el_dataset.ipynb)
 
 ### Cuaderno 2
-  - Repaso de Pandas, Matplotlib, Seaborn y Plotly
+  - [Repaso de Pandas, Matplotlib, Seaborn y Plotly](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno02_Repaso_Modulos_Graficos.ipynb)
 
 ### Cuaderno 3
   - Transformación de datos: el primer paso hacia el modelo
