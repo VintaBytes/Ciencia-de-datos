@@ -10,7 +10,7 @@ La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
   - [Repaso de Pandas, Matplotlib, Seaborn y Plotly](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno02_Repaso_Modulos_Graficos.ipynb)
 
 ### Cuaderno 3
-  - Transformación de datos: el primer paso hacia el modelo
+  - [Transformación de datos: el primer paso hacia el modelo](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno03_Transformacion_de_datos_el_primer_paso_hacia_el_modelo.ipynb)
 
 ### Cuaderno 4
   - División de datos y validación cruzada
