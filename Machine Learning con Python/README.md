@@ -13,7 +13,7 @@ La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
   - [Transformación de datos: el primer paso hacia el modelo](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno03_Transformacion_de_datos_el_primer_paso_hacia_el_modelo.ipynb)
 
 ### Cuaderno 4
-  - División de datos y validación cruzada
+  - [División de datos y validación cruzada](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno04_Division_de_datos_y_validacion_cruzada.ipynb)
 
 ### Cuaderno 5
   - Regresión lineal y métricas de evaluación (MAE, MSE, RMSE y R²)
