@@ -1,6 +1,8 @@
 # Ciencia de Datos con Python
 ## (2025-2026)
 
+<span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>
+
 Este repositorio contiene los cuadernos Colab más relevantes creados como material de apoyo para clases de programación y análisis de datos utilizando Python.
 
 El material está dividido en secciones, con un índice en cada una de ellas.
