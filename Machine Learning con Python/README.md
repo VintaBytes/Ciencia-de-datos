@@ -16,7 +16,7 @@ La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
   - [División de datos y validación cruzada](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno04_Division_de_datos_y_validacion_cruzada.ipynb)
 
 ### Cuaderno 5
-  - Regresión lineal y métricas de evaluación (MAE, MSE, RMSE y R²)
+  - [Regresión lineal y métricas de evaluación (MAE, MSE, RMSE y R²)](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno05_RegresionLineal_y_EvaluacionDelModelo.ipynb)
 
 ### Cuaderno 6
   - Regresión Logística y Evaluación de Clasificadores
