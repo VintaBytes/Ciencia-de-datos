@@ -22,7 +22,7 @@ La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
   - [Regresión Logística y Evaluación de Clasificadores](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno06_RegresionLogistica_y_EvaluacionDelModelo.ipynb)
 
 ### Cuaderno 7
-  - Clasificación con KNN (K-Nearest Neighbors)
+  - [Clasificación con KNN (K-Nearest Neighbors)](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno07_Clasificacion_con_KNN_(K_Nearest_Neighbors).ipynb)
 
 ### Cuaderno 8
   - Árboles de Decisión
