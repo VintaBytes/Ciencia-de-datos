@@ -25,24 +25,21 @@ La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
   - [Clasificación con KNN (K-Nearest Neighbors)](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno07_Clasificacion_con_KNN_(K_Nearest_Neighbors).ipynb)
 
 ### Cuaderno 8
-  - Árboles de Decisión
+  - [Árboles de Decisión y Random Forest](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno08_%C3%81rboles_de_Decisi%C3%B3n_y_Random_Forest.ipynb)
 
 ### Cuaderno 9
-  - Random Forest
-
-### Cuaderno 10
   - Introducción al aprendizaje no supervisado y al clustering
 
-### Cuaderno 11
+### Cuaderno 10
   - Automatización del flujo de trabajo con Pipelines y GridSearchCV
 
-### Cuaderno 12
+### Cuaderno 11
   - Comparación y evaluación de modelos
 
-### Cuaderno 13
+### Cuaderno 12
   - Exploración y preparación de un dataset clínico
 
-### Cuaderno 14
+### Cuaderno 13
   - Entrenamiento, evaluación y selección de modelos
 
 
