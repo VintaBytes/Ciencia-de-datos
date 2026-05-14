@@ -28,7 +28,10 @@ La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
   - [Árboles de Decisión y Random Forest](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno08_%C3%81rboles_de_Decisi%C3%B3n_y_Random_Forest.ipynb)
 
 ### Cuaderno 9
-  - Introducción al aprendizaje no supervisado y al clustering
+  Introducción al aprendizaje no supervisado y al clustering:
+  - [Introducción al clustering con K-Means](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno09A_K_Means_.ipynb)
+  - [K-Means en datos reales: cuando el clustering ayuda, pero no alcanza](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno09B_K_Means_Pinguinos.ipynb)
+  - [Segmentación de clientes con K-Means](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno09C_K_Means_Consumidores.ipynb)
 
 ### Cuaderno 10
   - Automatización del flujo de trabajo con Pipelines y GridSearchCV
