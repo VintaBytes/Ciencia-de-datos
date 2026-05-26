@@ -6,7 +6,7 @@
 
 [Capítulo003 - Selección de columnas en un DataFrame.](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo003_Selecci%C3%B3n_de_columnas_en_un_DataFrame.ipynb) 
 
-Capítulo004 - Selección de filas en un DataFrame. 
+[Capítulo004 - Selección de filas en un DataFrame.](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo004_Selecci%C3%B3n_de_filas_en_un_DataFrame.ipynb)
 
 Capítulo005 - Selección con etiquetas usando loc. 
 
