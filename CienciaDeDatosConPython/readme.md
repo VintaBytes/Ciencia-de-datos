@@ -4,6 +4,8 @@ Este repositorio reúne una serie de cuadernos de Google Colab orientados al apr
 
 El proyecto está pensado como un material de estudio autónomo, con un enfoque gradual y explicativo. No se limita a presentar instrucciones aisladas, sino que busca construir una forma de pensar el trabajo con datos: observar, seleccionar, transformar, limpiar, validar y, más adelante, analizar e interpretar información.
 
+[Ir al Indice General del repositorio](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/indice.md)
+
 ## Objetivo del proyecto
 
 El objetivo principal es acompañar a estudiantes, desarrolladores y personas interesadas en ciencia de datos en sus primeros pasos con el análisis de datos usando Python.
