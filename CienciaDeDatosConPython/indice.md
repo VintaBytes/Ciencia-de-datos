@@ -8,7 +8,7 @@
 
 [Capítulo004 - Selección de filas en un DataFrame.](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo004_Selecci%C3%B3n_de_filas_en_un_DataFrame.ipynb)
 
-Capítulo005 - Selección con etiquetas usando loc. 
+[Capítulo005 - Selección con etiquetas usando loc.](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo005_Selecci%C3%B3n_con_etiquetas_usando_loc.ipynb)
 
 Capítulo006 - Filtros con condiciones. 
 
