@@ -10,7 +10,7 @@
 
 [Capítulo005 - Selección con etiquetas usando loc.](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo005_Selecci%C3%B3n_con_etiquetas_usando_loc.ipynb)
 
-Capítulo006 - Filtros con condiciones. 
+[Capítulo006 - Filtros con condiciones.](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo006_Filtros_con_condiciones.ipynb)
 
 Capítulo007 - Combinar condiciones en filtros. 
 
