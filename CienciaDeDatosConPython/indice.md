@@ -12,7 +12,7 @@
 
 [Capítulo006 - Filtros con condiciones.](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo006_Filtros_con_condiciones.ipynb)
 
-Capítulo007 - Combinar condiciones en filtros. 
+[Capítulo007 - Combinar condiciones en filtros.](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo007_Combinar_condiciones_en_filtros.ipynb)
 
 Capítulo008 - Ordenar datos en un DataFrame. 
 
