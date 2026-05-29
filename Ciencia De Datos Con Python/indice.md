@@ -50,7 +50,7 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 
 * [Capítulo 010 · Crear nuevas columnas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo010_Crear_nuevas_columnas_en_un_DataFrame.ipynb)
 * [Capítulo 011 · Modificar columnas existentes en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo011_Modificar_columnas_existentes_en_un_DataFrame.ipynb)
-* Capítulo 012 · Organizar columnas en un DataFrame
+* [Capítulo 012 · Organizar columnas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo012_Organizar_columnas_en_un_DataFrame.ipynb)
 
 ### Limpieza de datos
 
