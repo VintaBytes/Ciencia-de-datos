@@ -38,12 +38,12 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 
 ### Selección, filtros y ordenamiento
 
-* [Capítulo 003 · Selección de columnas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo003_Selecci%C3%B3n_de_columnas_en_un_DataFrame.ipynb)
-* [Capítulo 004 · Selección de filas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo004_Selecci%C3%B3n_de_filas_en_un_DataFrame.ipynb)
-* [Capítulo 005 · Selección con etiquetas usando `loc`](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo005_Selecci%C3%B3n_con_etiquetas_usando_loc.ipynb)
-* [Capítulo 006 · Filtros con condiciones](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo006_Filtros_con_condiciones.ipynb)
-* [Capítulo 007 · Combinar condiciones en filtros](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo007_Combinar_condiciones_en_filtros.ipynb)
-* [Capítulo 008 · Ordenar datos en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo008_Ordenar_datos_en_un_DataFrame.ipynb)
+* [Capítulo 003 · Selección de columnas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo003_Selecci%C3%B3n_de_columnas_en_un_DataFrame.ipynb)
+* [Capítulo 004 · Selección de filas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo004_Selecci%C3%B3n_de_filas_en_un_DataFrame.ipynb)
+* [Capítulo 005 · Selección con etiquetas usando `loc`](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo005_Selecci%C3%B3n_con_etiquetas_usando_loc.ipynb)
+* [Capítulo 006 · Filtros con condiciones](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo006_Filtros_con_condiciones.ipynb)
+* [Capítulo 007 · Combinar condiciones en filtros](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo007_Combinar_condiciones_en_filtros.ipynb)
+* [Capítulo 008 · Ordenar datos en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo008_Ordenar_datos_en_un_DataFrame.ipynb)
 * Capítulo 009 · Valores extremos y primeros rankings
 
 ### Creación y organización de columnas
