@@ -33,8 +33,8 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 
 ### Primer contacto con datos y DataFrames
 
-* [Capítulo 001 · Primer contacto con el trabajo con datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo001_Primer_contacto_con_el_trabajo_con_datos.ipynb)
-* [Capítulo 002 · Primeras inspecciones de un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo002_Primeras_inspecciones_de_un_DataFrame.ipynb)
+* [Capítulo 001 · Primer contacto con el trabajo con datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo001_Primer_contacto_con_el_trabajo_con_datos.ipynb)
+* [Capítulo 002 · Primeras inspecciones de un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo002_Primeras_inspecciones_de_un_DataFrame.ipynb)
 
 ### Selección, filtros y ordenamiento
 
