@@ -120,7 +120,7 @@ También se trabajan conceptos generales de análisis exploratorio de datos, int
 
 ## Relación con otros recorridos del repositorio
 
-Este directorio puede tener puntos de contacto con otras secciones del repositorio, especialmente con **Ciencia de Datos con Python** y **Machine Learning con Python**.
+Este directorio puede tener puntos de contacto con otras secciones del repositorio, especialmente con **[Ciencia de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/CienciaDeDatosConPython)** y **[Machine Learning con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/Machine%20Learning%20con%20Python#readme)**.
 
 La diferencia principal está en el enfoque. Este recorrido conserva la estructura de un curso de análisis de datos organizado por clases. En cambio, otros directorios pueden tener un formato más narrativo, progresivo o centrado en modelos de machine learning.
 
