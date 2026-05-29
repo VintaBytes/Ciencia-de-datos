@@ -1,9 +1,7 @@
 # Ciencia de Datos con Python
 ## Materiales y cuadernos Colab
 
-<span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>
-<span><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span> <span><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/></span> <span><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/></span>
 
 Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para aprender y enseñar programación, análisis de datos, ciencia de datos y machine learning con Python.
 
