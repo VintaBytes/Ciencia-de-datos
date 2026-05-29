@@ -43,7 +43,7 @@ Esta sección contiene una serie de capítulos en formato cuaderno Colab, pensad
 
 El enfoque es más narrativo y guiado, similar a un libro práctico. Parte desde los primeros contactos con un `DataFrame` y avanza gradualmente por inspección, selección, filtros, ordenamiento, limpieza y preparación de datos.
 
-[Ver carpeta: CienciaDeDatosConPython](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/CienciaDeDatosConPython)
+[Ver carpeta: Ciencia De Datos Con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/CienciaDeDatosConPython)
 
 Este recorrido está pensado para quienes quieren construir una base sólida en el trabajo con datos usando Python y Pandas, avanzando paso a paso desde conceptos iniciales hacia tareas cada vez más completas.
 
