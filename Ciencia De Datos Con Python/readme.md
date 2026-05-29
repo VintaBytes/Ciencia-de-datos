@@ -6,7 +6,7 @@ Este directorio reúne una serie de cuadernos de Google Colab orientados al apre
 
 El proyecto está pensado como un material de estudio autónomo, con un enfoque gradual y explicativo. La serie comienza con los primeros contactos con un `DataFrame` y avanza paso a paso hacia tareas habituales del trabajo con datos: inspección, selección, filtros, ordenamiento, transformación, limpieza y validación.
 
-[Ir al índice general de capítulos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/indice.md)
+[Ir al índice general de capítulos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/indice.md)
 
 ---
 
