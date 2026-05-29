@@ -44,11 +44,11 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 * [Capítulo 006 · Filtros con condiciones](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo006_Filtros_con_condiciones.ipynb)
 * [Capítulo 007 · Combinar condiciones en filtros](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo007_Combinar_condiciones_en_filtros.ipynb)
 * [Capítulo 008 · Ordenar datos en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo008_Ordenar_datos_en_un_DataFrame.ipynb)
-* [Capítulo 009 · Valores extremos y primeros rankings.](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo009_Valores_extremos_y_primeros_rankings.ipynb)
+* [Capítulo 009 · Valores extremos y primeros rankings](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo009_Valores_extremos_y_primeros_rankings.ipynb)
 
 ### Creación y organización de columnas
 
-* Capítulo 010 · Crear nuevas columnas en un DataFrame
+* [Capítulo 010 · Crear nuevas columnas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo010_Crear_nuevas_columnas_en_un_DataFrame.ipynb)
 * Capítulo 011 · Modificar columnas existentes en un DataFrame
 * Capítulo 012 · Organizar columnas en un DataFrame
 
