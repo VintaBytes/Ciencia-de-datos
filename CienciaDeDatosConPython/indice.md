@@ -14,7 +14,7 @@
 
 [Capítulo007 - Combinar condiciones en filtros.](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo007_Combinar_condiciones_en_filtros.ipynb)
 
-Capítulo008 - Ordenar datos en un DataFrame. 
+[Capítulo008 - Ordenar datos en un DataFrame.](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/CienciaDeDatosConPython/CienciaDeDatos_Cap%C3%ADtulo008_Ordenar_datos_en_un_DataFrame.ipynb)
 
 Capítulo009 - Valores extremos y primeros rankings. 
 
