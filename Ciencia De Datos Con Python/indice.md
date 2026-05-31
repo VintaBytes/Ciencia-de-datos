@@ -9,6 +9,8 @@
 <span><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/></span>
 
+**EN ESTE MOMENTO GITHUB TIENE ALGUN PROBLEMA PARA RENDERIZAR LOS CUADERNOS COLAB. SIN EMBARGO, LOS MISMOS ESTÁN CORRECTOS Y PUEDES USARLOS NORMALMENTE EN GOOGLE COLAB.**
+
 Este directorio contiene una serie de cuadernos Colab sobre **Ciencia de Datos con Python**, pensada como un recorrido progresivo, narrativo y autocontenido.
 
 A diferencia de otros materiales organizados por clases, esta serie está estructurada como capítulos de estudio. Cada cuaderno desarrolla un tema específico y busca acompañar al lector paso a paso, combinando explicación conceptual, código Python, salidas comentadas e interpretación de resultados.
