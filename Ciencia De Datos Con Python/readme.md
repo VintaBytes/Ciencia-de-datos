@@ -2,6 +2,11 @@
 
 <span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span> <span><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></span> 
 
+----
+**EN LOS ÚLTIMOS DIAS HAY MOMENTOS EN LOS QUE GITHUB TIENE PROBLEMAS PARA RENDERIZAR LOS CUADERNOS COLAB. SIN EMBARGO, LOS MISMOS ESTÁN CORRECTOS Y PUEDES USARLOS NORMALMENTE EN GOOGLE COLAB.**
+
+----
+
 Este directorio reúne una serie de cuadernos de Google Colab orientados al aprendizaje progresivo del trabajo con datos usando **Python** y **Pandas**.
 
 El proyecto está pensado como un material de estudio autónomo, con un enfoque gradual y explicativo. La serie comienza con los primeros contactos con un `DataFrame` y avanza paso a paso hacia tareas habituales del trabajo con datos: inspección, selección, filtros, ordenamiento, transformación, limpieza y validación.
