@@ -4,6 +4,11 @@
 
 <span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span> <span><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/></span> <span><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/></span> <span><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></span>
 
+----
+**EN LOS ÚLTIMOS DIAS HAY MOMENTOS EN LOS QUE GITHUB TIENE PROBLEMAS PARA RENDERIZAR LOS CUADERNOS COLAB. SIN EMBARGO, LOS MISMOS ESTÁN CORRECTOS Y PUEDES USARLOS NORMALMENTE EN GOOGLE COLAB.**
+
+----
+
 Este directorio reúne cuadernos Colab creados como material de apoyo para un recorrido introductorio de **Machine Learning con Python**.
 
 El material está pensado para estudiantes que ya tienen una base inicial en Python y cierto contacto previo con el trabajo con datos usando Pandas. A partir de esa base, los cuadernos avanzan hacia la preparación de datasets, la división de datos, el entrenamiento de modelos, la evaluación de resultados y la comparación entre distintas técnicas de aprendizaje automático.
