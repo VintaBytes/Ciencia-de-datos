@@ -102,7 +102,7 @@ Esta parte del recorrido muestra distintos usos de K-Means: primero con datos pr
 
 ### Cuaderno 10 · Pipelines y GridSearchCV
 
-* Automatización del flujo de trabajo con Pipelines y GridSearchCV
+* [Automatización del flujo de trabajo con Pipelines y GridSearchCV](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno10_Pipelines.ipynb)
 
 Este cuaderno está orientado a organizar el flujo completo de trabajo mediante pipelines. También introduce la búsqueda de hiperparámetros con GridSearchCV, una herramienta clave para comparar configuraciones de modelos de manera sistemática.
 
