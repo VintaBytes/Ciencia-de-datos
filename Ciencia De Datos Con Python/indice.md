@@ -60,7 +60,7 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 ### Limpieza de datos
 
 * [Capítulo 013 · Qué significa limpiar datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo013_Qu%C3%A9_significa_limpiar_datos.ipynb)
-* Capítulo 014 · Valores faltantes
+* [Capítulo 014 · Valores faltantes](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo014_Valores_faltantes.ipynb)
 * Capítulo 015 · Eliminar, imputar o reconstruir valores faltantes
 * Capítulo 016 · Duplicados en un DataFrame
 * Capítulo 017 · Limpieza de textos y categorías
