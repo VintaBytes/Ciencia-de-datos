@@ -115,7 +115,7 @@ Este cuaderno está orientado a organizar el flujo completo de trabajo mediante 
 
 ### Cuaderno 11 · Comparación y evaluación de modelos
 
-* Comparación y evaluación de modelos
+* [Comparación y evaluación de modelos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno11_Evaluacion_de_modelos.ipynb)
 
 Se trabaja sobre la comparación entre distintos modelos y métricas. El objetivo es reforzar que no alcanza con entrenar un modelo: también es necesario evaluar resultados, interpretar errores y elegir la alternativa más adecuada para el problema.
 
