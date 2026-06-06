@@ -5,7 +5,7 @@
 <span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span> <span><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/></span> <span><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/></span> <span><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></span>
 
 ----
-**EN LOS ÚLTIMOS DIAS HAY MOMENTOS EN LOS QUE GITHUB TIENE PROBLEMAS PARA RENDERIZAR LOS CUADERNOS COLAB. SIN EMBARGO, LOS MISMOS ESTÁN CORRECTOS Y PUEDES USARLOS NORMALMENTE EN GOOGLE COLAB.**
+**EN LOS ÚLTIMOS DIAS HAY MOMENTOS EN LOS QUE GITHUB TIENE PROBLEMAS PARA RENDERIZAR LOS CUADERNOS COLAB.**
 
 ----
 
