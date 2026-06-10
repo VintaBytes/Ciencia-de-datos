@@ -156,7 +156,7 @@ También se trabajan conceptos generales de análisis exploratorio de datos, pre
 
 ## Relación con otros recorridos del repositorio
 
-Este directorio se relaciona especialmente con las secciones **Análisis de Datos con Python** y **Ciencia de Datos con Python**.
+Este directorio se relaciona especialmente con las secciones **[Análisis de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/An%C3%A1lisis%20de%20Datos%20con%20Python)** y **[Ciencia de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/CienciaDeDatosConPython)**.
 
 La diferencia principal está en el foco. Mientras que otros recorridos se concentran en la manipulación, inspección, limpieza y análisis exploratorio de datos, esta sección utiliza esas herramientas como base para avanzar hacia modelos de machine learning.
 
