@@ -120,8 +120,15 @@ Este cuaderno está orientado a organizar el flujo completo de trabajo mediante 
 Se trabaja sobre la comparación entre distintos modelos y métricas. El objetivo es reforzar que no alcanza con entrenar un modelo: también es necesario evaluar resultados, interpretar errores y elegir la alternativa más adecuada para el problema.
 
 ---
+### Cuaderno 12 · Guardar y recuperar un modelo entrenado en scikit-learn
 
-### Cuaderno 12 · Exploración y preparación de un dataset clínico
+* [Guardar y recuperar un modelo entrenado en scikit-learn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno12_Guardar_y_recuperar_modelos.ipynb)
+
+En este mini-cuaderno vamos a entrenar rápidamente un modelo de clasificación y luego veremos cómo guardarlo en un archivo para poder reutilizarlo más adelante sin repetir el entrenamiento.
+
+---
+
+### Cuaderno 13 · Exploración y preparación de un dataset clínico
 
 * Exploración y preparación de un dataset clínico
 
@@ -129,7 +136,7 @@ Este cuaderno propone trabajar con un dataset de contexto clínico, poniendo el 
 
 ---
 
-### Cuaderno 13 · Entrenamiento, evaluación y selección de modelos
+### Cuaderno 14 · Entrenamiento, evaluación y selección de modelos
 
 * Entrenamiento, evaluación y selección de modelos
 
