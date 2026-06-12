@@ -64,7 +64,7 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 * [Capítulo 015 · Eliminar, imputar o reconstruir valores faltantes](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo015_Eliminar_imputar_o_reconstruir_valores_faltantes.ipynb)
 * [Capítulo 016 · Duplicados en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo016_Duplicados_en_un_DataFrame.ipynb)
 * [Capítulo 017 · Limpieza de textos y categorías](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo017_Limpieza_de_textos_y_categor%C3%ADas.ipynb)
-* Capítulo 018 · Conversión de tipos de datos
+* [Capítulo 018 · Conversión de tipos de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo018_Conversi%C3%B3n_de_tipos_de_datos.ipynb)
 * Capítulo 019 · Fechas y datos temporales
 * Capítulo 020 · Estandarizar nombres y crear nuevas columnas
 * Capítulo 021 · Limpieza encadenada paso a paso
