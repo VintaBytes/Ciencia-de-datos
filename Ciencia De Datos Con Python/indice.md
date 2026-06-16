@@ -67,7 +67,7 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 * [Capítulo 018 · Conversión de tipos de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo018_Conversi%C3%B3n_de_tipos_de_datos.ipynb)
 * [Capítulo 019 · Fechas y datos temporales](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo019_Fechas_y_datos_temporales.ipynb)
 * [Capítulo 020 · Estandarizar nombres y crear nuevas columnas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo020_Estandarizar_nombres_y_crear_nuevas_columnas.ipynb)
-* Capítulo 021 · Limpieza encadenada paso a paso
+* [Capítulo 021 · Limpieza encadenada paso a paso](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo021_Limpieza_encadenada_paso_a_paso.ipynb)
 * Capítulo 022 · Validación posterior a la limpieza
 * Capítulo 023 · Del primer DataFrame al dataset preparado
 
