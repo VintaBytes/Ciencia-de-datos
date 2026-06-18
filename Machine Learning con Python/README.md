@@ -130,17 +130,9 @@ En este mini-cuaderno vamos a entrenar rápidamente un modelo de clasificación 
 
 ### Cuaderno 13 · Exploración y preparación de un dataset clínico
 
-* Exploración y preparación de un dataset clínico
+* [Exploración y preparación de un dataset clínico](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno13_Proyecto_Final.ipynb)
 
-Este cuaderno propone trabajar con un dataset de contexto clínico, poniendo el foco en la exploración inicial, la preparación de variables y las decisiones previas al entrenamiento de modelos.
-
----
-
-### Cuaderno 14 · Entrenamiento, evaluación y selección de modelos
-
-* Entrenamiento, evaluación y selección de modelos
-
-Este cuaderno continúa el trabajo iniciado con el dataset clínico y avanza sobre el entrenamiento, evaluación y selección de modelos. La intención es integrar varias etapas del flujo de trabajo en un caso más completo.
+Este cuaderno propone trabajar con un dataset de contexto clínico, poniendo el foco en la exploración inicial, la preparación de variables y las decisiones previas al entrenamiento de modelos.Avanza sobre el entrenamiento, evaluación y selección de modelos. La intención es integrar varias etapas del flujo de trabajo en un caso más completo.
 
 ---
 
