@@ -34,6 +34,7 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 
 ---
 
+# Parte I
 ## Índice de capítulos
 
 ### Primer contacto con datos y DataFrames
@@ -70,6 +71,30 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 * [Capítulo 021 · Limpieza encadenada paso a paso](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo021_Limpieza_encadenada_paso_a_paso.ipynb)
 * [Capítulo 022 · Validación posterior a la limpieza](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo022_Validaci%C3%B3n_posterior_a_la_limpieza.ipynb)
 * [Capítulo 023 · Del primer DataFrame al dataset preparado](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo023_Del_primer_DataFrame_al_dataset_preparado.ipynb)
+
+---
+
+# Parte II - Análisis exploratorio y resumen de datos
+## Índice de capítulos
+
+### Bloque 1: Resumir y agrupar datos
+* Capítulo 24 · Primeras preguntas de análisis
+* Capítulo 25 · Resumir columnas numéricas
+* Capítulo 26 · Contar valores y analizar frecuencias
+* Capítulo 27 · Primeras tablas de resumen
+* Capítulo 28 · Agrupar datos con groupby()
+* Capítulo 29 · Agrupar por más de una variable
+* Capítulo 30 · Comparar categorías
+* Capítulo 31 · Ordenar rankings y detectar extremos
+* Capítulo 32 · Tablas dinámicas con pivot_table()
+
+### Bloque 2: Visualizar e interpretar resultados
+
+* Capítulo 33 · Análisis temporal básico
+* Capítulo 34 · Visualizar distribuciones
+* Capítulo 35 · Visualizar comparaciones
+* Capítulo 36 · Del cálculo al hallazgo
+* Capítulo 37 · Mini análisis exploratorio completo
 
 ---
 
