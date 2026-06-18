@@ -13,7 +13,7 @@ El material está organizado en distintos recorridos formativos. Algunos conteni
 
 Por eso, las secciones no deben leerse como materiales duplicados, sino como recorridos complementarios.
 
-* [1. Análisis de Datos con Python](#1.-Análisis-de-Datos-con-Python)
+* [1. Análisis de Datos con Python](###1.-Análisis-de-Datos-con-Python)
 * [2. Ciencia de Datos con Python]()
 * [3. Machine Learning con Python]()
 * [Qué recorrido elegir]()
