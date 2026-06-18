@@ -69,7 +69,7 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 * [Capítulo 020 · Estandarizar nombres y crear nuevas columnas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo020_Estandarizar_nombres_y_crear_nuevas_columnas.ipynb)
 * [Capítulo 021 · Limpieza encadenada paso a paso](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo021_Limpieza_encadenada_paso_a_paso.ipynb)
 * [Capítulo 022 · Validación posterior a la limpieza](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo022_Validaci%C3%B3n_posterior_a_la_limpieza.ipynb)
-* Capítulo 023 · Del primer DataFrame al dataset preparado
+* [Capítulo 023 · Del primer DataFrame al dataset preparado](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo023_Del_primer_DataFrame_al_dataset_preparado.ipynb)
 
 ---
 
