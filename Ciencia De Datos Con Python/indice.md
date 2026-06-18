@@ -34,7 +34,7 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 
 ---
 
-# Parte I
+# Parte I - Fundamentos de Pandas
 ## Índice de capítulos
 
 ### Primer contacto con datos y DataFrames
