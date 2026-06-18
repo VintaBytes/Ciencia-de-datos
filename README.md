@@ -6,17 +6,15 @@
 
 Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para aprender y enseñar programación, análisis de datos, ciencia de datos y machine learning con Python.
 
-
+* [1. Análisis de Datos con Python](#1-análisis-de-datos-con-python)
+* [2. Ciencia de Datos con Python](#2-ciencia-de-datos-con-python)
+* [3. Machine Learning con Python](#3-machine-learning-con-python)
+* [Qué recorrido elegir](#qué-recorrido-elegir)
 
 
 El material está organizado en distintos recorridos formativos. Algunos contenidos pueden superponerse parcialmente, especialmente en temas como Pandas, visualización de datos o preparación de datasets, pero cada carpeta responde a un objetivo didáctico diferente.
 
 Por eso, las secciones no deben leerse como materiales duplicados, sino como recorridos complementarios.
-
-* [1. Análisis de Datos con Python](###1.-Análisis-de-Datos-con-Python)
-* [2. Ciencia de Datos con Python]()
-* [3. Machine Learning con Python]()
-* [Qué recorrido elegir]()
 
 ---
 
