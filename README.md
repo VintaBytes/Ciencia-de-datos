@@ -1,5 +1,4 @@
 # Ciencia de Datos con Python
-## Materiales y cuadernos Colab
 
 <span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span> <span><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/></span> <span><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/></span> <span><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></span>
 
@@ -16,8 +15,6 @@ Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para apr
 El material está organizado en distintos recorridos formativos. Algunos contenidos pueden superponerse parcialmente, especialmente en temas como Pandas, visualización de datos o preparación de datasets, pero cada carpeta responde a un objetivo didáctico diferente. Por eso, las secciones no deben leerse como materiales duplicados, sino como recorridos complementarios.
 
 ---
-
-## Cómo está organizado este repositorio
 
 ### 1. Ciencia de Datos con Python
 
@@ -91,7 +88,7 @@ Este recorrido está pensado para quienes quieren construir una base sólida en 
 
 ### 2. Machine Learning con Python
 
-Esta sección contiene cuadernos orientados a la introducción al aprendizaje automático con Python. El recorrido presupone cierta familiaridad previa con Pandas y análisis exploratorio de datos. A partir de esa base, avanza hacia la construcción, evaluación y comparación de modelos de machine learning.
+Esta sección contiene cuadernos orientados a la introducción al aprendizaje automático con Python. El recorrido presupone cierta familiaridad previa con Pandas y análisis exploratorio de datos. A partir de esa base, avanza hacia la construcción, evaluación y comparación de modelos de machine learning. Fueron escritos para acompañar las clases de un curso de Machine Learning en 2026.
 
 
 * [Introducción al Machine Learning: analizando el dataset](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno01_Analizando_el_dataset.ipynb) Este primer cuaderno presenta una aproximación inicial al trabajo con datasets en el contexto de machine learning. Se parte del análisis de los datos para comprender su estructura, sus variables y su posible utilidad para construir modelos.
@@ -123,9 +120,7 @@ Esta sección contiene cuadernos orientados a la introducción al aprendizaje au
 
 ### 3. Análisis de Datos con Python
 
-Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con datos usando Python. Incluye materiales sobre Pandas, NumPy, limpieza de datos, selección y filtrado, agrupamientos, visualización y análisis descriptivo.
-
-Este recorrido está pensado para quienes quieren aprender a manipular, explorar y presentar datos con herramientas habituales del ecosistema Python.
+Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con datos usando Python. Incluye materiales sobre Pandas, NumPy, limpieza de datos, selección y filtrado, agrupamientos, visualización y análisis descriptivo. Fueron escritos para acompañar las clases de un curso de Ciencias de Datos en 2025. Están pensadoa para quienes quieren aprender a manipular, explorar y presentar datos con herramientas habituales del ecosistema Python.
 
 #### Cuadernos disponibles:
 * [1 - Técnicas para limpiar datos con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase05/Clase05.ipynb)
@@ -184,9 +179,7 @@ La idea general del repositorio es ofrecer materiales reutilizables, adaptables 
 
 ## Uso de los cuadernos
 
-Los cuadernos están pensados para ser abiertos y ejecutados en Google Colab.
-
-Cada notebook puede leerse como material de estudio y también usarse como base para clases, prácticas guiadas o actividades de exploración.
+Los cuadernos están pensados para ser abiertos y ejecutados en Google Colab. Cada notebook puede leerse como material de estudio y también usarse como base para clases, prácticas guiadas o actividades de exploración.
 
 En muchos casos, los cuadernos combinan explicación conceptual, código Python, salidas comentadas y pequeñas interpretaciones de resultados.
 
