@@ -128,41 +128,29 @@ Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con da
 Este recorrido está pensado para quienes quieren aprender a manipular, explorar y presentar datos con herramientas habituales del ecosistema Python.
 
 #### Cuadernos disponibles:
-* [Técnicas para limpiar datos con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase05/Clase05.ipynb)
-
-* [Selecciones y filtros de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06.ipynb)  
-* [Actividad práctica: filtrar pasajeros sobrevivientes en el naufragio del Titanic](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06-Actividad-Practica.ipynb)
-
-* [Funciones de agregación y agrupamiento de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase07/Clase07.ipynb)
-* [Actividad práctica: usar `groupby()` de Pandas para segmentar el dataset](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase07/Clase07-Actividad-Practica.ipynb)
-
-* [Manejo de arrays en NumPy](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08.ipynb)
-* [Actividad práctica: integración de DataFrames](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08-Actividad-Practica.ipynb)
-
-* [Estadística descriptiva: análisis de tendencia central](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase09/Clase09_1.ipynb)
-* [Estadística descriptiva: análisis de dispersión](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase09/Clase09_2.ipynb)
-
-* [Introducción a la visualización de datos con Matplotlib](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase10/Clase10.ipynb)
-* [Actividad práctica: análisis exploratorio del conjunto de datos `diamonds`](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase10/Clase10-Actividad-Practica.ipynb)
-
-* [Análisis y cálculo de correlación con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11.ipynb)
-* [Introducción a gráficos con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11-Graficos-Seaborn.ipynb)
-* [Actividad práctica: análisis de correlación](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11-Actividad-practica.ipynb)
-
-* [Consolidación de datos: análisis de ventas y productos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase12/Clase12-Actividad-practica-1.ipynb)
-* [Consolidación de datos: análisis de asistencia y resultados en talleres de capacitación](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase12/Clase12-Actividad-practica-2.ipynb)
-
-* [Matplotlib: análisis de ventas a lo largo del tiempo con gráficos de líneas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-1-Matplotlib.ipynb)
-* [Matplotlib: análisis de ventas a lo largo del tiempo con gráficos de barras](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-2-Matplotlib.ipynb)
-* [Seaborn: análisis de ventas a lo largo del tiempo con gráficos de líneas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-1-Seaborn.ipynb)
-* [Seaborn: análisis de ventas a lo largo del tiempo con gráficos de barras](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-2-Seaborn.ipynb)
-
-* [Gráficos con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase14/Clase14.ipynb)
-
-* [Dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15.ipynb)
-  Este cuaderno debe ser visualizado en Google Colab.
-* [Actividad práctica: dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15-Actividad-practica.ipynb)
-
+* [1 - Técnicas para limpiar datos con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase05/Clase05.ipynb)
+* [2A - Selecciones y filtros de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06.ipynb)  
+* [2B - Actividad práctica: filtrar pasajeros sobrevivientes en el naufragio del Titanic](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06-Actividad-Practica.ipynb)
+* [3A - Funciones de agregación y agrupamiento de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase07/Clase07.ipynb)
+* [3B - Actividad práctica: usar `groupby()` de Pandas para segmentar el dataset](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase07/Clase07-Actividad-Practica.ipynb)
+* [4A - Manejo de arrays en NumPy](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08.ipynb)
+* [4B - Actividad práctica: integración de DataFrames](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08-Actividad-Practica.ipynb)
+* [5A - Estadística descriptiva: análisis de tendencia central](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase09/Clase09_1.ipynb)
+* [5B - Estadística descriptiva: análisis de dispersión](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase09/Clase09_2.ipynb)
+* [6A - Introducción a la visualización de datos con Matplotlib](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase10/Clase10.ipynb)
+* [6B - Actividad práctica: análisis exploratorio del conjunto de datos `diamonds`](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase10/Clase10-Actividad-Practica.ipynb)
+* [7A - Análisis y cálculo de correlación con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11.ipynb)
+* [7B - Introducción a gráficos con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11-Graficos-Seaborn.ipynb)
+* [7C - Actividad práctica: análisis de correlación](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11-Actividad-practica.ipynb)
+* [8A - Consolidación de datos: análisis de ventas y productos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase12/Clase12-Actividad-practica-1.ipynb)
+* [8B - Consolidación de datos: análisis de asistencia y resultados en talleres de capacitación](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase12/Clase12-Actividad-practica-2.ipynb)
+* [9A - Matplotlib: análisis de ventas a lo largo del tiempo con gráficos de líneas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-1-Matplotlib.ipynb)
+* [9B - Matplotlib: análisis de ventas a lo largo del tiempo con gráficos de barras](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-2-Matplotlib.ipynb)
+* [9C - Seaborn: análisis de ventas a lo largo del tiempo con gráficos de líneas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-1-Seaborn.ipynb)
+* [9D - Seaborn: análisis de ventas a lo largo del tiempo con gráficos de barras](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-2-Seaborn.ipynb)
+* [10 - Gráficos con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase14/Clase14.ipynb)
+* [11 - Dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15.ipynb) Este cuaderno debe ser visualizado en Google Colab.
+* [12 - Actividad práctica: dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15-Actividad-practica.ipynb)
 
 [Ver carpeta: Análisis de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/An%C3%A1lisis%20de%20Datos%20con%20Python#readme)
 
