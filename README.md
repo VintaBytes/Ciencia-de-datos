@@ -9,7 +9,9 @@ Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para apr
 * [2. Ciencia de Datos con Python](#2-ciencia-de-datos-con-python)
 * [3. Machine Learning con Python](#3-machine-learning-con-python)
 * [¿Qué recorrido elegir?](#qué-recorrido-elegir)
-
+* [Sobre las posibles superposiciones](#sobre-las-posibles-superposiciones)
+* [Uso de los cuadernos](#uso-de-los-cuadernos)
+* [Autor](#autor)
 
 El material está organizado en distintos recorridos formativos. Algunos contenidos pueden superponerse parcialmente, especialmente en temas como Pandas, visualización de datos o preparación de datasets, pero cada carpeta responde a un objetivo didáctico diferente. Por eso, las secciones no deben leerse como materiales duplicados, sino como recorridos complementarios.
 
@@ -66,6 +68,8 @@ Entre otros temas, encontrarás:
 - Limpieza y validación de datos
 - Construcción progresiva de un flujo de trabajo con Pandas
 
+[Volver al principio](#ciencia-de-datos-con-python)
+
 ---
 
 ### 3. Machine Learning con Python
@@ -94,6 +98,8 @@ Entre otros temas, encontrarás:
 - Búsqueda de hiperparámetros con GridSearchCV
 - Comparación y evaluación de modelos
 
+[Volver al principio](#ciencia-de-datos-con-python)
+
 ---
 
 ## Qué recorrido elegir
@@ -103,6 +109,8 @@ Si estás empezando desde cero con Pandas y querés un recorrido gradual, convie
 Si ya conocés algo de Python y querés practicar análisis exploratorio, limpieza y visualización de datos, podés entrar por **[Análisis de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/An%C3%A1lisis%20de%20Datos%20con%20Python#readme)**.
 
 Si ya tenés una base de trabajo con datos y querés avanzar hacia modelos predictivos, el recorrido natural es **[Machine Learning con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/Machine%20Learning%20con%20Python#readme)**.
+
+[Volver al principio](#ciencia-de-datos-con-python)
 
 ---
 
@@ -114,6 +122,8 @@ Por ejemplo, Pandas puede aparecer en un curso de análisis de datos, en una int
 
 La idea general del repositorio es ofrecer materiales reutilizables, adaptables y complementarios para distintos momentos de aprendizaje.
 
+[Volver al principio](#ciencia-de-datos-con-python)
+
 ---
 
 ## Uso de los cuadernos
@@ -124,8 +134,12 @@ Cada notebook puede leerse como material de estudio y también usarse como base 
 
 En muchos casos, los cuadernos combinan explicación conceptual, código Python, salidas comentadas y pequeñas interpretaciones de resultados.
 
+[Volver al principio](#ciencia-de-datos-con-python)
+
 ---
 
 ## Autor
 
 Material desarrollado por **VintaBytes** como parte de distintos recorridos formativos vinculados con programación, análisis de datos, ciencia de datos y machine learning con Python.
+
+[Volver al principio](#ciencia-de-datos-con-python)
