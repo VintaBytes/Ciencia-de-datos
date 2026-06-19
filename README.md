@@ -5,9 +5,9 @@
 
 Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para aprender y enseñar programación, análisis de datos, ciencia de datos y machine learning con Python.
 
-* [1. Análisis de Datos con Python](#1-análisis-de-datos-con-python)
-* [2. Ciencia de Datos con Python](#2-ciencia-de-datos-con-python)
-* [3. Machine Learning con Python](#3-machine-learning-con-python)
+* [1. Ciencia de Datos con Python](#1-ciencia-de-datos-con-python)
+* [2. Machine Learning con Python](#2-machine-learning-con-python)
+* [3. Análisis de Datos con Python](#3-análisis-de-datos-con-python)
 * [¿Qué recorrido elegir?](#qué-recorrido-elegir)
 * [Sobre las posibles superposiciones](#sobre-las-posibles-superposiciones)
 * [Uso de los cuadernos](#uso-de-los-cuadernos)
@@ -19,18 +19,68 @@ El material está organizado en distintos recorridos formativos. Algunos conteni
 
 ## Cómo está organizado este repositorio
 
-### 1. Análisis de Datos con Python
+### 1. Ciencia de Datos con Python
 
-Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con datos usando Python.
+Esta sección contiene una serie de capítulos en formato cuaderno Colab, pensada como un material progresivo y autocontenido.
 
-Incluye materiales sobre Pandas, NumPy, limpieza de datos, selección y filtrado, agrupamientos, visualización y análisis descriptivo.
+El enfoque es más narrativo y guiado, similar a un libro práctico. Parte desde los primeros contactos con un `DataFrame` y avanza gradualmente por inspección, selección, filtros, ordenamiento, limpieza y preparación de datos.
+
+[Ver carpeta: Ciencia De Datos Con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/Ciencia%20De%20Datos%20Con%20Python)
+
+Este recorrido está pensado para quienes quieren construir una base sólida en el trabajo con datos usando Python y Pandas, avanzando paso a paso desde conceptos iniciales hacia tareas cada vez más completas.
+
+Entre otros temas, encontrarás:
+
+- Primer contacto con datos tabulares
+- Creación e inspección de `DataFrame`
+- Selección de columnas y filas
+- Uso de índices
+- Filtros con condiciones
+- Combinación de condiciones
+- Ordenamiento de datos
+- Preparación inicial de datasets
+- Limpieza y validación de datos
+- Construcción progresiva de un flujo de trabajo con Pandas
+
+[Volver al principio](#ciencia-de-datos-con-python)
+
+---
+
+### 2. Machine Learning con Python
+
+Esta sección contiene cuadernos orientados a la introducción al aprendizaje automático con Python.
+
+El recorrido presupone cierta familiaridad previa con Pandas y análisis exploratorio de datos. A partir de esa base, avanza hacia la construcción, evaluación y comparación de modelos de machine learning.
+
+[Ver carpeta: Machine Learning con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/Machine%20Learning%20con%20Python#readme)
+
+Entre otros temas, encontrarás:
+
+- Introducción al machine learning
+- Repaso de Pandas, Matplotlib, Seaborn y Plotly
+- Preparación y transformación de datos
+- División de datos en entrenamiento y prueba
+- Validación cruzada
+- Regresión lineal
+- Regresión logística
+- Evaluación de clasificadores
+- Clasificación con KNN
+- Árboles de decisión
+- Random Forest
+- Aprendizaje no supervisado y clustering
+- Automatización del flujo de trabajo con pipelines
+- Búsqueda de hiperparámetros con GridSearchCV
+- Comparación y evaluación de modelos
+
+[Volver al principio](#ciencia-de-datos-con-python)
+
+---
+
+### 3. Análisis de Datos con Python
+
+Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con datos usando Python. Incluye materiales sobre Pandas, NumPy, limpieza de datos, selección y filtrado, agrupamientos, visualización y análisis descriptivo.
 
 Este recorrido está pensado para quienes quieren aprender a manipular, explorar y presentar datos con herramientas habituales del ecosistema Python.
-
-[Ver carpeta: Análisis de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/An%C3%A1lisis%20de%20Datos%20con%20Python#readme)
-
-
-
 
 #### Cuadernos disponibles:
 * [Técnicas para limpiar datos con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase05/Clase05.ipynb)
@@ -67,64 +117,9 @@ Este recorrido está pensado para quienes quieren aprender a manipular, explorar
 * [Dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15.ipynb)
   Este cuaderno debe ser visualizado en Google Colab.
 * [Actividad práctica: dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15-Actividad-practica.ipynb)
+* 
 
-
-[Volver al principio](#ciencia-de-datos-con-python)
-
----
-
-### 2. Ciencia de Datos con Python
-
-Esta sección contiene una serie de capítulos en formato cuaderno Colab, pensada como un material progresivo y autocontenido.
-
-El enfoque es más narrativo y guiado, similar a un libro práctico. Parte desde los primeros contactos con un `DataFrame` y avanza gradualmente por inspección, selección, filtros, ordenamiento, limpieza y preparación de datos.
-
-[Ver carpeta: Ciencia De Datos Con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/Ciencia%20De%20Datos%20Con%20Python)
-
-Este recorrido está pensado para quienes quieren construir una base sólida en el trabajo con datos usando Python y Pandas, avanzando paso a paso desde conceptos iniciales hacia tareas cada vez más completas.
-
-Entre otros temas, encontrarás:
-
-- Primer contacto con datos tabulares
-- Creación e inspección de `DataFrame`
-- Selección de columnas y filas
-- Uso de índices
-- Filtros con condiciones
-- Combinación de condiciones
-- Ordenamiento de datos
-- Preparación inicial de datasets
-- Limpieza y validación de datos
-- Construcción progresiva de un flujo de trabajo con Pandas
-
-[Volver al principio](#ciencia-de-datos-con-python)
-
----
-
-### 3. Machine Learning con Python
-
-Esta sección contiene cuadernos orientados a la introducción al aprendizaje automático con Python.
-
-El recorrido presupone cierta familiaridad previa con Pandas y análisis exploratorio de datos. A partir de esa base, avanza hacia la construcción, evaluación y comparación de modelos de machine learning.
-
-[Ver carpeta: Machine Learning con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/Machine%20Learning%20con%20Python#readme)
-
-Entre otros temas, encontrarás:
-
-- Introducción al machine learning
-- Repaso de Pandas, Matplotlib, Seaborn y Plotly
-- Preparación y transformación de datos
-- División de datos en entrenamiento y prueba
-- Validación cruzada
-- Regresión lineal
-- Regresión logística
-- Evaluación de clasificadores
-- Clasificación con KNN
-- Árboles de decisión
-- Random Forest
-- Aprendizaje no supervisado y clustering
-- Automatización del flujo de trabajo con pipelines
-- Búsqueda de hiperparámetros con GridSearchCV
-- Comparación y evaluación de modelos
+[Ver carpeta: Análisis de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/An%C3%A1lisis%20de%20Datos%20con%20Python#readme)
 
 [Volver al principio](#ciencia-de-datos-con-python)
 
