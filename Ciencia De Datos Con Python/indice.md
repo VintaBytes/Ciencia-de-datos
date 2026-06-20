@@ -78,7 +78,7 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 ## Índice de capítulos
 
 ### Bloque 1: Resumir y agrupar datos
-* Capítulo 24 · Primeras preguntas de análisis
+* [Capítulo 24 · Primeras preguntas de análisis](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo024_Primeras_preguntas_de_an%C3%A1lisis.ipynb)
 * Capítulo 25 · Resumir columnas numéricas
 * Capítulo 26 · Contar valores y analizar frecuencias
 * Capítulo 27 · Primeras tablas de resumen
