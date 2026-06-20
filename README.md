@@ -163,11 +163,7 @@ Si ya tenés una base de trabajo con datos y querés avanzar hacia modelos predi
 
 ## Sobre las posibles superposiciones
 
-Algunos temas aparecen en más de una sección. Esto es intencional.
-
-Por ejemplo, Pandas puede aparecer en un curso de análisis de datos, en una introducción progresiva a ciencia de datos y también como repaso previo al trabajo con modelos de machine learning. En cada caso, el tema se aborda con una profundidad y una finalidad distinta.
-
-La idea general del repositorio es ofrecer materiales reutilizables, adaptables y complementarios para distintos momentos de aprendizaje.
+Algunos temas aparecen en más de una sección. Esto es intencional. Por ejemplo, Pandas puede aparecer en un curso de análisis de datos, en una introducción progresiva a ciencia de datos y también como repaso previo al trabajo con modelos de machine learning. En cada caso, el tema se aborda con una profundidad y una finalidad distinta. La idea general del repositorio es ofrecer materiales reutilizables, adaptables y complementarios para distintos momentos de aprendizaje.
 
 [Volver al principio](#ciencia-de-datos-con-python)
 
@@ -176,8 +172,7 @@ La idea general del repositorio es ofrecer materiales reutilizables, adaptables 
 ## Uso de los cuadernos
 
 Los cuadernos están pensados para ser abiertos y ejecutados en Google Colab. Cada notebook puede leerse como material de estudio y también usarse como base para clases, prácticas guiadas o actividades de exploración.
-
-En muchos casos, los cuadernos combinan explicación conceptual, código Python, salidas comentadas y pequeñas interpretaciones de resultados.
+En muchos casos, los cuadernos combinan explicación conceptual, código Python, salidas comentadas e interpretaciones de resultados.
 
 [Volver al principio](#ciencia-de-datos-con-python)
 
