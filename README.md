@@ -62,7 +62,7 @@ Este recorrido está pensado para quienes quieren construir una base sólida en 
 
 ##### Bloque 1: Resumir y agrupar datos
 * [Capítulo 24 · Primeras preguntas de análisis](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo024_Primeras_preguntas_de_an%C3%A1lisis.ipynb)
-* Capítulo 25 · Resumir columnas numéricas 
+* [Capítulo 25 · Resumir columnas numéricas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo025_Resumir_columnas_num%C3%A9ricas.ipynb)
 * Capítulo 26 · Contar valores y analizar frecuencias
 * Capítulo 27 · Primeras tablas de resumen
 * Capítulo 28 · Agrupar datos con groupby()
