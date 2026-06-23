@@ -81,7 +81,7 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 * [Capítulo 24 · Primeras preguntas de análisis](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo024_Primeras_preguntas_de_an%C3%A1lisis.ipynb)
 * [Capítulo 25 · Resumir columnas numéricas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo025_Resumir_columnas_num%C3%A9ricas.ipynb)
 * [Capítulo 26 · Contar valores y analizar frecuencias](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo026_Contar_valores_y_analizar_frecuencias.ipynb)
-* Capítulo 27 · Primeras tablas de resumen
+* [Capítulo 27 · Primeras tablas de resumen](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo027_Primeras_tablas_de_resumen.ipynb)
 * Capítulo 28 · Agrupar datos con groupby()
 * Capítulo 29 · Agrupar por más de una variable
 * Capítulo 30 · Comparar categorías
