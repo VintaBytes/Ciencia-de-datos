@@ -74,7 +74,7 @@ Este recorrido está pensado para quienes quieren construir una base sólida en 
 * [Capítulo 27 · Primeras tablas de resumen](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo027_Primeras_tablas_de_resumen.ipynb)
 * [Capítulo 28 · Agrupar datos con groupby()](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo028_Agrupar_datos_con_groupby().ipynb)
 * [Capítulo 29 · Agrupaciones múltiples y varios indicadores con groupby()](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo029_Agrupaciones_m%C3%BAltiples_y_varios_indicadores_con_groupby().ipynb)
-* Capítulo 30 · Comparar categorías
+* [Capítulo 30 · Comparar categorías](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo030_Comparar_categor%C3%ADas.ipynb)
 * Capítulo 31 · Ordenar rankings y detectar extremos
 * Capítulo 32 · Tablas dinámicas con pivot_table()
 
