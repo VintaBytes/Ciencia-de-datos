@@ -15,7 +15,7 @@ Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para apr
   <a href="CienciaDeDatosConPython/README.md">
     <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada1.png" alt="Ciencia de Datos con Python - Vol 1">
   </a>
-  <a href="CienciaDeDatosConPython/README1.md">
+  <a href="CienciaDeDatosConPython/README2.md">
     <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada2.png" alt="Ciencia de Datos con Python - Vol 2">
   </a>
   
