@@ -8,6 +8,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
 
 ----
+
 <center>
   <img src="https://github.com/VintaBytes/VintaBytes.github.io/blob/main/images/portada1.png"></img>
 </center>
