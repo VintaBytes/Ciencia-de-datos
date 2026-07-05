@@ -13,18 +13,32 @@
 
 Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para aprender y enseñar programación, análisis de datos, ciencia de datos y machine learning con Python.
 
-<p align="center">
-  <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/readme.md">
-    <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada1.png" alt="Ciencia de Datos con Python - Vol 1">
-  </a>
-  <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README2.md">
-    <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada2.png" alt="Ciencia de Datos con Python - Vol 2">
-  </a>
-  
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/readme.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada1.png" alt="Ciencia de Datos con Python - Vol 1">
+      </a>
+      <br>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/readme.md">Volumen I</a></strong>
+      <br>
+      Primeros pasos con datos
+    </td>
+  <td align="center">
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README2.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada2.png" alt="Ciencia de Datos con Python - Vol 2">
+      </a>
+      <br>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README2.md">Volumen II</a></strong>
+      <br>
+      Análisis exploratorio
+    </td>
+  </tr>
+</table>
 
-* [2. Machine Learning con Python](#2-machine-learning-con-python)
-* [3. Análisis de Datos con Python](#3-análisis-de-datos-con-python)
+
+* [Machine Learning con Python](#machine-learning-con-python)
+* [Análisis de Datos con Python](#análisis-de-datos-con-python)
 * [¿Qué recorrido elegir?](#qué-recorrido-elegir)
 * [Sobre las posibles superposiciones](#sobre-las-posibles-superposiciones)
 * [Uso de los cuadernos](#uso-de-los-cuadernos)
@@ -34,7 +48,7 @@ El material está organizado en distintos recorridos formativos. Algunos conteni
 
 ---
 
-### 2. Machine Learning con Python
+### Machine Learning con Python
 
 Esta sección contiene cuadernos orientados a la introducción al aprendizaje automático con Python. El recorrido presupone cierta familiaridad previa con Pandas y análisis exploratorio de datos. A partir de esa base, avanza hacia la construcción, evaluación y comparación de modelos de machine learning. Fueron escritos para acompañar las clases de un curso de Machine Learning en 2026.
 
@@ -62,7 +76,7 @@ Esta sección contiene cuadernos orientados a la introducción al aprendizaje au
 
 ---
 
-### 3. Análisis de Datos con Python
+### Análisis de Datos con Python
 
 Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con datos usando Python. Incluye materiales sobre Pandas, NumPy, limpieza de datos, selección y filtrado, agrupamientos, visualización y análisis descriptivo. Fueron escritos para acompañar las clases de un curso de Ciencias de Datos en 2025. Están pensadoa para quienes quieren aprender a manipular, explorar y presentar datos con herramientas habituales del ecosistema Python.
 
