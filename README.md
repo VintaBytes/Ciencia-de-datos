@@ -11,7 +11,16 @@
 
 Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para aprender y enseñar programación, análisis de datos, ciencia de datos y machine learning con Python.
 
-* [1. Ciencia de Datos con Python](#1-ciencia-de-datos-con-python)
+<p align="center">
+  <a href="CienciaDeDatosConPython/README.md">
+    <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada1.png" alt="Ciencia de Datos con Python - Vol 1">
+  </a>
+  <a href="CienciaDeDatosConPython/README1.md">
+    <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada2.png" alt="Ciencia de Datos con Python - Vol 2">
+  </a>
+  
+</p>
+
 * [2. Machine Learning con Python](#2-machine-learning-con-python)
 * [3. Análisis de Datos con Python](#3-análisis-de-datos-con-python)
 * [¿Qué recorrido elegir?](#qué-recorrido-elegir)
@@ -20,76 +29,6 @@ Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para apr
 * [Autor](#autor)
 
 El material está organizado en distintos recorridos formativos. Algunos contenidos pueden superponerse parcialmente, especialmente en temas como Pandas, visualización de datos o preparación de datasets, pero cada carpeta responde a un objetivo didáctico diferente. Por eso, las secciones no deben leerse como materiales duplicados, sino como recorridos complementarios.
-
----
-
-### 1. Ciencia de Datos con Python
-
-Esta sección contiene una serie de capítulos en formato cuaderno Colab, pensada como un material progresivo y autocontenido. **El enfoque es más narrativo y guiado, similar a un libro práctico**. Parte desde los primeros contactos con un `DataFrame` y avanza gradualmente por inspección, selección, filtros, ordenamiento, limpieza y preparación de datos.
-
-Este recorrido está pensado para quienes quieren construir una base sólida en el trabajo con datos usando Python y Pandas, avanzando paso a paso desde conceptos iniciales hacia tareas cada vez más completas.
-
-#### Parte I - Fundamentos de Pandas
-##### Primer contacto con datos y DataFrames
-
-* [Capítulo 001 · Primer contacto con el trabajo con datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo001_Primer_contacto_con_el_trabajo_con_datos.ipynb)
-* [Capítulo 002 · Primeras inspecciones de un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo002_Primeras_inspecciones_de_un_DataFrame.ipynb)
-
-##### Selección, filtros y ordenamiento
-
-* [Capítulo 003 · Selección de columnas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo003_Selecci%C3%B3n_de_columnas_en_un_DataFrame.ipynb)
-* [Capítulo 004 · Selección de filas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo004_Selecci%C3%B3n_de_filas_en_un_DataFrame.ipynb)
-* [Capítulo 005 · Selección con etiquetas usando `loc`](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo005_Selecci%C3%B3n_con_etiquetas_usando_loc.ipynb)
-* [Capítulo 006 · Filtros con condiciones](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo006_Filtros_con_condiciones.ipynb)
-* [Capítulo 007 · Combinar condiciones en filtros](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo007_Combinar_condiciones_en_filtros.ipynb)
-* [Capítulo 008 · Ordenar datos en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo008_Ordenar_datos_en_un_DataFrame.ipynb)
-* [Capítulo 009 · Valores extremos y primeros rankings](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo009_Valores_extremos_y_primeros_rankings.ipynb)
-
-##### Creación y organización de columnas
-
-* [Capítulo 010 · Crear nuevas columnas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo010_Crear_nuevas_columnas_en_un_DataFrame.ipynb)
-* [Capítulo 011 · Modificar columnas existentes en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo011_Modificar_columnas_existentes_en_un_DataFrame.ipynb)
-* [Capítulo 012 · Organizar columnas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo012_Organizar_columnas_en_un_DataFrame.ipynb)
-
-##### Limpieza de datos
-
-* [Capítulo 013 · Qué significa limpiar datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo013_Qu%C3%A9_significa_limpiar_datos.ipynb)
-* [Capítulo 014 · Valores faltantes](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo014_Valores_faltantes.ipynb)
-* [Capítulo 015 · Eliminar, imputar o reconstruir valores faltantes](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo015_Eliminar_imputar_o_reconstruir_valores_faltantes.ipynb)
-* [Capítulo 016 · Duplicados en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo016_Duplicados_en_un_DataFrame.ipynb)
-* [Capítulo 017 · Limpieza de textos y categorías](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo017_Limpieza_de_textos_y_categor%C3%ADas.ipynb)
-* [Capítulo 018 · Conversión de tipos de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo018_Conversi%C3%B3n_de_tipos_de_datos.ipynb)
-* [Capítulo 019 · Fechas y datos temporales](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo019_Fechas_y_datos_temporales.ipynb)
-* [Capítulo 020 · Estandarizar nombres y crear nuevas columnas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo020_Estandarizar_nombres_y_crear_nuevas_columnas.ipynb)
-* [Capítulo 021 · Limpieza encadenada paso a paso](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo021_Limpieza_encadenada_paso_a_paso.ipynb)
-* [Capítulo 022 · Validación posterior a la limpieza](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo022_Validaci%C3%B3n_posterior_a_la_limpieza.ipynb)
-* [Capítulo 023 · Del primer DataFrame al dataset preparado](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo023_Del_primer_DataFrame_al_dataset_preparado.ipynb)
-
-#### Parte II - Análisis exploratorio y resumen de datos
-
-##### Bloque 1: Resumir y agrupar datos
-* [Capítulo 24 · Primeras preguntas de análisis](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo024_Primeras_preguntas_de_an%C3%A1lisis.ipynb)
-* [Capítulo 25 · Resumir columnas numéricas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo025_Resumir_columnas_num%C3%A9ricas.ipynb)
-* [Capítulo 26 · Contar valores y analizar frecuencias](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo026_Contar_valores_y_analizar_frecuencias.ipynb)
-* [Capítulo 27 · Primeras tablas de resumen](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo027_Primeras_tablas_de_resumen.ipynb)
-* [Capítulo 28 · Agrupar datos con groupby()](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo028_Agrupar_datos_con_groupby().ipynb)
-* [Capítulo 29 · Agrupaciones múltiples y varios indicadores con groupby()](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo029_Agrupaciones_m%C3%BAltiples_y_varios_indicadores_con_groupby().ipynb)
-* [Capítulo 30 · Comparar categorías](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo030_Comparar_categor%C3%ADas.ipynb)
-* [Capítulo 31 · Rankings, valores extremos y outliers](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo031_Rankings_Valores_extremos_y_outliers.ipynb)
-* Capítulo 32 · Tablas dinámicas con pivot_table()
-
-##### Bloque 2: Visualizar e interpretar resultados
-
-* Capítulo 33 · Análisis temporal básico
-* Capítulo 34 · Visualizar distribuciones
-* Capítulo 35 · Visualizar comparaciones
-* Capítulo 36 · Del cálculo al hallazgo
-* Capítulo 37 · Mini análisis exploratorio completo
-
-
-[Ver carpeta: Ciencia De Datos Con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/Ciencia%20De%20Datos%20Con%20Python)
-
-[Volver al principio](#ciencia-de-datos-con-python)
 
 ---
 
