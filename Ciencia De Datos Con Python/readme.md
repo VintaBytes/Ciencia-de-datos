@@ -1,4 +1,4 @@
-# Ciencia de Datos con Python
+# Ciencia de Datos con Python - Vol I
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python\&logoColor=blue)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab\&logoColor=white)
@@ -8,88 +8,116 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
 
 ----
-**EN LOS ÚLTIMOS DIAS HAY MOMENTOS EN LOS QUE GITHUB TIENE PROBLEMAS PARA RENDERIZAR LOS CUADERNOS COLAB. SIN EMBARGO, LOS MISMOS ESTÁN CORRECTOS Y PUEDES USARLOS NORMALMENTE EN GOOGLE COLAB.**
+<center>
+  <img src="https://github.com/VintaBytes/VintaBytes.github.io/blob/main/images/portada1.png"></img>
+</center>
 
-----
+Este directorio reúne una serie de cuadernos de Google Colab orientados al aprendizaje progresivo del trabajo con datos usando **Python** y **Pandas**, correspondientes al PDF **[Ciencia de Datos con Python - Vol I](https://drive.google.com/file/d/1a4udSL7svFQUgukpKiqX_eAU3WDCaojL/view?usp=drive_link)**.
 
-Este directorio reúne una serie de cuadernos de Google Colab orientados al aprendizaje progresivo del trabajo con datos usando **Python** y **Pandas**.
-
-El proyecto está pensado como un material de estudio autónomo, con un enfoque gradual y explicativo. La serie comienza con los primeros contactos con un `DataFrame` y avanza paso a paso hacia tareas habituales del trabajo con datos: inspección, selección, filtros, ordenamiento, transformación, limpieza y validación.
-
-[Ir al índice general de capítulos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/indice.md)
+[Ir al índice Cuadernos Colab](#listado-de-cuadernos-colab)
 
 ---
 
-## Objetivo del proyecto
+# Introducción
 
-El objetivo principal es acompañar a estudiantes, desarrolladores y personas interesadas en ciencia de datos en sus primeros pasos con el análisis de datos usando Python.
+Trabajar con datos se volvió una habilidad cada vez más necesaria en contextos muy distintos: educación, investigación, administración, comunicación, comercio, tecnología, salud, gestión pública y muchas otras áreas. En todos esos casos aparecen tablas, registros, archivos, planillas o bases de datos que necesitan ser explorados, ordenados, limpiados e interpretados para poder transformarse en información útil.
 
-El material no busca presentar comandos aislados, sino construir una forma de trabajo: observar los datos, hacer preguntas, seleccionar información relevante, transformar estructuras, limpiar inconsistencias y validar los resultados obtenidos.
+Este libro propone una introducción práctica al trabajo con datos usando Python. No parte de la idea de que analizar datos sea simplemente aplicar comandos, sino de una mirada más amplia: antes de calcular, graficar o construir modelos, necesitamos entender qué tenemos delante, cómo está organizado un dataset, qué preguntas podemos hacerle y qué problemas pueden aparecer en los datos reales.
 
----
+El contenido de este libro proviene de una serie de cuadernos de trabajo preparados para Google Colab. En esta versión en PDF, esos cuadernos se presentan en formato de texto, para facilitar la lectura continua, la consulta y el estudio. Sin embargo, la experiencia más completa se obtiene al trabajar también con los cuadernos originales en línea: allí es posible ejecutar el código, modificarlo, observar los resultados y experimentar con los ejemplos.
 
-## Enfoque didáctico
+Los cuadernos están disponibles de forma gratuita en un repositorio de GitHub. Si el lector lo desea, puede acceder a ellos desde allí, abrirlos en Google Colab y usarlos como material práctico complementario al libro. Esta forma de trabajo es especialmente recomendable, porque en programación y análisis de datos se aprende mucho al probar, equivocarse, corregir y volver a ejecutar.
 
-Los cuadernos están escritos con una lógica narrativa y progresiva. Cada capítulo desarrolla un tema puntual y lo conecta con lo trabajado anteriormente.
+## Qué vas a encontrar en este tomo
 
-El código se presenta como una herramienta para resolver problemas concretos, acompañado por explicaciones conceptuales, salidas comentadas e interpretaciones breves. La intención es que el lector comprenda no solo cómo usar Pandas, sino también por qué cada operación puede ser necesaria dentro de un proceso de análisis.
+Este primer tomo se concentra en los fundamentos del trabajo con datos tabulares en Python. A lo largo de los capítulos se introducen conceptos esenciales como dataset, DataFrame, filas, columnas, variables, observaciones, tipos de datos y valores. Luego se avanza hacia las primeras operaciones de inspección, selección, filtrado, ordenamiento y creación de columnas.
 
----
+Una parte importante del recorrido está dedicada a la limpieza y preparación de datos. En los datasets reales es frecuente encontrar valores faltantes, duplicados, textos escritos de distintas maneras, tipos de datos incorrectos, fechas mal interpretadas o columnas que necesitan ser reorganizadas. Por eso, el libro no se limita a mostrar instrucciones aisladas: también propone criterios para diagnosticar problemas, decidir estrategias de limpieza y verificar los resultados obtenidos.
 
-## Contenido general
+Hacia el final del tomo, el objetivo es que el lector pueda pasar de una primera tabla cargada en Python a un dataset más ordenado, comprensible y preparado para etapas posteriores de análisis.
 
-Hasta el momento, la serie desarrolla una primera etapa centrada en el trabajo con `DataFrames` y la preparación de datos.
+## Requisitos previos
 
-Entre los temas abordados se incluyen:
+Para aprovechar este libro no es necesario tener experiencia previa en ciencia de datos, estadística avanzada o machine learning. Sí conviene contar con una base inicial de programación en Python, especialmente:
 
-* primeros contactos con datos tabulares;
-* creación e inspección de `DataFrames`;
-* selección de columnas y filas;
-* uso de índices, `loc` e `iloc`;
-* filtros con condiciones;
-* combinación de condiciones;
-* ordenamiento de datos;
-* creación y modificación de columnas;
-* limpieza de datos;
-* tratamiento de valores faltantes;
-* detección de duplicados;
-* limpieza de textos y categorías;
-* conversión de tipos de datos;
-* trabajo con fechas;
-* validación posterior a la limpieza.
+- uso de variables;
+- llamadas a funciones;
+- lectura de resultados en pantalla;
+- listas y diccionarios a nivel introductorio;
+- nociones básicas de condicionales y ciclos;
+- familiaridad general con notebooks o disposición para aprender a usarlos.
 
-La etapa inicial culmina con un capítulo de cierre que recupera el recorrido realizado: desde el primer contacto con un `DataFrame` hasta la construcción de un dataset preparado.
+También resulta útil tener una idea general de qué es una tabla de datos, una fila, una columna o una planilla, aunque estos conceptos se retoman desde el comienzo.
 
----
+El libro utiliza principalmente Python, Pandas y Google Colab. No hace falta instalar un entorno de desarrollo local para seguir los capítulos, ya que los cuadernos pueden ejecutarse desde el navegador a partir de los archivos disponibles en el repositorio.
 
-## Estado actual
+## A quién está dirigido
 
-Esta serie está en desarrollo.
+Este material está pensado para cualquier persona que necesite empezar a trabajar con datos usando Python. Puede ser útil para estudiantes, docentes, profesionales, analistas, personas que trabajan con planillas, programadores que quieren acercarse al análisis de datos o lectores que se preparan para estudiar ciencia de datos, visualización, inteligencia artificial o machine learning.
 
-Los capítulos publicados pueden consultarse desde el índice general. A medida que el recorrido avance, se incorporarán nuevos cuadernos vinculados con análisis, agrupamientos, indicadores, visualización e interpretación de resultados.
+El enfoque es introductorio, pero no superficial. Se busca construir una base sólida, con explicaciones claras y ejemplos progresivos, evitando saltar demasiado rápido a herramientas más complejas sin haber desarrollado antes los criterios necesarios para entender y preparar los datos.
 
----
+## Cómo trabajar con este libro y los cuadernos
 
-## Requisitos
+Cada capítulo puede leerse directamente [en este PDF](https://drive.google.com/file/d/1a4udSL7svFQUgukpKiqX_eAU3WDCaojL/view?usp=drive_link), pero fue pensado originalmente como un cuaderno ejecutable. Por eso, la recomendación es acompañar la lectura con la versión online del cuaderno correspondiente siempre que sea posible.
 
-Los cuadernos están pensados para ejecutarse en **Google Colab**.
+En los cuadernos de Google Colab, conviene no limitarse a mirar el código: es preferible ejecutar cada celda, observar la salida, comparar resultados y probar pequeñas modificaciones. En análisis de datos, muchas veces la comprensión aparece al mirar con atención qué devuelve cada instrucción y cómo cambia el DataFrame después de cada operación.
 
-Las herramientas principales utilizadas son:
+También es importante leer las explicaciones que acompañan al código. En varios momentos, el foco no está solamente en aprender una instrucción de Pandas, sino en entender por qué se usa, qué pregunta ayuda a responder y qué precauciones conviene tener al interpretar el resultado.
 
-* Python
-* Pandas
-* NumPy
-* KaggleHub, para descargar algunos datasets desde Kaggle
+Los capítulos fueron diseñados como una secuencia progresiva. Algunos conceptos aparecen primero de manera simple y luego se retoman en situaciones más complejas. Esa repetición controlada forma parte del aprendizaje: permite afianzar herramientas, reconocer patrones y ganar autonomía. El PDF puede servir como guía de lectura y consulta; los cuadernos online, como espacio de práctica, exploración y experimentación.
 
-Más adelante pueden incorporarse otras bibliotecas del ecosistema de ciencia de datos, especialmente para visualización y análisis exploratorio.
+## Enfoque del libro
+
+El objetivo principal de este tomo es desarrollar una primera alfabetización práctica en datos con Python. Esto implica aprender instrucciones, pero también aprender a mirar un dataset, hacer preguntas, detectar problemas, justificar decisiones y verificar cambios.
+
+A lo largo del recorrido se priorizan tres ideas:
+
+- comprender antes de transformar;
+- trabajar paso a paso, verificando cada resultado;
+- preparar datos de manera cuidadosa antes de avanzar hacia análisis más complejos.
+
+Con esa base, el lector queda mejor preparado para continuar con temas como análisis exploratorio, visualización, agrupaciones, conclusiones a partir de datos y, más adelante, machine learning.
 
 ---
 
-## Uso del material
+## Listado de Cuadernos Colab
 
-Cada cuaderno puede leerse de forma independiente, pero se recomienda recorrer la serie en orden, especialmente durante los primeros capítulos.
+### Primer contacto con datos y DataFrames
 
-El material puede utilizarse como guía de estudio personal, apoyo para cursos introductorios, base para clases prácticas o material complementario para quienes estén comenzando a trabajar con datos en Python.
+* [Capítulo 001 · Primer contacto con el trabajo con datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo001_Primer_contacto_con_el_trabajo_con_datos.ipynb)
+* [Capítulo 002 · Primeras inspecciones de un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo002_Primeras_inspecciones_de_un_DataFrame.ipynb)
+
+### Selección, filtros y ordenamiento
+
+* [Capítulo 003 · Selección de columnas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo003_Selecci%C3%B3n_de_columnas_en_un_DataFrame.ipynb)
+* [Capítulo 004 · Selección de filas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo004_Selecci%C3%B3n_de_filas_en_un_DataFrame.ipynb)
+* [Capítulo 005 · Selección con etiquetas usando `loc`](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo005_Selecci%C3%B3n_con_etiquetas_usando_loc.ipynb)
+* [Capítulo 006 · Filtros con condiciones](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo006_Filtros_con_condiciones.ipynb)
+* [Capítulo 007 · Combinar condiciones en filtros](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo007_Combinar_condiciones_en_filtros.ipynb)
+* [Capítulo 008 · Ordenar datos en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo008_Ordenar_datos_en_un_DataFrame.ipynb)
+* [Capítulo 009 · Valores extremos y primeros rankings](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo009_Valores_extremos_y_primeros_rankings.ipynb)
+
+### Creación y organización de columnas
+
+* [Capítulo 010 · Crear nuevas columnas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo010_Crear_nuevas_columnas_en_un_DataFrame.ipynb)
+* [Capítulo 011 · Modificar columnas existentes en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo011_Modificar_columnas_existentes_en_un_DataFrame.ipynb)
+* [Capítulo 012 · Organizar columnas en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo012_Organizar_columnas_en_un_DataFrame.ipynb)
+
+### Limpieza de datos
+
+* [Capítulo 013 · Qué significa limpiar datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo013_Qu%C3%A9_significa_limpiar_datos.ipynb)
+* [Capítulo 014 · Valores faltantes](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo014_Valores_faltantes.ipynb)
+* [Capítulo 015 · Eliminar, imputar o reconstruir valores faltantes](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo015_Eliminar_imputar_o_reconstruir_valores_faltantes.ipynb)
+* [Capítulo 016 · Duplicados en un DataFrame](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo016_Duplicados_en_un_DataFrame.ipynb)
+* [Capítulo 017 · Limpieza de textos y categorías](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo017_Limpieza_de_textos_y_categor%C3%ADas.ipynb)
+* [Capítulo 018 · Conversión de tipos de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo018_Conversi%C3%B3n_de_tipos_de_datos.ipynb)
+* [Capítulo 019 · Fechas y datos temporales](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo019_Fechas_y_datos_temporales.ipynb)
+* [Capítulo 020 · Estandarizar nombres y crear nuevas columnas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo020_Estandarizar_nombres_y_crear_nuevas_columnas.ipynb)
+* [Capítulo 021 · Limpieza encadenada paso a paso](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo021_Limpieza_encadenada_paso_a_paso.ipynb)
+* [Capítulo 022 · Validación posterior a la limpieza](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo022_Validaci%C3%B3n_posterior_a_la_limpieza.ipynb)
+* [Capítulo 023 · Del primer DataFrame al dataset preparado](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/CuadernosColab/CienciaDeDatos_Cap%C3%ADtulo023_Del_primer_DataFrame_al_dataset_preparado.ipynb)
+
 
 ---
 
