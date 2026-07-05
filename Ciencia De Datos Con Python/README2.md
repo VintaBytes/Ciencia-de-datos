@@ -12,9 +12,20 @@
 
 ----
 
-<p align="center">
-  <img src="https://github.com/VintaBytes/VintaBytes.github.io/blob/main/images/portada2.png"></img>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1a4udSL7svFQUgukpKiqX_eAU3WDCaojL/view?usp=drive_link">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/blob/main/images/portada2.png" alt="Ciencia de Datos con Python - Vol 2">
+      </a>
+      <br>
+      <strong><a href="https://drive.google.com/file/d/1zC0sUpQ28Chfxj_MJCXJ-yc1a2pP7VFI/view?usp=drive_link">PDF Volumen II</a></strong>
+      <br>
+      Primeros pasos con datos
+    </td>
+  </tr>
+</table>
+
 
 Este directorio reúne una serie de cuadernos de Google Colab orientados al aprendizaje progresivo del trabajo con datos usando **Python** y **Pandas**, correspondientes al PDF **[Ciencia de Datos con Python - Vol II](https://drive.google.com/file/d/1zC0sUpQ28Chfxj_MJCXJ-yc1a2pP7VFI/view?usp=drive_link)**.
 
