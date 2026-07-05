@@ -14,7 +14,7 @@
 
 Este directorio reúne una serie de cuadernos de Google Colab orientados al aprendizaje progresivo del trabajo con datos usando **Python** y **Pandas**, correspondientes al PDF **[Ciencia de Datos con Python - Vol I](https://drive.google.com/file/d/1a4udSL7svFQUgukpKiqX_eAU3WDCaojL/view?usp=drive_link)**.
 
-[Ir al índice Cuadernos Colab](#listado-de-cuadernos-colab)
+[Ir al índice de Cuadernos Colab](#listado-de-cuadernos-colab)
 
 ---
 
@@ -24,9 +24,9 @@ Trabajar con datos se volvió una habilidad cada vez más necesaria en contextos
 
 Este libro propone una introducción práctica al trabajo con datos usando Python. No parte de la idea de que analizar datos sea simplemente aplicar comandos, sino de una mirada más amplia: antes de calcular, graficar o construir modelos, necesitamos entender qué tenemos delante, cómo está organizado un dataset, qué preguntas podemos hacerle y qué problemas pueden aparecer en los datos reales.
 
-El contenido de este libro proviene de una serie de cuadernos de trabajo preparados para Google Colab. En esta versión en PDF, esos cuadernos se presentan en formato de texto, para facilitar la lectura continua, la consulta y el estudio. Sin embargo, la experiencia más completa se obtiene al trabajar también con los cuadernos originales en línea: allí es posible ejecutar el código, modificarlo, observar los resultados y experimentar con los ejemplos.
+El contenido proviene de una serie de cuadernos de trabajo preparados para Google Colab. En la [versión en PDF](https://drive.google.com/file/d/1a4udSL7svFQUgukpKiqX_eAU3WDCaojL/view?usp=drive_link), esos cuadernos se presentan en formato de texto, para facilitar la lectura continua, la consulta y el estudio. Sin embargo, la experiencia más completa se obtiene al trabajar también con los cuadernos originales en línea: allí es posible ejecutar el código, modificarlo, observar los resultados y experimentar con los ejemplos.
 
-Los cuadernos están disponibles de forma gratuita en un repositorio de GitHub. Si el lector lo desea, puede acceder a ellos desde allí, abrirlos en Google Colab y usarlos como material práctico complementario al libro. Esta forma de trabajo es especialmente recomendable, porque en programación y análisis de datos se aprende mucho al probar, equivocarse, corregir y volver a ejecutar.
+Los cuadernos están disponibles de forma gratuita en este mismo repositorio. El lector puede acceder a ellos, abrirlos en Google Colab y usarlos como material práctico complementario al libro. Esta forma de trabajo es especialmente recomendable, porque en programación y análisis de datos se aprende mucho al probar, equivocarse, corregir y volver a ejecutar.
 
 ## Qué vas a encontrar en este tomo
 
@@ -38,7 +38,7 @@ Hacia el final del tomo, el objetivo es que el lector pueda pasar de una primera
 
 ## Requisitos previos
 
-Para aprovechar este libro no es necesario tener experiencia previa en ciencia de datos, estadística avanzada o machine learning. Sí conviene contar con una base inicial de programación en Python, especialmente:
+Para aprovechar este contenido no es necesario tener experiencia previa en ciencia de datos, estadística avanzada o machine learning. Sí conviene contar con una base inicial de programación en Python, especialmente:
 
 - uso de variables;
 - llamadas a funciones;
@@ -49,7 +49,7 @@ Para aprovechar este libro no es necesario tener experiencia previa en ciencia d
 
 También resulta útil tener una idea general de qué es una tabla de datos, una fila, una columna o una planilla, aunque estos conceptos se retoman desde el comienzo.
 
-El libro utiliza principalmente Python, Pandas y Google Colab. No hace falta instalar un entorno de desarrollo local para seguir los capítulos, ya que los cuadernos pueden ejecutarse desde el navegador a partir de los archivos disponibles en el repositorio.
+El material utiliza principalmente Python, Pandas y Google Colab. No hace falta instalar un entorno de desarrollo local para seguir los capítulos, ya que los cuadernos pueden ejecutarse desde el navegador a partir de los archivos disponibles en este repositorio.
 
 ## A quién está dirigido
 
