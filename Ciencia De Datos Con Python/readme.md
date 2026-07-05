@@ -9,9 +9,9 @@
 
 ----
 
-<center>
+<p align="center">
   <img src="https://github.com/VintaBytes/VintaBytes.github.io/blob/main/images/portada1.png"></img>
-</center>
+</p>
 
 Este directorio reúne una serie de cuadernos de Google Colab orientados al aprendizaje progresivo del trabajo con datos usando **Python** y **Pandas**, correspondientes al PDF **[Ciencia de Datos con Python - Vol I](https://drive.google.com/file/d/1a4udSL7svFQUgukpKiqX_eAU3WDCaojL/view?usp=drive_link)**.
 
