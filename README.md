@@ -20,7 +20,7 @@ Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para apr
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada1.png" alt="Ciencia de Datos con Python - Vol 1">
       </a>
       <br>
-      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/readme.md">Volumen I</a></strong>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/readme.md">Ver detalles del Volumen I</a></strong>
       <br>
       Primeros pasos con datos
     </td>
@@ -29,7 +29,7 @@ Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para apr
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada2.png" alt="Ciencia de Datos con Python - Vol 2">
       </a>
       <br>
-      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README2.md">Volumen II</a></strong>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README2.md">Ver detalles del Volumen II</a></strong>
       <br>
       Análisis exploratorio
     </td>
