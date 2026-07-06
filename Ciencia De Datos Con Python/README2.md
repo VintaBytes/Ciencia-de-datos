@@ -19,7 +19,7 @@
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/blob/main/images/portada2.png" alt="Ciencia de Datos con Python - Vol 2">
       </a>
       <br>
-      <strong><a href="https://drive.google.com/file/d/1zC0sUpQ28Chfxj_MJCXJ-yc1a2pP7VFI/view?usp=drive_link">PDF Volumen II</a></strong>
+      <strong><a href="https://drive.google.com/file/d/1zC0sUpQ28Chfxj_MJCXJ-yc1a2pP7VFI/view?usp=drive_link">Descargar PDF Volumen II</a></strong>
       <br>
       Primeros pasos con datos
     </td>
