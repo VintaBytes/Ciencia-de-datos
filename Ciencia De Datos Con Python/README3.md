@@ -37,7 +37,7 @@ Este directorio reúne una serie de cuadernos de Google Colab orientados al apre
 
 Después de aprender a cargar, inspeccionar, limpiar, transformar, resumir, agrupar y visualizar datos, aparece una nueva etapa en el trabajo con Python: construir modelos capaces de aprender patrones a partir de esos datos. Ya no se trata solo de describir lo que ocurrió, comparar grupos o comunicar hallazgos exploratorios. Ahora comenzamos a preguntarnos si, a partir de la información disponible, es posible hacer predicciones, clasificar casos, estimar valores numéricos, detectar comportamientos particulares o descubrir estructuras que no estaban explícitamente marcadas.
 
-Este tercer tomo de **Ciencia de Datos con Python** continúa el recorrido iniciado [en los volúmenes anteriores](https://github.com/VintaBytes/Ciencia-de-datos). Si el primer tomo estuvo centrado en comprender y preparar datos tabulares, y el segundo avanzó hacia el análisis exploratorio, este volumen introduce los conceptos fundamentales del **Machine Learning**. El objetivo es que el lector pueda comprender qué significa entrenar un modelo, qué tipos de problemas pueden abordarse, cómo se preparan los datos para aprender, cómo se evalúan los resultados y qué precauciones deben tomarse para no extraer conclusiones engañosas.
+Este tercer tomo de **Ciencia de Datos con Python** continúa el recorrido iniciado [en los volúmenes anteriores](https://github.com/VintaBytes/Ciencia-de-datos). Si el **[primer tomo](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/readme.md)** estuvo centrado en comprender y preparar datos tabulares, y el segundo avanzó hacia el análisis exploratorio, este volumen introduce los conceptos fundamentales del **Machine Learning**. El objetivo es que el lector pueda comprender qué significa entrenar un modelo, qué tipos de problemas pueden abordarse, cómo se preparan los datos para aprender, cómo se evalúan los resultados y qué precauciones deben tomarse para no extraer conclusiones engañosas.
 
 Machine Learning suele presentarse como una disciplina compleja, rodeada de términos técnicos, modelos sofisticados y promesas exageradas. En este libro vamos a recorrer el tema desde una perspectiva introductoria, pero cuidadosa. No empezaremos por los modelos más avanzados ni por fórmulas desconectadas de la práctica, sino por las preguntas básicas: qué es aprender a partir de datos, qué diferencia hay entre un problema de clasificación y uno de regresión, qué significa trabajar con datos etiquetados o no etiquetados, por qué es necesario separar datos de entrenamiento y prueba, y cómo sabemos si un modelo realmente está funcionando.
 
@@ -123,7 +123,7 @@ Con esa base, el lector queda preparado para avanzar hacia temas más especializ
 
 ## Listado de Cuadernos Colab
 
-**Sección en 
+**Sección en construcción**
 
 
 ---
