@@ -15,7 +15,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://drive.google.com/file/d/1a4udSL7svFQUgukpKiqX_eAU3WDCaojL/view?usp=drive_link">
+      <a href="https://drive.google.com/file/d/1rGDPSz8Ggy9xMjGUS_Vynr4_rzejMfdt/view?usp=drive_link">
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/blob/main/images/portada3.png" alt="Ciencia de Datos con Python - Vol 3">
       </a>
       <br>
