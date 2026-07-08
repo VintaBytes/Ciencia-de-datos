@@ -21,7 +21,7 @@
       <br>
       <strong><a href="https://drive.google.com/file/d/1rGDPSz8Ggy9xMjGUS_Vynr4_rzejMfdt/view?usp=drive_link">Descargar PDF Volumen III</a></strong>
       <br>
-      Machine Learning
+      Machine Learning<br>Este libro está en desarrollo.<br>Pasá en unos días para ver las novedades.
     </td>
   </tr>
 </table>
