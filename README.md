@@ -34,6 +34,19 @@ Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para apr
       Análisis exploratorio
     </td>
   </tr>
+  <tr>
+  <td align="center">
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README3.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada3.png" alt="Ciencia de Datos con Python - Vol 3">
+      </a>
+      <br>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README2.md">Ver detalles del Volumen III</a></strong>
+      <br>
+      Machine Learning
+    </td>
+    <td align="center">
+    </td>
+  </tr>
 </table>
 
 
