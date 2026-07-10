@@ -35,110 +35,14 @@ A lo largo del recorrido se trabajan modelos de regresión, clasificación y clu
 
 ## Índice de contenidos
 
-### Cuaderno 1 · Introducción al Machine Learning
+|  |  |  |
+| --- | --- | --- |
+| <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 1" width="180"></p><strong>Cuaderno 1 · Introducción al Machine Learning</strong><br><br>[Introducción al Machine Learning: analizando el dataset](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno01_Analizando_el_dataset.ipynb)<br><br>Este primer cuaderno presenta una aproximación inicial al trabajo con datasets en el contexto de machine learning. Se parte del análisis de los datos para comprender su estructura, sus variables y su posible utilidad para construir modelos. | <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 2" width="180"></p><strong>Cuaderno 2 · Repaso de herramientas para análisis de datos</strong><br><br>[Repaso de Pandas, Matplotlib, Seaborn y Plotly](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno02_Repaso_Modulos_Graficos.ipynb)<br><br>Este cuaderno recupera herramientas fundamentales para explorar y visualizar datos antes de entrenar modelos. Incluye operaciones con Pandas y visualizaciones con bibliotecas habituales del ecosistema Python. | <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 3" width="180"></p><strong>Cuaderno 3 · Transformación de datos</strong><br><br>[Transformación de datos: el primer paso hacia el modelo](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno03_Transformacion_de_datos_el_primer_paso_hacia_el_modelo.ipynb)<br><br>Se trabaja sobre la preparación de los datos antes del modelado. El objetivo es mostrar que un modelo no se entrena directamente sobre cualquier tabla, sino sobre datos organizados y transformados de acuerdo con el problema a resolver. |
+| <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 4" width="180"></p><strong>Cuaderno 4 · División de datos y validación cruzada</strong><br><br>[División de datos y validación cruzada](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno04_Division_de_datos_y_validacion_cruzada.ipynb)<br><br>Este cuaderno introduce la separación entre datos de entrenamiento y datos de prueba, junto con la idea de validación cruzada. Se busca evitar evaluaciones engañosas y construir una mirada más confiable sobre el rendimiento de los modelos. | <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 5" width="180"></p><strong>Cuaderno 5 · Regresión lineal y evaluación de modelos</strong><br><br>[Regresión lineal y métricas de evaluación: MAE, MSE, RMSE y R²](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno05_RegresionLineal_y_EvaluacionDelModelo.ipynb)<br><br>Se presenta un primer modelo supervisado de regresión. Además de entrenar el modelo, se trabajan métricas de evaluación que permiten interpretar la magnitud de los errores y la calidad general de las predicciones. | <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 6" width="180"></p><strong>Cuaderno 6 · Regresión logística y clasificación</strong><br><br>[Regresión logística y evaluación de clasificadores](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno06_RegresionLogistica_y_EvaluacionDelModelo.ipynb)<br><br>Este cuaderno introduce un modelo de clasificación y las métricas utilizadas para evaluar clasificadores. Se trabaja con conceptos como matriz de confusión, accuracy, precision, recall y F1-score. |
+| <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 7" width="180"></p><strong>Cuaderno 7 · Clasificación con KNN</strong><br><br>[Clasificación con KNN (K-Nearest Neighbors)](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno07_Clasificacion_con_KNN_%28K_Nearest_Neighbors%29.ipynb)<br><br>Se aborda el algoritmo KNN como modelo de clasificación basado en cercanía entre observaciones. El cuaderno permite analizar la importancia de la escala de las variables y el efecto de elegir distintos valores de <code>k</code>. | <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 8" width="180"></p><strong>Cuaderno 8 · Árboles de decisión y Random Forest</strong><br><br>[Árboles de decisión y Random Forest](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno08_%C3%81rboles_de_Decisi%C3%B3n_y_Random_Forest.ipynb)<br><br>Este cuaderno presenta modelos basados en árboles. Se trabaja la diferencia entre un árbol individual y un ensamble como Random Forest, junto con ideas como profundidad, sobreajuste, importancia de variables y comparación de desempeño. | <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 9A" width="180"></p><strong>Cuaderno 9A · Introducción al clustering</strong><br><br>[Introducción al clustering con K-Means](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno09A_K_Means_.ipynb)<br><br>Introducción al aprendizaje no supervisado mediante el algoritmo K-Means, utilizando datos preparados para comprender la lógica del algoritmo y la formación de grupos. |
+| <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 9B" width="180"></p><strong>Cuaderno 9B · K-Means con datos reales</strong><br><br>[K-Means en datos reales: cuando el clustering ayuda, pero no alcanza](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno09B_K_Means_Pinguinos.ipynb)<br><br>Aplicación de K-Means sobre datos reales para analizar cómo puede ayudar el clustering y reconocer las limitaciones que aparecen cuando los grupos no están claramente separados. | <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 9C" width="180"></p><strong>Cuaderno 9C · Segmentación de clientes</strong><br><br>[Segmentación de clientes con K-Means](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno09C_K_Means_Consumidores.ipynb)<br><br>Uso de K-Means en un caso de segmentación de clientes, integrando la preparación de los datos, la identificación de grupos y la interpretación de los segmentos obtenidos. | <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 10" width="180"></p><strong>Cuaderno 10 · Pipelines y GridSearchCV</strong><br><br>[Automatización del flujo de trabajo con Pipelines y GridSearchCV](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno10_Pipelines.ipynb)<br><br>Este cuaderno está orientado a organizar el flujo completo de trabajo mediante pipelines. También introduce la búsqueda de hiperparámetros con GridSearchCV, una herramienta clave para comparar configuraciones de modelos de manera sistemática. |
+| <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 11" width="180"></p><strong>Cuaderno 11 · Comparación y evaluación de modelos</strong><br><br>[Comparación y evaluación de modelos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno11_Evaluacion_de_modelos.ipynb)<br><br>Se trabaja sobre la comparación entre distintos modelos y métricas. El objetivo es reforzar que no alcanza con entrenar un modelo: también es necesario evaluar resultados, interpretar errores y elegir la alternativa más adecuada para el problema. | <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 12" width="180"></p><strong>Cuaderno 12 · Guardar y recuperar un modelo entrenado</strong><br><br>[Guardar y recuperar un modelo entrenado en scikit-learn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno12_Guardar_y_recuperar_modelos.ipynb)<br><br>En este mini-cuaderno vamos a entrenar rápidamente un modelo de clasificación y luego veremos cómo guardarlo en un archivo para poder reutilizarlo más adelante sin repetir el entrenamiento. | <p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 13" width="180"></p><strong>Cuaderno 13 · Exploración y preparación de un dataset clínico</strong><br><br>[Exploración y preparación de un dataset clínico](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno13_Proyecto_Final.ipynb)<br><br>Este cuaderno propone trabajar con un dataset de contexto clínico, poniendo el foco en la exploración inicial, la preparación de variables y las decisiones previas al entrenamiento de modelos. Avanza sobre el entrenamiento, la evaluación y la selección de modelos para integrar varias etapas del flujo de trabajo en un caso más completo. |
 
-* [Introducción al Machine Learning: analizando el dataset](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno01_Analizando_el_dataset.ipynb)
-
-Este primer cuaderno presenta una aproximación inicial al trabajo con datasets en el contexto de machine learning. Se parte del análisis de los datos para comprender su estructura, sus variables y su posible utilidad para construir modelos.
-
----
-
-### Cuaderno 2 · Repaso de herramientas para análisis de datos
-
-* [Repaso de Pandas, Matplotlib, Seaborn y Plotly](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno02_Repaso_Modulos_Graficos.ipynb)
-
-Este cuaderno recupera herramientas fundamentales para explorar y visualizar datos antes de entrenar modelos. Incluye operaciones con Pandas y visualizaciones con bibliotecas habituales del ecosistema Python.
-
----
-
-### Cuaderno 3 · Transformación de datos
-
-* [Transformación de datos: el primer paso hacia el modelo](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno03_Transformacion_de_datos_el_primer_paso_hacia_el_modelo.ipynb)
-
-Se trabaja sobre la preparación de los datos antes del modelado. El objetivo es mostrar que un modelo no se entrena directamente sobre cualquier tabla, sino sobre datos organizados y transformados de acuerdo con el problema a resolver.
-
----
-
-### Cuaderno 4 · División de datos y validación cruzada
-
-* [División de datos y validación cruzada](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno04_Division_de_datos_y_validacion_cruzada.ipynb)
-
-Este cuaderno introduce la separación entre datos de entrenamiento y datos de prueba, junto con la idea de validación cruzada. Se busca evitar evaluaciones engañosas y construir una mirada más confiable sobre el rendimiento de los modelos.
-
----
-
-### Cuaderno 5 · Regresión lineal y evaluación de modelos
-
-* [Regresión lineal y métricas de evaluación: MAE, MSE, RMSE y R²](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno05_RegresionLineal_y_EvaluacionDelModelo.ipynb)
-
-Se presenta un primer modelo supervisado de regresión. Además de entrenar el modelo, se trabajan métricas de evaluación que permiten interpretar la magnitud de los errores y la calidad general de las predicciones.
-
----
-
-### Cuaderno 6 · Regresión logística y clasificación
-
-* [Regresión logística y evaluación de clasificadores](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno06_RegresionLogistica_y_EvaluacionDelModelo.ipynb)
-
-Este cuaderno introduce un modelo de clasificación y las métricas utilizadas para evaluar clasificadores. Se trabaja con conceptos como matriz de confusión, accuracy, precision, recall y F1-score.
-
----
-
-### Cuaderno 7 · Clasificación con KNN
-
-* [Clasificación con KNN (K-Nearest Neighbors)](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno07_Clasificacion_con_KNN_%28K_Nearest_Neighbors%29.ipynb)
-
-Se aborda el algoritmo KNN como modelo de clasificación basado en cercanía entre observaciones. El cuaderno permite analizar la importancia de la escala de las variables y el efecto de elegir distintos valores de `k`.
-
----
-
-### Cuaderno 8 · Árboles de decisión y Random Forest
-
-* [Árboles de decisión y Random Forest](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno08_%C3%81rboles_de_Decisi%C3%B3n_y_Random_Forest.ipynb)
-
-Este cuaderno presenta modelos basados en árboles. Se trabaja la diferencia entre un árbol individual y un ensamble como Random Forest, junto con ideas como profundidad, sobreajuste, importancia de variables y comparación de desempeño.
-
----
-
-### Cuaderno 9 · Aprendizaje no supervisado y clustering
-
-Introducción al aprendizaje no supervisado mediante el algoritmo K-Means.
-
-* [Introducción al clustering con K-Means](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno09A_K_Means_.ipynb)
-* [K-Means en datos reales: cuando el clustering ayuda, pero no alcanza](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno09B_K_Means_Pinguinos.ipynb)
-* [Segmentación de clientes con K-Means](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno09C_K_Means_Consumidores.ipynb)
-
-Esta parte del recorrido muestra distintos usos de K-Means: primero con datos preparados para comprender la lógica del algoritmo, luego con datos reales donde aparecen limitaciones, y finalmente en un caso de segmentación de clientes.
-
----
-
-### Cuaderno 10 · Pipelines y GridSearchCV
-
-* [Automatización del flujo de trabajo con Pipelines y GridSearchCV](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno10_Pipelines.ipynb)
-
-Este cuaderno está orientado a organizar el flujo completo de trabajo mediante pipelines. También introduce la búsqueda de hiperparámetros con GridSearchCV, una herramienta clave para comparar configuraciones de modelos de manera sistemática.
-
----
-
-### Cuaderno 11 · Comparación y evaluación de modelos
-
-* [Comparación y evaluación de modelos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno11_Evaluacion_de_modelos.ipynb)
-
-Se trabaja sobre la comparación entre distintos modelos y métricas. El objetivo es reforzar que no alcanza con entrenar un modelo: también es necesario evaluar resultados, interpretar errores y elegir la alternativa más adecuada para el problema.
-
----
-### Cuaderno 12 · Guardar y recuperar un modelo entrenado en scikit-learn
-
-* [Guardar y recuperar un modelo entrenado en scikit-learn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno12_Guardar_y_recuperar_modelos.ipynb)
-
-En este mini-cuaderno vamos a entrenar rápidamente un modelo de clasificación y luego veremos cómo guardarlo en un archivo para poder reutilizarlo más adelante sin repetir el entrenamiento.
-
----
-
-### Cuaderno 13 · Exploración y preparación de un dataset clínico
-
-* [Exploración y preparación de un dataset clínico](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno13_Proyecto_Final.ipynb)
-
-Este cuaderno propone trabajar con un dataset de contexto clínico, poniendo el foco en la exploración inicial, la preparación de variables y las decisiones previas al entrenamiento de modelos.Avanza sobre el entrenamiento, evaluación y selección de modelos. La intención es integrar varias etapas del flujo de trabajo en un caso más completo.
 
 ---
 
