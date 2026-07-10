@@ -50,7 +50,7 @@ Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para apr
 </table>
 
 
-* [Machine Learning con Python](#machine-learning-con-python)
+* [Machine Learning con Python](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/README.md), cuadernos complementarios al curso de "Machine Learning con Python".
 * [Análisis de Datos con Python](#análisis-de-datos-con-python)
 * [¿Qué recorrido elegir?](#qué-recorrido-elegir)
 * [Sobre las posibles superposiciones](#sobre-las-posibles-superposiciones)
