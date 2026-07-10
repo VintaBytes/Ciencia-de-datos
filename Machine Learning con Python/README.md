@@ -1,5 +1,7 @@
 # Machine Learning con Python
 
+🤝 [Apoyar este proyecto](https://vintabytes.github.io/apoyar/) 🤝 
+
 ### Ariel Palazzesi · 2026
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python\&logoColor=blue)
