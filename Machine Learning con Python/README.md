@@ -1,7 +1,5 @@
 # Machine Learning con Python
 
-🤝 [Apoyar este proyecto](https://vintabytes.github.io/apoyar/) 🤝 
-
 ### Ariel Palazzesi · 2026
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python\&logoColor=blue)
@@ -12,8 +10,9 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn\&logoColor=white)
 
-----
-**EN LOS ÚLTIMOS DIAS HAY MOMENTOS EN LOS QUE GITHUB TIENE PROBLEMAS PARA RENDERIZAR LOS CUADERNOS COLAB. SIN EMBARGO, LOS MISMOS ESTÁN CORRECTOS Y PUEDES USARLOS NORMALMENTE EN GOOGLE COLAB.**
+
+🤝 [Apoyar este proyecto](https://vintabytes.github.io/apoyar/)     🏠 [Volver al comienzo del repositorio](https://github.com/VintaBytes/Ciencia-de-datos)
+
 
 ----
 
