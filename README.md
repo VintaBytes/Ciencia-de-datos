@@ -127,15 +127,15 @@ Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con da
   <tr>
     <td valign="top" width="33%">
       <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
-      <strong><a href=""></a></strong><br>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11-Graficos-Seaborn.ipynb">7B - Introducción a gráficos con Seaborn</a></strong><br>
     </td>
     <td valign="top" width="33%">
       <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
-      <strong><a href=""></a></strong><br></strong><br>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11-Actividad-practica.ipynb">7C - Actividad práctica: análisis de correlación</a></strong><br></strong><br>
     </td>
     <td valign="top" width="33%">
       <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png"  width="180"></p>
-      <strong><a href=""></a></strong><br>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase12/Clase12-Actividad-practica-1.ipynb">8A - Consolidación de datos: análisis de ventas y productos</a></strong><br>
     </td>
   </tr>
   <tr>
@@ -152,40 +152,48 @@ Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con da
       <strong><a href=""></a></strong><br>
     </td>
   </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
-      <strong><a href=""></a></strong><br>
-    </td>
-    <td valign="top" width="33%">
-      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
-      <strong><a href=""></a></strong><br></strong><br>
-    </td>
-    <td valign="top" width="33%">
-      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png"  width="180"></p>
-      <strong><a href=""></a></strong><br>
-    </td>
-  </tr>
-</table>
 
-
-
-
-
-
-* [7B - Introducción a gráficos con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11-Graficos-Seaborn.ipynb)
-* [7C - Actividad práctica: análisis de correlación](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11-Actividad-practica.ipynb)
-* [8A - Consolidación de datos: análisis de ventas y productos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase12/Clase12-Actividad-practica-1.ipynb)
-* [8B - Consolidación de datos: análisis de asistencia y resultados en talleres de capacitación](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase12/Clase12-Actividad-practica-2.ipynb)
+  * [8B - Consolidación de datos: análisis de asistencia y resultados en talleres de capacitación](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase12/Clase12-Actividad-practica-2.ipynb)
 * [9A - Matplotlib: análisis de ventas a lo largo del tiempo con gráficos de líneas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-1-Matplotlib.ipynb)
 * [9B - Matplotlib: análisis de ventas a lo largo del tiempo con gráficos de barras](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-2-Matplotlib.ipynb)
+  
+  <tr>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href=""></a></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href=""></a></strong><br></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png"  width="180"></p>
+      <strong><a href=""></a></strong><br>
+    </td>
+  </tr>
+  
 * [9C - Seaborn: análisis de ventas a lo largo del tiempo con gráficos de líneas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-1-Seaborn.ipynb)
 * [9D - Seaborn: análisis de ventas a lo largo del tiempo con gráficos de barras](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-2-Seaborn.ipynb)
 * [10 - Gráficos con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase14/Clase14.ipynb)
-* [11A - Dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15.ipynb) Este cuaderno debe ser visualizado en Google Colab.
+* 
+  <tr>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href=""></a></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href=""></a></strong><br></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png"  width="180"></p>
+      <strong><a href=""></a></strong><br>
+    </td>
+  </tr>
+  * [11A - Dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15.ipynb) Este cuaderno debe ser visualizado en Google Colab.
 * [11B - Actividad práctica: dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15-Actividad-practica.ipynb)
+</table>
 
-[Ver carpeta: Análisis de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/An%C3%A1lisis%20de%20Datos%20con%20Python#readme)
 
 [Volver al principio](#ciencia-de-datos-con-python)
 
