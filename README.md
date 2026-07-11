@@ -13,6 +13,8 @@
 
 Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para aprender y enseñar programación, análisis de datos, ciencia de datos y machine learning con Python.
 
+## Libros PDF con complemento en Cuadernos Colab:
+
 <table align="center">
   <tr>
     <td align="center">
@@ -49,6 +51,7 @@ Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para apr
   </tr>
 </table>
 
+## Cuadernos Colab usados en mis clases:
 
 * [Machine Learning con Python](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/README.md), cuadernos complementarios al curso de "Machine Learning con Python".
 * [Análisis de Datos con Python](#análisis-de-datos-con-python)
