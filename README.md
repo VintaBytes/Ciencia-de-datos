@@ -64,6 +64,8 @@ El material está organizado en distintos recorridos formativos. Algunos conteni
 
 Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con datos usando Python. Incluye materiales sobre Pandas, NumPy, limpieza de datos, selección y filtrado, agrupamientos, visualización y análisis descriptivo. Fueron escritos para acompañar las clases de un curso de Ciencias de Datos en 2025. Están pensadoa para quienes quieren aprender a manipular, explorar y presentar datos con herramientas habituales del ecosistema Python.
 
+#### Cuadernos disponibles:
+
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -90,29 +92,87 @@ Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con da
     </td>
     <td valign="top" width="33%">
       <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png"  width="180"></p>
-      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08.ipynb">4A - Manejo de arrays en NumPy]</a></strong><br
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08.ipynb">4A - Manejo de arrays en NumPy</a></strong><br
+    </td>
+  </tr>
+    </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08-Actividad-Practica.ipynb">4B - Actividad práctica: integración de DataFrames</a></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase09/Clase09_1.ipynb">5A - Estadística descriptiva: análisis de tendencia central</a></strong><br></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png"  width="180"></p>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase09/Clase09_2.ipynb">5B - Estadística descriptiva: análisis de dispersión</a></strong><br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase10/Clase10.ipynb">6A - Introducción a la visualización de datos con Matplotlib</a></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase10/Clase10-Actividad-Practica.ipynb">6B - Actividad práctica: análisis exploratorio del conjunto de datos `diamonds`</a></strong><br></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png"  width="180"></p>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11.ipynb">7A - Análisis y cálculo de correlación con Pandas</a></strong><br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href=""></a></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href=""></a></strong><br></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png"  width="180"></p>
+      <strong><a href=""></a></strong><br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href=""></a></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href=""></a></strong><br></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png"  width="180"></p>
+      <strong><a href=""></a></strong><br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href=""></a></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href=""></a></strong><br></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png"  width="180"></p>
+      <strong><a href=""></a></strong><br>
     </td>
   </tr>
 </table>
 
 
 
-#### Cuadernos disponibles:
-* [1 - Técnicas para limpiar datos con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase05/Clase05.ipynb)
-* [2A - Selecciones y filtros de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06.ipynb)  
-* [2B - Actividad práctica: filtrar pasajeros sobrevivientes en el naufragio del Titanic](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06-Actividad-Practica.ipynb)
 
-* 
-* [3A - Funciones de agregación y agrupamiento de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase07/Clase07.ipynb)
-* [3B - Actividad práctica: usar `groupby()` de Pandas para segmentar el dataset](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase07/Clase07-Actividad-Practica.ipynb)
-* [4A - Manejo de arrays en NumPy](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08.ipynb)
-* 
-* [4B - Actividad práctica: integración de DataFrames](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08-Actividad-Practica.ipynb)
-* [5A - Estadística descriptiva: análisis de tendencia central](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase09/Clase09_1.ipynb)
-* [5B - Estadística descriptiva: análisis de dispersión](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase09/Clase09_2.ipynb)
-* [6A - Introducción a la visualización de datos con Matplotlib](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase10/Clase10.ipynb)
-* [6B - Actividad práctica: análisis exploratorio del conjunto de datos `diamonds`](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase10/Clase10-Actividad-Practica.ipynb)
-* [7A - Análisis y cálculo de correlación con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11.ipynb)
+
+
 * [7B - Introducción a gráficos con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11-Graficos-Seaborn.ipynb)
 * [7C - Actividad práctica: análisis de correlación](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11-Actividad-practica.ipynb)
 * [8A - Consolidación de datos: análisis de ventas y productos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase12/Clase12-Actividad-practica-1.ipynb)
