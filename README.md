@@ -70,17 +70,17 @@ Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con da
 
 <table>
   <tr>
-    <td valign="top" width="33%"><p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 1" width="180">
+    <td valign="top" width="33%"><p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" alt="Imagen del Cuaderno 1" width="180">
       </p><strong>
         <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase05/Clase05.ipynb">1 - Técnicas para limpiar datos con Pandas</a>
       </strong><br>
     </td>
-    <td valign="top" width="33%"><p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 1" width="180">
+    <td valign="top" width="33%"><p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" alt="Imagen del Cuaderno 1" width="180">
       </p><strong>
         <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06.ipynb">2A - Selecciones y filtros de datos</a>
       </strong><br>
     </td>
-    <td valign="top" width="33%"><p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 1" width="180">
+    <td valign="top" width="33%"><p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" alt="Imagen del Cuaderno 1" width="180">
       </p><strong>
         <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06-Actividad-Practica.ipynb">2B - Actividad práctica: filtrar pasajeros sobrevivientes en el naufragio del Titanic</a>
       </strong><br
