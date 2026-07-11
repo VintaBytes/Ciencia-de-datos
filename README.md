@@ -53,10 +53,10 @@ Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para apr
 
 ## Cuadernos Colab usados en mis clases:
 
+Estos cuadernos se crearon como complementos para cursos relacionados con la Ciencia de Datos. No tienen relación con los PDF de la sección anterior, pero pueden ser útiles para quien está aprendiendo esta materia.
+
 * [Machine Learning con Python](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/README.md), cuadernos complementarios al curso de "Machine Learning con Python".
-* [Análisis de Datos con Python](#análisis-de-datos-con-python)
-* [¿Qué recorrido elegir?](#qué-recorrido-elegir)
-* [Sobre las posibles superposiciones](#sobre-las-posibles-superposiciones)
+* [Análisis de Datos con Python](#análisis-de-datos-con-python), cuadernos escritos para acompañar las clases de un curso de Ciencias de Datos en 2025. 
 * [Uso de los cuadernos](#uso-de-los-cuadernos)
 * [Autor](#autor)
 
@@ -122,26 +122,6 @@ Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con da
 * [11B - Actividad práctica: dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15-Actividad-practica.ipynb)
 
 [Ver carpeta: Análisis de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/An%C3%A1lisis%20de%20Datos%20con%20Python#readme)
-
-[Volver al principio](#ciencia-de-datos-con-python)
-
----
-
-## Qué recorrido elegir
-
-Si estás empezando desde cero con Pandas y querés un recorrido gradual, conviene comenzar por **[Ciencia de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/Ciencia%20De%20Datos%20Con%20Python)**.
-
-Si ya conocés algo de Python y querés practicar análisis exploratorio, limpieza y visualización de datos, podés entrar por **[Análisis de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/An%C3%A1lisis%20de%20Datos%20con%20Python#readme)**.
-
-Si ya tenés una base de trabajo con datos y querés avanzar hacia modelos predictivos, el recorrido natural es **[Machine Learning con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/Machine%20Learning%20con%20Python#readme)**.
-
-[Volver al principio](#ciencia-de-datos-con-python)
-
----
-
-## Sobre las posibles superposiciones
-
-Algunos temas aparecen en más de una sección. Esto es intencional. Por ejemplo, Pandas puede aparecer en un curso de análisis de datos, en una introducción progresiva a ciencia de datos y también como repaso previo al trabajo con modelos de machine learning. En cada caso, el tema se aborda con una profundidad y una finalidad distinta. La idea general del repositorio es ofrecer materiales reutilizables, adaptables y complementarios para distintos momentos de aprendizaje.
 
 [Volver al principio](#ciencia-de-datos-con-python)
 
