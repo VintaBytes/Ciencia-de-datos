@@ -64,60 +64,31 @@ El material está organizado en distintos recorridos formativos. Algunos conteni
 
 ---
 
-### Machine Learning con Python
+### Análisis de Datos con Python
 
-Esta sección contiene cuadernos orientados a la introducción al aprendizaje automático con Python. El recorrido presupone cierta familiaridad previa con Pandas y análisis exploratorio de datos. A partir de esa base, avanza hacia la construcción, evaluación y comparación de modelos de machine learning. Fueron escritos para acompañar las clases de un curso de Machine Learning en 2026.
+Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con datos usando Python. Incluye materiales sobre Pandas, NumPy, limpieza de datos, selección y filtrado, agrupamientos, visualización y análisis descriptivo. Fueron escritos para acompañar las clases de un curso de Ciencias de Datos en 2025. Están pensadoa para quienes quieren aprender a manipular, explorar y presentar datos con herramientas habituales del ecosistema Python.
 
 <table>
   <tr>
     <td valign="top" width="33%"><p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 1" width="180">
       </p><strong>
-        <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno01_Analizando_el_dataset.ipynb">Introducción al Machine Learning: analizando el dataset</a>
-      </strong><br><br>
-      Este primer cuaderno presenta una aproximación inicial al trabajo con datasets en el contexto de machine learning. Se parte del análisis de los datos para comprender su estructura, sus variables y su posible utilidad para construir modelos.    </td>
+        <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase05/Clase05.ipynb">1 - Técnicas para limpiar datos con Pandas</a>
+      </strong><br>
+    </td>
     <td valign="top" width="33%"><p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 1" width="180">
       </p><strong>
-        <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno02_Repaso_Modulos_Graficos.ipynb">Repaso de Pandas, Matplotlib, Seaborn y Plotly</a>
-      </strong><br><br>
-      Este cuaderno recupera herramientas fundamentales para explorar y visualizar datos antes de entrenar modelos. Incluye operaciones con Pandas y visualizaciones con bibliotecas habituales del ecosistema Python. </td>
+        <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06.ipynb">2A - Selecciones y filtros de datos</a>
+      </strong><br>
+    </td>
     <td valign="top" width="33%"><p align="center"><img src="imagen_cuaderno.png" alt="Imagen del Cuaderno 1" width="180">
       </p><strong>
-        <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno01_Analizando_el_dataset.ipynb">Transformación de datos: el primer paso hacia el modelo</a>
-      </strong><br><br>
-      Se trabaja sobre la preparación de los datos antes del modelado. El objetivo es mostrar que un modelo no se entrena directamente sobre cualquier tabla, sino sobre datos organizados y transformados de acuerdo con el problema a resolver.   </td>
+        <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06-Actividad-Practica.ipynb">2B - Actividad práctica: filtrar pasajeros sobrevivientes en el naufragio del Titanic</a>
+      </strong><br
+    </td>
   </tr>
 </table>
 
 
-
-* [Introducción al Machine Learning: analizando el dataset](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno01_Analizando_el_dataset.ipynb) Este primer cuaderno presenta una aproximación inicial al trabajo con datasets en el contexto de machine learning. Se parte del análisis de los datos para comprender su estructura, sus variables y su posible utilidad para construir modelos.
-* [Repaso de Pandas, Matplotlib, Seaborn y Plotly](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno02_Repaso_Modulos_Graficos.ipynb) Este cuaderno recupera herramientas fundamentales para explorar y visualizar datos antes de entrenar modelos. Incluye operaciones con Pandas y visualizaciones con bibliotecas habituales del ecosistema Python.* 
-* [Transformación de datos: el primer paso hacia el modelo](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno03_Transformacion_de_datos_el_primer_paso_hacia_el_modelo.ipynb) Se trabaja sobre la preparación de los datos antes del modelado. El objetivo es mostrar que un modelo no se entrena directamente sobre cualquier tabla, sino sobre datos organizados y transformados de acuerdo con el problema a resolver.
-
-* 
-* [División de datos y validación cruzada](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno04_Division_de_datos_y_validacion_cruzada.ipynb) Este cuaderno introduce la separación entre datos de entrenamiento y datos de prueba, junto con la idea de validación cruzada. Se busca evitar evaluaciones engañosas y construir una mirada más confiable sobre el rendimiento de los modelos.
-* [Regresión lineal y métricas de evaluación: MAE, MSE, RMSE y R²](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno05_RegresionLineal_y_EvaluacionDelModelo.ipynb) Se presenta un primer modelo supervisado de regresión. Además de entrenar el modelo, se trabajan métricas de evaluación que permiten interpretar la magnitud de los errores y la calidad general de las predicciones.
-* [Regresión logística y evaluación de clasificadores](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno06_RegresionLogistica_y_EvaluacionDelModelo.ipynb) Este cuaderno introduce un modelo de clasificación y las métricas utilizadas para evaluar clasificadores. Se trabaja con conceptos como matriz de confusión, accuracy, precision, recall y F1-score.
-* [Clasificación con KNN (K-Nearest Neighbors)](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno07_Clasificacion_con_KNN_%28K_Nearest_Neighbors%29.ipynb) Se aborda el algoritmo KNN como modelo de clasificación basado en cercanía entre observaciones. El cuaderno permite analizar la importancia de la escala de las variables y el efecto de elegir distintos valores de `k`.
-* [Árboles de decisión y Random Forest](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno08_%C3%81rboles_de_Decisi%C3%B3n_y_Random_Forest.ipynb) Este cuaderno presenta modelos basados en árboles. Se trabaja la diferencia entre un árbol individual y un ensamble como Random Forest, junto con ideas como profundidad, sobreajuste, importancia de variables y comparación de desempeño.
-* [Introducción al clustering con K-Means](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno09A_K_Means_.ipynb) Introducción al aprendizaje no supervisado mediante el algoritmo K-Means.
-* [K-Means en datos reales: cuando el clustering ayuda, pero no alcanza](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno09B_K_Means_Pinguinos.ipynb) Limitaciones del modelo.
-* [Segmentación de clientes con K-Means](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno09C_K_Means_Consumidores.ipynb) Algoritmo K-Means en la segmentación de clientes.
-* [Automatización del flujo de trabajo con Pipelines y GridSearchCV](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno10_Pipelines.ipynb) Este cuaderno está orientado a organizar el flujo completo de trabajo mediante pipelines. También introduce la búsqueda de hiperparámetros con GridSearchCV, una herramienta clave para comparar configuraciones de modelos de manera sistemática.
-* [Comparación y evaluación de modelos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno11_Evaluacion_de_modelos.ipynb) Se trabaja sobre la comparación entre distintos modelos y métricas. El objetivo es reforzar que no alcanza con entrenar un modelo: también es necesario evaluar resultados, interpretar errores y elegir la alternativa más adecuada para el problema.
-* [Guardar y recuperar un modelo entrenado en scikit-learn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno12_Guardar_y_recuperar_modelos.ipynb) En este mini-cuaderno vamos a entrenar rápidamente un modelo de clasificación y luego veremos cómo guardarlo en un archivo para poder reutilizarlo más adelante sin repetir el entrenamiento.
-* [Exploración y preparación de un dataset clínico](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/Cuaderno13_Proyecto_Final.ipynb) Este cuaderno propone trabajar con un dataset de contexto clínico, poniendo el foco en la exploración inicial, la preparación de variables y las decisiones previas al entrenamiento de modelos.Avanza sobre el entrenamiento, evaluación y selección de modelos. La intención es integrar varias etapas del flujo de trabajo en un caso más completo.
-
-
-[Ver carpeta: Machine Learning con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/Machine%20Learning%20con%20Python#readme)
-
-[Volver al principio](#ciencia-de-datos-con-python)
-
----
-
-### Análisis de Datos con Python
-
-Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con datos usando Python. Incluye materiales sobre Pandas, NumPy, limpieza de datos, selección y filtrado, agrupamientos, visualización y análisis descriptivo. Fueron escritos para acompañar las clases de un curso de Ciencias de Datos en 2025. Están pensadoa para quienes quieren aprender a manipular, explorar y presentar datos con herramientas habituales del ecosistema Python.
 
 #### Cuadernos disponibles:
 * [1 - Técnicas para limpiar datos con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase05/Clase05.ipynb)
