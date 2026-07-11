@@ -25,7 +25,7 @@ Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para apr
       <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/readme.md">Ver detalles del Volumen I</a></strong>
       <br>
       Primeros pasos con datos
-    </td>
+  </td>
   <td align="center">
       <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README2.md">
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada2.png" alt="Ciencia de Datos con Python - Vol 2">
@@ -34,9 +34,7 @@ Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para apr
       <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README2.md">Ver detalles del Volumen II</a></strong>
       <br>
       Análisis exploratorio
-    </td>
-  </tr>
-  <tr>
+  </td>
   <td align="center">
       <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README3.md">
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada3.png" alt="Ciencia de Datos con Python - Vol 3">
@@ -45,8 +43,6 @@ Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para apr
       <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README3.md">Ver detalles del Volumen III</a></strong>
       <br>
       Machine Learning
-    </td>
-    <td align="center">
     </td>
   </tr>
 </table>
@@ -70,20 +66,31 @@ Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con da
 
 <table>
   <tr>
-    <td valign="top" width="33%"><p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" alt="Imagen del Cuaderno 1" width="180">
-      </p><strong>
-        <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase05/Clase05.ipynb">1 - Técnicas para limpiar datos con Pandas</a>
-      </strong><br>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase05/Clase05.ipynb">1 - Técnicas para limpiar datos con Pandas</a></strong><br>
     </td>
-    <td valign="top" width="33%"><p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" alt="Imagen del Cuaderno 1" width="180">
-      </p><strong>
-        <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06.ipynb">2A - Selecciones y filtros de datos</a>
-      </strong><br>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06.ipynb">2A - Selecciones y filtros de datos</a></strong><br>
     </td>
-    <td valign="top" width="33%"><p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" alt="Imagen del Cuaderno 1" width="180">
-      </p><strong>
-        <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06-Actividad-Practica.ipynb">2B - Actividad práctica: filtrar pasajeros sobrevivientes en el naufragio del Titanic</a>
-      </strong><br
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png"  width="180"></p>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06-Actividad-Practica.ipynb">2B - Actividad práctica: filtrar pasajeros sobrevivientes en el naufragio del Titanic</a></strong><br
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase07/Clase07.ipynb">3A - Funciones de agregación y agrupamiento de datos</a></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="180"></p>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase07/Clase07-Actividad-Practica.ipynb">3B - Actividad práctica: usar `groupby()` de Pandas para segmentar el dataset</a></strong><br>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png"  width="180"></p>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08.ipynb">4A - Manejo de arrays en NumPy]</a></strong><br
     </td>
   </tr>
 </table>
@@ -94,9 +101,12 @@ Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con da
 * [1 - Técnicas para limpiar datos con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase05/Clase05.ipynb)
 * [2A - Selecciones y filtros de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06.ipynb)  
 * [2B - Actividad práctica: filtrar pasajeros sobrevivientes en el naufragio del Titanic](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06-Actividad-Practica.ipynb)
+
+* 
 * [3A - Funciones de agregación y agrupamiento de datos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase07/Clase07.ipynb)
 * [3B - Actividad práctica: usar `groupby()` de Pandas para segmentar el dataset](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase07/Clase07-Actividad-Practica.ipynb)
 * [4A - Manejo de arrays en NumPy](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08.ipynb)
+* 
 * [4B - Actividad práctica: integración de DataFrames](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08-Actividad-Practica.ipynb)
 * [5A - Estadística descriptiva: análisis de tendencia central](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase09/Clase09_1.ipynb)
 * [5B - Estadística descriptiva: análisis de dispersión](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase09/Clase09_2.ipynb)
