@@ -33,7 +33,7 @@ Este material forma parte del repositorio general **Ciencia de Datos con Python*
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada1.png" alt="Ciencia de Datos con Python - Volumen I">
       </a>
       <br>
-      <strong><a href="lvolumen-01/README.md">Volumen I</a></strong>
+      <strong><a href="volumen-01/README.md">Volumen I</a></strong>
       <br>
       Primeros pasos con datos
     </td>
@@ -42,7 +42,7 @@ Este material forma parte del repositorio general **Ciencia de Datos con Python*
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada2.png" alt="Ciencia de Datos con Python - Volumen II">
       </a>
       <br>
-      <strong><a href="volumen-02/README.md"">Volumen II</a></strong>
+      <strong><a href="volumen-02/README.md">Volumen II</a></strong>
       <br>
       Análisis exploratorio y visualización
     </td>
