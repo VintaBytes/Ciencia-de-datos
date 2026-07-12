@@ -1,0 +1,44 @@
+ID_Producto,Nombre_Producto,Categoría,Precio_Unitario,Stock
+29,Proyector,Multimedia,60.000,4
+28,Altavoces portátiles,Audio y Sonido,7.000,55
+14,Smartwatch / reloj inteligente,Wearables,50.000,35
+21,Licuadora,Electrodomésticos,15.000,40
+15,Calefón eléctrico,Electrodomésticos,95.000,10
+10,Cámara digital / DSLR,Fotografía,180.000,8
+9,Parlantes Bluetooth,Audio y Sonido,13.000,60
+11,Video cámara / Camcorder,Video y Fotografía,130.000,5
+4,Notebooks,Computación Personal,150.000,25
+35,Sensores de seguridad / CCTV,Seguridad y Vigilancia,45.000,8
+10,Cámara digital / DSLR,Fotografía,180.000,8
+6,TV LED / Smart TV,Televisores,210.000,10
+5,Desktop PC,Computación de Escritorio,120.000,15
+16,Heladera / Heladera con freezer,Electrodomésticos,250.000,5
+19,Aspiradora robot,Limpieza y Hogar,60.000,7
+25,Memoria USB / Pendrive,Almacenamiento,2.500,150
+8,Auriculares inalámbricos,Accesorios de Audio,25.000,80
+18,Aire acondicionado portátil,Climatización,120.000,10
+27,Scanner,Oficina y Hogar,20.000,8
+33,Control remoto universal,Accesorios,2.000,70
+26,Impresora,Oficina y Hogar,25.000,10
+6,TV LED / Smart TV,Televisores,210.000,10
+31,DVD / Blu-ray Player,Multimedia,18.000,6
+1,Smartphone,Telefonía y Comunicaciones,180.000,50
+24,Disco externo / HDD,Almacenamiento,8.000,25
+30,Modem / MTK,Redes y Networking,12.000,25
+8,Auriculares inalámbricos,Accesorios de Audio,25.000,80
+7,Console de videojuegos,Consolas y Videojuegos,100.000,12
+22,Parrilla eléctrica,Electrodomésticos,30.000,15
+13,Repetidor Wi-Fi,Redes y Networking,12.000,20
+32,Smart TV Box,Multimedia,8.000,30
+2,Tablet,Tablets y E-Readers,95.000,30
+17,Microondas,Electrodomésticos,65.000,25
+9,Parlantes Bluetooth,Audio y Sonido,13.000,60
+34,Router Mesh,Redes y Networking,30.000,12
+12,Roteador Wi-Fi,Redes y Networking,15.000,40
+7,Console de videojuegos,Consolas y Videojuegos,100.000,12
+3,Laptop,Computación Personal,200.000,20
+36,Estabilizador de voltaje,Electrificación,10.000,20
+11,Video cámara / Camcorder,Video y Fotografía,130.000,5
+5,Desktop PC,Computación de Escritorio,120.000,15
+20,Cafetera eléctrica,Electrodomésticos,20.000,50
+23,Cargador de celular,Accesorios,3.000,100
