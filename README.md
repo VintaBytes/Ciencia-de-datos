@@ -11,7 +11,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn\&logoColor=white)
 
 
-
 Repositorio de libros, cuadernos de Google Colab y materiales educativos sobre programación, análisis de datos y Machine Learning con Python.
 
 Los contenidos están organizados en dos grandes secciones: una colección de libros de estudio y materiales de apoyo correspondientes a cursos ya finalizados.
@@ -54,10 +53,10 @@ Los contenidos están organizados en dos grandes secciones: una colección de li
 
 ## Materiales de apoyo de cursos
 
-| Recorrido | Descripción | Estado |
-| --- | --- | --- |
-| [Análisis de Datos con Python](cursos/analisis-de-datos-python/README.md) | Limpieza, selección, agrupamiento, estadística descriptiva y visualización de datos. | Curso finalizado |
-| [Machine Learning con Python](cursos/machine-learning-python/README.md) | Preparación de datos, regresión, clasificación, clustering, pipelines y evaluación de modelos. | Curso finalizado |
+| Recorrido | Descripción |
+| --- | --- |
+| [Análisis de Datos con Python](cursos/analisis-de-datos-python/README.md) | Limpieza, selección, agrupamiento, estadística descriptiva y visualización de datos. | 
+| [Machine Learning con Python](cursos/machine-learning-python/README.md) | Preparación de datos, regresión, clasificación, clustering, pipelines y evaluación de modelos. | 
 
 Estos cuadernos fueron creados para acompañar cursos específicos. Se conservan en el repositorio como material gratuito de consulta, práctica y apoyo.
 
