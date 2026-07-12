@@ -11,257 +11,68 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn\&logoColor=white)
 
 
-Este repositorio reúne materiales, cuadernos Colab y recursos de apoyo para aprender y enseñar programación, análisis de datos, ciencia de datos y machine learning con Python.
 
-## Libros PDF con complemento en cuadernos Colab:
+Repositorio de libros, cuadernos de Google Colab y materiales educativos sobre programación, análisis de datos y Machine Learning con Python.
+
+Los contenidos están organizados en dos grandes secciones: una colección de libros de estudio y materiales de apoyo correspondientes a cursos ya finalizados.
+
+## Libros y cuadernos complementarios
 
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/readme.md">
-        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada1.png" alt="Ciencia de Datos con Python - Vol 1">
+    <td align="center" valign="top" width="33%">
+      <a href="libros/ciencia-de-datos-con-python/volumen-01/README.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada1.png" alt="Ciencia de Datos con Python - Volumen I">
       </a>
       <br>
-      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/readme.md">Ver detalles del Volumen I</a></strong>
+      <strong><a href="libros/ciencia-de-datos-con-python/volumen-01/README.md">Volumen I</a></strong>
       <br>
       Primeros pasos con datos
-  </td>
-  <td align="center">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README2.md">
-        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada2.png" alt="Ciencia de Datos con Python - Vol 2">
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="libros/ciencia-de-datos-con-python/volumen-02/README.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada2.png" alt="Ciencia de Datos con Python - Volumen II">
       </a>
       <br>
-      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README2.md">Ver detalles del Volumen II</a></strong>
+      <strong><a href="libros/ciencia-de-datos-con-python/volumen-02/README.md">Volumen II</a></strong>
       <br>
-      Análisis exploratorio
-  </td>
-  <td align="center">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README3.md">
-        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada3.png" alt="Ciencia de Datos con Python - Vol 3">
+      Análisis exploratorio y visualización
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="libros/ciencia-de-datos-con-python/volumen-03/README.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada3.png" alt="Ciencia de Datos con Python - Volumen III">
       </a>
       <br>
-      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Ciencia%20De%20Datos%20Con%20Python/README3.md">Ver detalles del Volumen III</a></strong>
+      <strong><a href="libros/ciencia-de-datos-con-python/volumen-03/README.md">Volumen III</a></strong>
       <br>
-      Machine Learning
+      Fundamentos de Machine Learning
     </td>
   </tr>
 </table>
 
-## Cuadernos Colab usados en mis clases:
+[Ver la colección completa y su índice de capítulos](libros/ciencia-de-datos-con-python/README.md).
 
-Estos cuadernos se crearon como complementos para cursos relacionados con la Ciencia de Datos. No tienen relación con los PDF de la sección anterior, pero pueden ser útiles para quien está aprendiendo esta materia.
+## Materiales de apoyo de cursos
 
-* [Machine Learning con Python](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning%20con%20Python/README.md), cuadernos complementarios al curso de "Machine Learning con Python".
-* [Análisis de Datos con Python](#análisis-de-datos-con-python), cuadernos escritos para acompañar las clases de un curso de Ciencias de Datos en 2025. 
-* [Uso de los cuadernos](#uso-de-los-cuadernos)
-* [Autor](#autor)
+| Recorrido | Descripción | Estado |
+| --- | --- | --- |
+| [Análisis de Datos con Python](cursos/analisis-de-datos-python/README.md) | Limpieza, selección, agrupamiento, estadística descriptiva y visualización de datos. | Curso finalizado |
+| [Machine Learning con Python](cursos/machine-learning-python/README.md) | Preparación de datos, regresión, clasificación, clustering, pipelines y evaluación de modelos. | Curso finalizado |
 
-El material está organizado en distintos recorridos formativos. Algunos contenidos pueden superponerse parcialmente, especialmente en temas como Pandas, visualización de datos o preparación de datasets, pero cada carpeta responde a un objetivo didáctico diferente. Por eso, las secciones no deben leerse como materiales duplicados, sino como recorridos complementarios.
+Estos cuadernos fueron creados para acompañar cursos específicos. Se conservan en el repositorio como material gratuito de consulta, práctica y apoyo.
 
----
+## Cómo utilizar los cuadernos
 
-### Análisis de Datos con Python
+Los archivos con extensión `.ipynb` pueden visualizarse directamente en GitHub o abrirse en Google Colab mediante el botón incluido al comienzo de cada cuaderno. En Colab es posible ejecutar el código, modificar los ejemplos y guardar una copia personal en Google Drive.
 
-Esta sección contiene cuadernos Colab orientados al trabajo exploratorio con datos usando Python. Incluye materiales sobre Pandas, NumPy, limpieza de datos, selección y filtrado, agrupamientos, visualización y análisis descriptivo. Fueron escritos para acompañar las clases de un curso de Ciencias de Datos en 2025. Están pensadoa para quienes quieren aprender a manipular, explorar y presentar datos con herramientas habituales del ecosistema Python.
+Algunas actividades utilizan archivos ubicados en una carpeta `datos`. Si descargás el repositorio completo, conviene conservar la estructura de carpetas para que las rutas relativas funcionen correctamente.
 
-#### Cuadernos disponibles:
+## Autor, licencia y colaboración
 
-<table>
-  <tr>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase05/Clase05.ipynb">1 - Técnicas para limpiar datos con Pandas</a><br>
-    </td>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06.ipynb">2A - Selecciones y filtros de datos</a><br>
-    </td>
-  </tr>
+Los materiales fueron desarrollados por **Ariel Palazzesi** y se publican como parte del proyecto **VintaBytes**.
 
-  <tr>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase06/Clase06-Actividad-Practica.ipynb">2B - Actividad práctica: filtrar pasajeros sobrevivientes en el naufragio del Titanic</a><br>
-    </td>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase07/Clase07.ipynb">3A - Funciones de agregación y agrupamiento de datos</a><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase07/Clase07-Actividad-Practica.ipynb">3B - Actividad práctica: usar `groupby()` de Pandas para segmentar el dataset</a><br>
-    </td>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08.ipynb">4A - Manejo de arrays en NumPy</a><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase08/Clase08-Actividad-Practica.ipynb">4B - Actividad práctica: integración de DataFrames</a><br>
-    </td>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase09/Clase09_1.ipynb">5A - Estadística descriptiva: análisis de tendencia central</a><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase09/Clase09_2.ipynb">5B - Estadística descriptiva: análisis de dispersión</a><br>
-    </td>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase10/Clase10.ipynb">6A - Introducción a la visualización de datos con Matplotlib</a><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase10/Clase10-Actividad-Practica.ipynb">6B - Actividad práctica: análisis exploratorio del conjunto de datos `diamonds`</a><br>
-    </td>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11.ipynb">7A - Análisis y cálculo de correlación con Pandas</a><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11-Graficos-Seaborn.ipynb">7B - Introducción a gráficos con Seaborn</a><br>
-    </td>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase11/Clase11-Actividad-practica.ipynb">7C - Actividad práctica: análisis de correlación</a><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase12/Clase12-Actividad-practica-1.ipynb">8A - Consolidación de datos: análisis de ventas y productos</a><br>
-    </td>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase12/Clase12-Actividad-practica-2.ipynb">8B - Consolidación de datos: análisis de asistencia y resultados en talleres de capacitación</a><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-1-Matplotlib.ipynb">9A - Matplotlib: análisis de ventas a lo largo del tiempo con gráficos de líneas</a><br>
-    </td>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-2-Matplotlib.ipynb">9B - Matplotlib: análisis de ventas a lo largo del tiempo con gráficos de barras</a><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-1-Seaborn.ipynb">9C - Seaborn: análisis de ventas a lo largo del tiempo con gráficos de líneas</a><br>
-    </td>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase13/Clase13-Actividad-practica-2-Seaborn.ipynb">9D - Seaborn: análisis de ventas a lo largo del tiempo con gráficos de barras</a><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase14/Clase14.ipynb">10 - Gráficos con Seaborn</a><br>
-    </td>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15.ipynb">11A - Dashboard con Seaborn</a><br>
-      Este cuaderno debe ser visualizado en Google Colab.
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="12%" align="center">
-      <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/imagen_cuaderno.png" width="60">
-    </td>
-    <td valign="top" width="38%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/An%C3%A1lisis%20de%20Datos%20con%20Python/Clase15/Clase15-Actividad-practica.ipynb">11B - Actividad práctica: dashboard con Seaborn</a><br>
-    </td>
-    <td valign="top" width="12%"></td>
-    <td valign="top" width="38%"></td>
-  </tr>
-</table>
-
-
-
-[Volver al principio](#ciencia-de-datos-con-python)
-
----
-
-## Uso de los cuadernos
-
-Los cuadernos están pensados para ser abiertos y ejecutados en Google Colab. Cada notebook puede leerse como material de estudio y también usarse como base para clases, prácticas guiadas o actividades de exploración.
-En muchos casos, los cuadernos combinan explicación conceptual, código Python, salidas comentadas e interpretaciones de resultados.
-
-[Volver al principio](#ciencia-de-datos-con-python)
-
----
-
-## Autor
-
-Material desarrollado por **VintaBytes** como parte de distintos recorridos formativos vinculados con programación, análisis de datos, ciencia de datos y machine learning con Python.
+- [Acerca del autor y del proyecto](ACERCA-DE.md)
+- [Condiciones de uso y licencia](LICENSE.md)
+- [Apoyar este proyecto](https://vintabytes.github.io/apoyar/)
 
 [Volver al principio](#ciencia-de-datos-con-python)
