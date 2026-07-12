@@ -26,6 +26,38 @@ Este material forma parte del repositorio general **Ciencia de Datos con Python*
 
 ## Volúmenes de la colección
 
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="volumen-01/README.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada1.png" alt="Ciencia de Datos con Python - Volumen I">
+      </a>
+      <br>
+      <strong><a href="lvolumen-01/README.md">Volumen I</a></strong>
+      <br>
+      Primeros pasos con datos
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="volumen-02/README.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada2.png" alt="Ciencia de Datos con Python - Volumen II">
+      </a>
+      <br>
+      <strong><a href="volumen-02/README.md"">Volumen II</a></strong>
+      <br>
+      Análisis exploratorio y visualización
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="volumen-03/README.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada3.png" alt="Ciencia de Datos con Python - Volumen III">
+      </a>
+      <br>
+      <strong><a href="volumen-03/README.md">Volumen III</a></strong>
+      <br>
+      Fundamentos de Machine Learning
+    </td>
+  </tr>
+</table>
+
 | Volumen | Tema principal | Estado |
 | --- | --- | --- |
 | [Volumen I](volumen-01/README.md) | Primeros pasos, manipulación y limpieza de datos | Disponible |
