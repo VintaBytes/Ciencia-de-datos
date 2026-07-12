@@ -29,29 +29,29 @@ Este material forma parte del repositorio general **Ciencia de Datos con Python*
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="volumen-01/README.md">
+      <a href="libros/ciencia-de-datos-con-python/volumen-01/README.md">
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada1.png" alt="Ciencia de Datos con Python - Volumen I">
       </a>
       <br>
-      <strong><a href="volumen-01/README.md">Volumen I</a></strong>
+      <strong><a href="https://drive.google.com/file/d/1a4udSL7svFQUgukpKiqX_eAU3WDCaojL/view?usp=drive_link">Descargar PDF del Volumen I</a></strong>
       <br>
       Primeros pasos con datos
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="volumen-02/README.md">
+      <a href="libros/ciencia-de-datos-con-python/volumen-02/README.md">
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada2.png" alt="Ciencia de Datos con Python - Volumen II">
       </a>
       <br>
-      <strong><a href="volumen-02/README.md">Volumen II</a></strong>
+      <strong><a href="https://drive.google.com/file/d/1zC0sUpQ28Chfxj_MJCXJ-yc1a2pP7VFI/view?usp=drive_link">Descargar PDF del Volumen II</a></strong>
       <br>
       Análisis exploratorio y visualización
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="volumen-03/README.md">
+      <a href="libros/ciencia-de-datos-con-python/volumen-03/README.md">
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada3.png" alt="Ciencia de Datos con Python - Volumen III">
       </a>
       <br>
-      <strong><a href="volumen-03/README.md">Volumen III</a></strong>
+      <strong><a href="https://drive.google.com/file/d/1rGDPSz8Ggy9xMjGUS_Vynr4_rzejMfdt/view?usp=drive_link">Descargar PDF del Volumen III</a></strong>
       <br>
       Fundamentos de Machine Learning
     </td>
