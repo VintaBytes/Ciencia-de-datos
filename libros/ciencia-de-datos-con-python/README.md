@@ -58,12 +58,6 @@ Este material forma parte del repositorio general **Ciencia de Datos con Python*
   </tr>
 </table>
 
-| Volumen | Tema principal | Estado |
-| --- | --- | --- |
-| [Volumen I](volumen-01/README.md) | Primeros pasos, manipulación y limpieza de datos | Disponible |
-| [Volumen II](volumen-02/README.md) | Análisis exploratorio y visualización | En desarrollo |
-| [Volumen III](volumen-03/README.md) | Fundamentos de Machine Learning | En desarrollo |
-
 ---
 
 ## Sobre este recorrido
