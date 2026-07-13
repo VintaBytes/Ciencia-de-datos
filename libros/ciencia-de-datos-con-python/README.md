@@ -11,10 +11,6 @@
 
 ----
 
-Este directorio contiene una serie de libros en PDF y cuadernos Colab sobre **Ciencia de Datos con Python**, pensada como un recorrido progresivo, narrativo y autocontenido.
-
-A diferencia de otros materiales organizados por clases, esta serie está estructurada como capítulos de estudio. Cada capítulo de cada libro tiene asociado un cuaderno Colab que desarrolla un tema específico y busca acompañar al lector paso a paso, combinando explicación conceptual, código Python, salidas comentadas e interpretación de resultados.
-
 ## Volúmenes de la colección
 
 <table align="center">
@@ -55,13 +51,15 @@ A diferencia de otros materiales organizados por clases, esta serie está estruc
   </tr>
 </table>
 
+Este directorio contiene una serie de libros en PDF y cuadernos Colab sobre **Ciencia de Datos con Python**, pensada como un recorrido progresivo, narrativo y autocontenido.
+
+A diferencia de otros materiales organizados por clases, esta serie está estructurada como capítulos de estudio. Cada capítulo de cada libro tiene asociado un cuaderno Colab que desarrolla un tema específico y busca acompañar al lector paso a paso, combinando explicación conceptual, código Python, salidas comentadas e interpretación de resultados.
+
 ---
 
 ## Sobre este recorrido
 
-Los cuadernos están pensados para ser abiertos y ejecutados en **Google Colab**.
-
-El enfoque está dirigido a personas que ya conocen los fundamentos de Python y quieren comenzar a trabajar con datos usando Pandas. No se asume experiencia previa en ciencia de datos ni en análisis exploratorio.
+El enfoque está dirigido a personas que ya conocen los fundamentos de Python y quieren comenzar a trabajar con datos usando Pandas. No se asume experiencia previa en ciencia de datos ni en análisis exploratorio. Los cuadernos están pensados para ser abiertos y ejecutados en **Google Colab**.
 
 La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas ideas nuevas, las desarrolla con ejemplos concretos y las conecta con lo trabajado anteriormente. El objetivo no es solo mostrar instrucciones de Pandas, sino construir una forma de pensar el trabajo con datos.
 
