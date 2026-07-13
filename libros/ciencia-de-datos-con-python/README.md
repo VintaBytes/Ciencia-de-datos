@@ -12,9 +12,6 @@
 🏠 [Volver al inicio del repositorio](../../README.md) · 🤝 [Apoyar este proyecto](https://vintabytes.github.io/apoyar/)
 
 ----
-**EN ESTE MOMENTO GITHUB TIENE ALGUN PROBLEMA PARA RENDERIZAR LOS CUADERNOS COLAB. SIN EMBARGO, LOS MISMOS ESTÁN CORRECTOS Y PUEDES USARLOS NORMALMENTE EN GOOGLE COLAB.**
-
-----
 
 Este directorio contiene una serie de cuadernos Colab sobre **Ciencia de Datos con Python**, pensada como un recorrido progresivo, narrativo y autocontenido.
 
