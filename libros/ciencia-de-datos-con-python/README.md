@@ -125,15 +125,19 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 * [Capítulo 29 · Agrupaciones múltiples y varios indicadores con groupby()](volumen-02/cuadernos/capitulo-029-agrupaciones-multiples-y-varios-indicadores-con-groupby.ipynb)
 * [Capítulo 30 · Comparar categorías](volumen-02/cuadernos/capitulo-030-comparar-categorias.ipynb)
 * [Capítulo 31 · Rankings, valores extremos y outliers](volumen-02/cuadernos/capitulo-031-rankings-valores-extremos-y-outliers.ipynb)
-* Capítulo 32 · Tablas dinámicas con pivot_table()
+* [Capítulo 32 · Organizar resúmenes con tablas dinámicas](cuadernos/CienciaDeDatos_Cap%C3%ADtulo032_Organizar_res%C3%BAmenes_con_tablas_din%C3%A1micas.ipynb)
 
-### Bloque 2: Visualizar e interpretar resultados
+### Bloque 2: Visualizar e interpretar resultados (En construcción)
 
-* Capítulo 33 · Análisis temporal básico
-* Capítulo 34 · Visualizar distribuciones
-* Capítulo 35 · Visualizar comparaciones
-* Capítulo 36 · Del cálculo al hallazgo
-* Capítulo 37 · Mini análisis exploratorio completo
+* [Capítulo 33 · Análisis temporal básico](cuadernos/CienciaDeDatos_Cap%C3%ADtulo033_An%C3%A1lisis_temporal_b%C3%A1sico.ipynb)
+* [Capítulo 34 · Visualizar distribuciones](cuadernos/CienciaDeDatos_Cap%C3%ADtulo034_Visualizar_distribuciones.ipynb)
+* [Capítulo 35 · Visualizar distribuciones por grupos](cuadernos/CienciaDeDatos_Cap%C3%ADtulo035_Comparar_distribuciones_por_grupos.ipynb)
+* [Capítulo 36 · Visualizar relaciones entre variables numéricas](cuadernos/CienciaDeDatos_Cap%C3%ADtulo036_Visualizar_relaciones_entre_variables_num%C3%A9ricas.ipynb)
+* [Capítulo 37 · Comunicar resultados con visualizaciones claras](cuadernos/CienciaDeDatos_Cap%C3%ADtulo037_Comunicar_resultados_con_visualizaciones_claras.ipynb)
+* [Capítulo 38 · Integrar un análisis exploratorio completo](cuadernos/CienciaDeDatos_Cap%C3%ADtulo038_Integrar_un_an%C3%A1lisis_exploratorio_completo.ipynb)
+* [Capítulo 39 · Escribir conclusiones a partir de los datos](cuadernos/CienciaDeDatos_Cap%C3%ADtulo039_Escribir_conclusiones_a_partir_de_los_datos.ipynb)
+* [Capítulo 40 · Armar un informe breve de análisis exploratorio](cuadernos/CienciaDeDatos_Cap%C3%ADtulo040_Armar_un_informe_breve_de_an%C3%A1lisis_exploratorio.ipynb)
+* [capítulo 41 · Cerrar el análisis exploratorio](cuadernos/CienciaDeDatos_Cap%C3%ADtulo041_Cerrar_el_an%C3%A1lisis_exploratorio.ipynb)
 
 ---
 
