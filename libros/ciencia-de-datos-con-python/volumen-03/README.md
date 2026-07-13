@@ -123,7 +123,69 @@ Con esa base, el lector queda preparado para avanzar hacia temas más especializ
 
 ## Listado de Cuadernos Colab
 
-**Sección en construcción**
+#### (Esta parte está en construcción, y el contenido puede variar)
+
+## Índice de capítulos
+
+### Parte I · Comprender qué es Machine Learning
+
+* Capítulo 1 · ¿Qué es Machine Learning?
+* Capítulo 2 · Problemas, datos y tipos de aprendizaje
+* Capítulo 3 · El flujo general de un proyecto de Machine Learning
+
+### Parte II · Preparar datos para aprender
+
+* Capítulo 4 · Variables de entrada y variable objetivo
+* Capítulo 5 · Entrenamiento, prueba y datos no vistos
+* Capítulo 6 · Limpieza y transformación de datos
+
+### Parte III · Primeros modelos de clasificación
+
+* Capítulo 7 · Clasificación: predecir categorías
+* Capítulo 8 · K-Nearest Neighbors
+* Capítulo 9 · Regresión Logística
+* Capítulo 10 · Árboles de Decisión
+
+### Parte IV · Evaluar modelos de clasificación
+
+* Capítulo 11 · Accuracy y matriz de confusión
+* Capítulo 12 · Precision, recall y F1-score
+* Capítulo 13 · Probabilidades, umbrales, ROC y AUC
+
+### Parte V · Modelos de regresión
+
+* Capítulo 14 · Regresión: predecir valores numéricos
+* Capítulo 15 · Regresión Lineal
+* Capítulo 16 · Métricas para regresión
+
+### Parte VI · Generalización, validación y mejora
+
+* Capítulo 17 · Sobreajuste y subajuste
+* Capítulo 18 · Validación cruzada
+* Capítulo 19 · Hiperparámetros y búsqueda de mejores modelos
+
+### Parte VII · Modelos más potentes
+
+* Capítulo 20 · Random Forest
+* Capítulo 21 · Gradient Boosting
+* Capítulo 22 · Support Vector Machines
+* Capítulo 23 · Naive Bayes
+
+### Parte VIII · Aprendizaje no supervisado
+
+* Capítulo 24 · Aprender sin etiquetas
+* Capítulo 25 · Clustering con K-Means
+* Capítulo 26 · Reducción de dimensionalidad con PCA
+* Capítulo 27 · Interpretar modelos
+* Capítulo 28 · Sesgos, datos y decisiones
+* Capítulo 29 · Errores comunes al construir modelos
+* Capítulo 30 · Comunicar resultados de Machine Learning
+
+### Parte X · Cierre y próximos caminos
+
+* Capítulo 31 · Cómo seguir aprendiendo Machine Learning
+
+
 
 
 ---
