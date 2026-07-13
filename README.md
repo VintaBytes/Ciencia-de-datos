@@ -26,7 +26,9 @@ Los contenidos están organizados en dos grandes secciones: una colección de li
       <br>
       <strong><a href="https://drive.google.com/file/d/1a4udSL7svFQUgukpKiqX_eAU3WDCaojL/view?usp=drive_link">Descargar PDF del Volumen I</a></strong>
       <br>
-      Primeros pasos con datos
+      Introducción práctica al trabajo con datos usando Python.
+      <br>
+      <a href="libros/ciencia-de-datos-con-python/volumen-01/README.md">Ver cuadernos Colab del libro.</a>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="libros/ciencia-de-datos-con-python/volumen-02/README.md">
@@ -35,7 +37,9 @@ Los contenidos están organizados en dos grandes secciones: una colección de li
       <br>
       <strong><a href="https://drive.google.com/file/d/1zC0sUpQ28Chfxj_MJCXJ-yc1a2pP7VFI/view?usp=drive_link">Descargar PDF del Volumen II</a></strong>
       <br>
-      Análisis exploratorio y visualización
+      Análisis exploratorio y visualización de datos con Python
+      <br>
+      <a href="libros/ciencia-de-datos-con-python/volumen-02/README.md">Ver cuadernos Colab del libro.</a>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="libros/ciencia-de-datos-con-python/volumen-03/README.md">
@@ -44,7 +48,9 @@ Los contenidos están organizados en dos grandes secciones: una colección de li
       <br>
       <strong><a href="https://drive.google.com/file/d/1rGDPSz8Ggy9xMjGUS_Vynr4_rzejMfdt/view?usp=drive_link">Descargar PDF del Volumen III</a></strong>
       <br>
-      Fundamentos de Machine Learning
+      Fundamentos de Machine Learning: construir modelos capaces de aprender patrones a partir de datos.
+      <br>
+      <a href="libros/ciencia-de-datos-con-python/volumen-03/README.md">Ver cuadernos Colab del libro.</a>
     </td>
   </tr>
 </table>
