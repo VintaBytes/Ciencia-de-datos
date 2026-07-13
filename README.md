@@ -27,7 +27,7 @@ Los contenidos están organizados en dos grandes secciones: una colección de li
       <strong><a href="https://drive.google.com/file/d/1a4udSL7svFQUgukpKiqX_eAU3WDCaojL/view?usp=drive_link">Descargar PDF del Volumen I</a></strong>
       <br>
       Introducción práctica al trabajo con datos usando Python.
-      <br>
+      <br> <br>
       <a href="libros/ciencia-de-datos-con-python/volumen-01/README.md">Ver cuadernos Colab del libro.</a>
     </td>
     <td align="center" valign="top" width="33%">
@@ -38,7 +38,7 @@ Los contenidos están organizados en dos grandes secciones: una colección de li
       <strong><a href="https://drive.google.com/file/d/1zC0sUpQ28Chfxj_MJCXJ-yc1a2pP7VFI/view?usp=drive_link">Descargar PDF del Volumen II</a></strong>
       <br>
       Análisis exploratorio y visualización de datos con Python
-      <br>
+      <br> <br>
       <a href="libros/ciencia-de-datos-con-python/volumen-02/README.md">Ver cuadernos Colab del libro.</a>
     </td>
     <td align="center" valign="top" width="33%">
