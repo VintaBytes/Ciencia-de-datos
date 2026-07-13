@@ -11,13 +11,9 @@
 
 ----
 
-Este directorio contiene una serie de cuadernos Colab sobre **Ciencia de Datos con Python**, pensada como un recorrido progresivo, narrativo y autocontenido.
+Este directorio contiene una serie de libros en PDF y cuadernos Colab sobre **Ciencia de Datos con Python**, pensada como un recorrido progresivo, narrativo y autocontenido.
 
-A diferencia de otros materiales organizados por clases, esta serie está estructurada como capítulos de estudio. Cada cuaderno desarrolla un tema específico y busca acompañar al lector paso a paso, combinando explicación conceptual, código Python, salidas comentadas e interpretación de resultados.
-
-El recorrido comienza con los primeros contactos con datos tabulares y avanza gradualmente hacia tareas habituales del trabajo con datos: inspección de `DataFrame`, selección de filas y columnas, filtros, ordenamiento, creación de nuevas columnas, limpieza, tratamiento de valores faltantes, conversión de tipos y validación posterior a la preparación del dataset.
-
-Este material forma parte del repositorio general **Ciencia de Datos con Python** y se encuentra actualmente en desarrollo.
+A diferencia de otros materiales organizados por clases, esta serie está estructurada como capítulos de estudio. Cada capítulo de cada libro tiene asociado un cuaderno Colab que desarrolla un tema específico y busca acompañar al lector paso a paso, combinando explicación conceptual, código Python, salidas comentadas e interpretación de resultados.
 
 ## Volúmenes de la colección
 
