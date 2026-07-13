@@ -109,17 +109,19 @@ Con esa base, el lector queda mejor preparado para avanzar hacia etapas posterio
 * [Capítulo 29 · Agrupaciones múltiples y varios indicadores con groupby()](cuadernos/capitulo-029-agrupaciones-multiples-y-varios-indicadores-con-groupby.ipynb)
 * [Capítulo 30 · Comparar categorías](cuadernos/capitulo-030-comparar-categorias.ipynb)
 * [Capítulo 31 · Rankings, valores extremos y outliers](cuadernos/capitulo-031-rankings-valores-extremos-y-outliers.ipynb)
-* Capítulo 32 · Tablas dinámicas con pivot_table()
+* Capítulo 32 · Organizar resúmenes con tablas dinámicas
 
 ### Bloque 2: Visualizar e interpretar resultados (En construcción)
 
 * Capítulo 33 · Análisis temporal básico
 * Capítulo 34 · Visualizar distribuciones
-* Capítulo 35 · Visualizar comparaciones
-* Capítulo 36 · Del cálculo al hallazgo
-* Capítulo 37 · Mini análisis exploratorio completo
-
-
+* Capítulo 35 · Visualizar distribuciones por grupos
+* Capítulo 36 · Visualizar relaciones entre variables numéricas
+* Capítulo 37 · Comunicar resultados con visualizaciones claras
+* Capítulo 38 · Integrar un análisis exploratorio completo
+* Capítulo 39 · Escribir conclusiones a partir de los datos
+* Capítulo 40 · Armar un informe breve de análisis exploratorio
+* capítulo 41 · Cerrar el análisis exploratorio
 
 ---
 
