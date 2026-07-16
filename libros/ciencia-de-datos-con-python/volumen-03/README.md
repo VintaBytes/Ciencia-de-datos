@@ -129,9 +129,9 @@ Con esa base, el lector queda preparado para avanzar hacia temas más especializ
 
 ### Parte I · Comprender qué es Machine Learning
 
-* Capítulo 1 · ¿Qué es Machine Learning?
-* Capítulo 2 · Problemas, datos y tipos de aprendizaje
-* Capítulo 3 · El flujo general de un proyecto de Machine Learning
+* [Capítulo 1 · Datos, patrones y primeras predicciones](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno01.ipynb)
+* [Capítulo 2 · Reconocer tipos de problemas de Machine Learning](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno02.ipynb)
+* [Capítulo 3 · Primer flujo completo de Machine Learning](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno03.ipynb)
 
 ### Parte II · Preparar datos para aprender
 
