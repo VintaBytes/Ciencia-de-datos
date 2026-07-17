@@ -29,7 +29,7 @@
 
 Este directorio reúne una serie de cuadernos de Google Colab orientados al aprendizaje progresivo de **Machine Learning** usando **Python** y **Pandas**, correspondientes al PDF **[Ciencia de Datos con Python - Vol III](https://drive.google.com/file/d/1rGDPSz8Ggy9xMjGUS_Vynr4_rzejMfdt/view?usp=drive_link)**.
 
-[Ir al índice de Cuadernos Colab](#listado-de-cuadernos-colab)
+[Ir al listado de Cuadernos Colab](#listado-de-cuadernos-colab)
 
 ---
 
