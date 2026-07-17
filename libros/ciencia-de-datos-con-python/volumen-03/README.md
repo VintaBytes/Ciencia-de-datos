@@ -135,9 +135,9 @@ Con esa base, el lector queda preparado para avanzar hacia temas más especializ
 
 ### Parte II · Preparar datos para aprender
 
-* Capítulo 4 · Variables de entrada y variable objetivo
-* Capítulo 5 · Entrenamiento, prueba y datos no vistos
-* Capítulo 6 · Limpieza y transformación de datos
+* [Capítulo 4 · Variables de entrada y variable objetivo](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno04.ipynb)
+* [Capítulo 5 · Separar datos: entrenamiento y prueba](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno05.ipynb)
+* [Capítulo 6 · Limpieza y transformación de datos](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno06.ipynb)
 
 ### Parte III · Primeros modelos de clasificación
 
