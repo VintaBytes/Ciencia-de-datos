@@ -142,7 +142,7 @@ Con esa base, el lector queda preparado para avanzar hacia temas más especializ
 ### Parte III · Primeros modelos de clasificación
 
 * [Capítulo 7 · Clasificación: predecir categorías](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno07.ipynb)
-* Capítulo 8 · K-Nearest Neighbors
+* [Capítulo 8 · K-Nearest Neighbors](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno08.ipynb)
 * Capítulo 9 · Regresión Logística
 * Capítulo 10 · Árboles de Decisión
 
