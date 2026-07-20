@@ -143,7 +143,7 @@ Con esa base, el lector queda preparado para avanzar hacia temas más especializ
 
 * [Capítulo 7 · Clasificación: predecir categorías](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno07.ipynb)
 * [Capítulo 8 · K-Nearest Neighbors](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno08.ipynb)
-* Capítulo 9 · Regresión Logística
+* [Capítulo 9 · Regresión logística: clasificar con probabilidades](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno09.ipynb)
 * Capítulo 10 · Árboles de Decisión
 
 ### Parte IV · Evaluar modelos de clasificación
