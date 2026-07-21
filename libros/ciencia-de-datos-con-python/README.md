@@ -140,20 +140,20 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 
 ### Parte I · Comprender qué es Machine Learning
 
-* [Capítulo 1 · Datos, patrones y primeras predicciones](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno01.ipynb)
-* [Capítulo 2 · Reconocer tipos de problemas de Machine Learning](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno02.ipynb)
-* [Capítulo 3 · Primer flujo completo de Machine Learning](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno03.ipynb)
+* [Capítulo 1 · Datos, patrones y primeras predicciones](volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno01.ipynb)
+* [Capítulo 2 · Reconocer tipos de problemas de Machine Learning](/cuadernos/CienciaDeDatos_Tomo3_Cuaderno02.ipynb)
+* [Capítulo 3 · Primer flujo completo de Machine Learning](volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno03.ipynb)
 
 ### Parte II · Preparar datos para aprender
 
-* [Capítulo 4 · Variables de entrada y variable objetivo](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno04.ipynb)
-* [Capítulo 5 · Separar datos: entrenamiento y prueba](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno05.ipynb)
-* [Capítulo 6 · Limpieza y transformación de datos](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno06.ipynb)
+* [Capítulo 4 · Variables de entrada y variable objetivo](volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno04.ipynb)
+* [Capítulo 5 · Separar datos: entrenamiento y prueba](volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno05.ipynb)
+* [Capítulo 6 · Limpieza y transformación de datos](volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno06.ipynb)
 
 ### Parte III · Primeros modelos de clasificación
 
-* [Capítulo 7 · Clasificación: predecir categorías](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno07.ipynb)
-* [Capítulo 8 · K-Nearest Neighbors](./cuadernos/CienciaDeDatos_Tomo3_Cuaderno08.ipynb)
+* [Capítulo 7 · Clasificación: predecir categorías](volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno07.ipynb)
+* [Capítulo 8 · K-Nearest Neighbors](volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno08.ipynb)
 * Capítulo 9 · Regresión Logística
 * Capítulo 10 · Árboles de Decisión
 
