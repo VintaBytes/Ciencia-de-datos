@@ -1,7 +1,5 @@
 # Análisis de Datos con Python
 
-### Ariel Palazzesi · 2025
-
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python\&logoColor=blue)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white)
@@ -10,9 +8,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
 
 🏠 [Volver al inicio del repositorio](../../README.md) · 🤝 [Apoyar este proyecto](https://vintabytes.github.io/apoyar/)
-
-----
-**EN LOS ÚLTIMOS DIAS HAY MOMENTOS EN LOS QUE GITHUB TIENE PROBLEMAS PARA RENDERIZAR LOS CUADERNOS COLAB. SIN EMBARGO, LOS MISMOS ESTÁN CORRECTOS Y PUEDES USARLOS NORMALMENTE EN GOOGLE COLAB.**
 
 ----
 
