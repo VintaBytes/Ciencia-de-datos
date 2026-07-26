@@ -225,6 +225,13 @@ Por eso, algunos temas pueden aparecer en más de una sección, pero con distint
 
 ---
 
-## Autor
+## Autor, licencia y colaboración
 
-Material desarrollado por **[Ariel Palazzesi / VintaBytes](../../ACERCA-DE.md)** como parte de un recorrido formativo sobre ciencia de datos, análisis de datos y programación con Python.
+Los materiales fueron desarrollados por **Ariel Palazzesi** y se publican como parte del proyecto **VintaBytes**.
+
+- [Acerca del autor y del proyecto](ACERCA-DE.md)
+- [Condiciones de uso y licencia](LICENSE.md)
+- [Apoyar este proyecto](https://vintabytes.github.io/apoyar/)
+
+[Volver al principio](#ciencia-de-datos-con-python)
+
