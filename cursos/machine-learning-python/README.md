@@ -1,7 +1,5 @@
 # Machine Learning con Python
 
-### Ariel Palazzesi · 2026
-
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python\&logoColor=blue)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white)
@@ -12,7 +10,6 @@
 
 
 🤝 [Apoyar este proyecto](https://vintabytes.github.io/apoyar/) · 🏠 [Volver al inicio del repositorio](../../README.md)
-
 
 ----
 
@@ -236,6 +233,14 @@ No es necesario tener experiencia previa en machine learning. El recorrido intro
 
 ---
 
-## Autor
+## Autor, licencia y colaboración
 
-Material desarrollado por **[Ariel Palazzesi / VintaBytes](../../ACERCA-DE.md)** como apoyo para clases de programación, análisis de datos y Machine Learning con Python.
+Los materiales fueron desarrollados por **Ariel Palazzesi** y se publican como parte del proyecto **VintaBytes**.
+
+- [Acerca del autor y del proyecto](ACERCA-DE.md)
+- [Condiciones de uso y licencia](LICENSE.md)
+- [Apoyar este proyecto](https://vintabytes.github.io/apoyar/)
+
+[Volver al principio](#ciencia-de-datos-con-python)
+
+
