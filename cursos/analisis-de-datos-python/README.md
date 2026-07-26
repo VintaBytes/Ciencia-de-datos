@@ -142,6 +142,14 @@ Por eso, los materiales pueden complementarse entre sí, aunque algunos temas ap
 
 ---
 
-## Autor
+## Autor, licencia y colaboración
 
-Material desarrollado por **[Ariel Palazzesi / VintaBytes](../../ACERCA-DE.md)** como apoyo para clases de programación y análisis de datos con Python.
+Los materiales fueron desarrollados por **Ariel Palazzesi** y se publican como parte del proyecto **VintaBytes**.
+
+- [Acerca del autor y del proyecto](ACERCA-DE.md)
+- [Condiciones de uso y licencia](LICENSE.md)
+- [Apoyar este proyecto](https://vintabytes.github.io/apoyar/)
+
+[Volver al principio](#ciencia-de-datos-con-python)
+
+
