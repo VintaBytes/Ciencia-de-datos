@@ -21,7 +21,7 @@
       <br>
       <strong><a href="https://drive.google.com/file/d/1rGDPSz8Ggy9xMjGUS_Vynr4_rzejMfdt/view?usp=drive_link">Descargar PDF Volumen III</a></strong>
       <br>
-      Machine Learning<br>Este libro está en desarrollo.<br>Pasá en unos días para ver las novedades.
+      El Machine Learning como una extensión<br>natural del trabajo con datos.
     </td>
   </tr>
 </table>
@@ -119,8 +119,6 @@ Con esa base, el lector queda preparado para avanzar hacia el volumen siguiente,
 ---
 
 ## Listado de Cuadernos Colab
-
-#### (Esta parte está en construcción, y el contenido puede variar)
 
 ## Índice de capítulos
 
