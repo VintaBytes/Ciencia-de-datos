@@ -23,8 +23,8 @@
       <strong><a href="https://drive.google.com/file/d/1a4udSL7svFQUgukpKiqX_eAU3WDCaojL/view?usp=drive_link">Descargar PDF del Volumen I</a></strong>
       <br>
       Introducción práctica al trabajo con datos usando Python.
-      <br>
-      <a href="volumen-01/README.md">Ver cuadernos Colab del libro.</a>
+      <br> <br>
+      <a href="volumen-01/README.md">Ver cuadernos Colab del libro.</a><br>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="volumen-02/README.md">
@@ -34,9 +34,11 @@
       <strong><a href="https://drive.google.com/file/d/1zC0sUpQ28Chfxj_MJCXJ-yc1a2pP7VFI/view?usp=drive_link">Descargar PDF del Volumen II</a></strong>
       <br>
       Análisis exploratorio y visualización de datos con Python
-      <br>
-      <a href="volumen-02/README.md">Ver cuadernos Colab del libro.</a>
+      <br> <br>
+      <a href="volumen-02/README.md">Ver cuadernos Colab del libro.</a><br>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="33%">
       <a href="volumen-03/README.md">
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada3.png" alt="Ciencia de Datos con Python - Volumen III">
@@ -44,9 +46,22 @@
       <br>
       <strong><a href="https://drive.google.com/file/d/1rGDPSz8Ggy9xMjGUS_Vynr4_rzejMfdt/view?usp=drive_link">Descargar PDF del Volumen III</a></strong>
       <br>
-      Fundamentos de Machine Learning: construir modelos capaces de aprender patrones a partir de datos.
+      Fundamentos de Machine Learning I<br>
+      Construir y evaluar modelos de Machine Learning con Python.
       <br>
-      <a href="volumen-03/README.md">Ver cuadernos Colab del libro.</a>
+      <a href="volumen-03/README.md">Ver cuadernos Colab del libro.</a><br>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="volumen-04/README.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada4.png" alt="Ciencia de Datos con Python - Volumen IV">
+      </a>
+      <br>
+      <strong>PDF del Volumen IV en desarrollo.</a></strong>
+      <br>
+      Fundamentos de Machine Learning II<br>
+      Profundización del trabajo con modelos de Machine Learning aplicado con Python.
+      <br>
+      <a href="volumen-04/README.md">Ver cuadernos Colab del libro.</a><br>
     </td>
   </tr>
 </table>
@@ -133,8 +148,7 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 
 ---
 
-# Parte III - Machine Learning
-#### (Esta parte está en construcción, y el contenido puede variar)
+# Parte III - Machine Learning I
 
 ## Índice de capítulos
 
@@ -168,6 +182,11 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 * Capítulo 14 · Regresión: predecir valores numéricos
 * Capítulo 15 · Regresión Lineal
 * Capítulo 16 · Métricas para regresión
+---
+
+# Parte IV - Machine Learning II
+
+## Índice de capítulos
 
 ### Parte VI · Generalización, validación y mejora
 
