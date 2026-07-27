@@ -37,9 +37,9 @@ Este directorio reúne una serie de cuadernos de Google Colab orientados al apre
 
 Después de aprender a cargar, inspeccionar, limpiar, transformar, resumir, agrupar y visualizar datos, aparece una nueva etapa en el trabajo con Python: construir modelos capaces de aprender patrones a partir de esos datos. Ya no se trata solo de describir lo que ocurrió, comparar grupos o comunicar hallazgos exploratorios. Ahora comenzamos a preguntarnos si, a partir de la información disponible, es posible hacer predicciones, clasificar casos, estimar valores numéricos, detectar comportamientos particulares o descubrir estructuras que no estaban explícitamente marcadas.
 
-Este tercer tomo de **Ciencia de Datos con Python** continúa el recorrido iniciado [en los volúmenes anteriores](../README.md). Si el **[primer tomo](../volumen-01/README.md)** estuvo centrado en comprender y preparar datos tabulares, y el segundo avanzó hacia el análisis exploratorio, este volumen introduce los conceptos fundamentales del **Machine Learning**. El objetivo es que el lector pueda comprender qué significa entrenar un modelo, qué tipos de problemas pueden abordarse, cómo se preparan los datos para aprender, cómo se evalúan los resultados y qué precauciones deben tomarse para no extraer conclusiones engañosas.
+Este tercer tomo de **Ciencia de Datos con Python** continúa el recorrido iniciado [en los volúmenes anteriores](../README.md). Si el **[primer tomo](../volumen-01/README.md)** estuvo centrado en comprender y preparar datos tabulares, y el segundo avanzó hacia el análisis exploratorio, este volumen introduce los conceptos fundamentales del **Machine Learning**.  El objetivo es que el lector pueda comprender qué significa entrenar un modelo, qué tipos de problemas pueden abordarse, cómo se preparan los datos para aprender, cómo se evalúan los primeros resultados y qué precauciones deben tomarse para no extraer conclusiones engañosas.
 
-Machine Learning suele presentarse como una disciplina compleja, rodeada de términos técnicos, modelos sofisticados y promesas exageradas. En este libro vamos a recorrer el tema desde una perspectiva introductoria, pero cuidadosa. No empezaremos por los modelos más avanzados ni por fórmulas desconectadas de la práctica, sino por las preguntas básicas: qué es aprender a partir de datos, qué diferencia hay entre un problema de clasificación y uno de regresión, qué significa trabajar con datos etiquetados o no etiquetados, por qué es necesario separar datos de entrenamiento y prueba, y cómo sabemos si un modelo realmente está funcionando.
+Machine Learning suele presentarse como una disciplina compleja, rodeada de términos técnicos, modelos sofisticados y promesas exageradas. En este libro vamos a recorrer el tema desde una perspectiva introductoria, pero cuidadosa. No empezaremos por los modelos más avanzados ni por fórmulas desconectadas de la práctica, sino por las preguntas básicas: qué es aprender a partir de datos, qué diferencia hay entre un problema de clasificación y uno de regresión, qué significa trabajar con datos etiquetados, por qué es necesario separar datos de entrenamiento y prueba, y cómo sabemos si un modelo está funcionando mejor que una simple suposición.
 
 El contenido de este libro incluye una serie de cuadernos de trabajo preparados para Google Colab. En el libro en formato PDF se presentan los temas como texto organizado para facilitar la lectura continua, la consulta y el estudio. Sin embargo, la experiencia más completa se obtiene al trabajar también con los cuadernos disponibles en línea: allí es posible ejecutar el código, modificarlo, observar los resultados, cambiar parámetros, comparar modelos y experimentar con distintos datasets.
 
@@ -47,25 +47,23 @@ Siempre que sea posible, los ejemplos se apoyan en situaciones reales o en datas
 
 ## Qué vas a encontrar en este tomo
 
-Este tomo se concentra en los fundamentos del Machine Learning aplicado con Python. A lo largo de los capítulos se presentan los conceptos centrales de la disciplina: modelos, entrenamiento, predicción, generalización, variables de entrada, variable objetivo, datos etiquetados, datos no etiquetados, aprendizaje supervisado, aprendizaje no supervisado, clasificación, regresión y agrupamiento.
+Este tomo se concentra en los fundamentos iniciales del Machine Learning aplicado con Python. A lo largo de los capítulos se presentan los conceptos centrales necesarios para comenzar: modelos, entrenamiento, predicción, variables de entrada, variable objetivo, datos etiquetados, aprendizaje supervisado, clasificación, regresión y evaluación de resultados.
 
-En los primeros capítulos se construye una base conceptual. Antes de entrenar modelos, es necesario comprender qué tipo de problema tenemos entre manos y qué esperamos que el modelo aprenda. No es lo mismo predecir si un correo es spam que estimar el precio de una vivienda, agrupar clientes según su comportamiento o detectar observaciones extrañas dentro de un conjunto de datos. Cada problema requiere una forma distinta de pensar los datos, elegir modelos y evaluar resultados.
+En los primeros capítulos se construye una base conceptual. Antes de entrenar modelos, es necesario comprender qué tipo de problema tenemos entre manos y qué esperamos que el modelo aprenda. No es lo mismo predecir si un correo es spam que estimar el precio de una vivienda. Cada problema requiere una forma distinta de pensar los datos, elegir modelos y evaluar resultados.
 
-Luego se trabaja sobre la preparación de datos para Machine Learning. Se introducen ideas fundamentales como la separación entre variables de entrada y variable objetivo, la división entre datos de entrenamiento y prueba, el tratamiento de valores faltantes, la codificación de variables categóricas, el escalado de variables numéricas y el uso de herramientas como `ColumnTransformer` y `Pipeline`. También aparece una advertencia clave que acompañará todo el libro: la fuga de datos. Un modelo puede parecer muy bueno si, sin darnos cuenta, le damos información que no debería tener disponible al momento de predecir.
+Luego se trabaja sobre la preparación de datos para Machine Learning. Se introducen ideas fundamentales como la separación entre variables de entrada y variable objetivo, la división entre datos de entrenamiento y prueba, el tratamiento de valores faltantes, la codificación de variables categóricas, el escalado de variables numéricas y el uso de herramientas como `ColumnTransformer` y `Pipeline`. También aparece una advertencia clave que acompañará todo el recorrido: la fuga de datos. Un modelo puede parecer muy bueno si, sin darnos cuenta, le damos información que no debería tener disponible al momento de predecir.
 
-Más adelante se presentan los primeros modelos de clasificación, comenzando por enfoques intuitivos como K-Nearest Neighbors y avanzando hacia regresión logística y árboles de decisión. La intención no es memorizar instrucciones, sino entender cómo piensa cada modelo, qué tipo de frontera de decisión construye, qué ventajas ofrece, en qué situaciones puede fallar y qué cuidados requiere.
+Más adelante se presentan los primeros modelos de clasificación, comenzando por enfoques intuitivos como K-Nearest Neighbors y avanzando hacia la regresión logística. La intención no es memorizar instrucciones, sino entender cómo piensa cada modelo, qué tipo de frontera de decisión construye, qué ventajas ofrece, en qué situaciones puede fallar y qué cuidados requiere.
 
-Una parte importante del recorrido está dedicada a la evaluación. En Machine Learning no alcanza con entrenar un modelo y obtener una predicción: necesitamos saber si esa predicción es confiable, si el modelo generaliza bien a datos nuevos y si la métrica utilizada realmente tiene sentido para el problema. Por eso se estudian la matriz de confusión, la accuracy, precision, recall, F1-score, curvas ROC, AUC y el uso de umbrales de decisión.
+Una parte importante del recorrido está dedicada a la evaluación de modelos de clasificación. En Machine Learning no alcanza con entrenar un modelo y obtener una predicción: necesitamos saber si esa predicción es confiable, qué tipos de errores comete y si la métrica utilizada realmente tiene sentido para el problema. Por eso se estudian la matriz de confusión, la accuracy, precision, recall, F1-score, curvas ROC, AUC y el uso de umbrales de decisión.
 
-El libro también aborda problemas de regresión, donde la variable objetivo no es una categoría sino un valor numérico. Allí se introducen modelos como la regresión lineal y métricas como MAE, MSE, RMSE y $R^2$. El objetivo es que el lector pueda distinguir con claridad cuándo está frente a un problema de clasificación y cuándo frente a un problema de regresión, y que pueda interpretar los errores del modelo en unidades reales.
+El libro también aborda problemas de regresión, donde la variable objetivo no es una categoría sino un valor numérico. Allí se introduce la regresión lineal y se estudian métricas como MAE, MSE, RMSE y R². El objetivo es que el lector pueda distinguir con claridad cuándo está frente a un problema de clasificación y cuándo frente a un problema de regresión, y que pueda interpretar los errores del modelo en unidades reales.
 
-En la segunda mitad del tomo se profundiza en la generalización, la validación cruzada, el sobreajuste, el subajuste y la búsqueda de hiperparámetros. Estos temas son esenciales para construir modelos con mayor criterio. Un modelo no es mejor solo porque obtiene un buen resultado en una partición particular de los datos; necesitamos evaluar su comportamiento de manera más robusta y comparar alternativas con cuidado.
+Este primer volumen llega hasta ese punto del recorrido. Al finalizarlo, el lector contará con una base para comprender qué es Machine Learning, cómo se organizan los datos para entrenar modelos, cómo se construyen modelos iniciales de clasificación y regresión, y cómo se evalúan sus resultados principales.
 
-También se presentan modelos más potentes, como Random Forest, Gradient Boosting, Support Vector Machines y Naive Bayes. Cada uno se introduce desde su idea principal, sus condiciones de uso, sus fortalezas y sus limitaciones. El propósito no es agotar todos los detalles matemáticos o técnicos, sino construir una comprensión suficiente para usarlos con responsabilidad y saber cuándo conviene profundizar.
+Los temas más avanzados continuarán en el volumen siguiente. Allí se profundizará en la generalización, la validación cruzada, el sobreajuste, el subajuste, la búsqueda de hiperparámetros y el control de la complejidad. También se presentarán modelos más potentes, como Random Forest, Gradient Boosting, Support Vector Machines y Naive Bayes, junto con una introducción al aprendizaje no supervisado, la interpretación de modelos, los sesgos, los errores frecuentes y la comunicación responsable de resultados.
 
-Hacia el final se introduce el aprendizaje no supervisado, donde no contamos con una variable objetivo. Se trabajan conceptos como clustering con K-Means y reducción de dimensionalidad con PCA. Estos capítulos permiten ampliar la mirada más allá de la predicción supervisada y comprender que Machine Learning también puede utilizarse para explorar estructuras, reducir complejidad y observar patrones no etiquetados.
-
-El cierre del libro está dedicado a la interpretación, los sesgos, los errores frecuentes y la comunicación de resultados. Un modelo puede ser técnicamente correcto y, aun así, conducir a malas decisiones si se interpretan mal sus resultados, si los datos tienen sesgos importantes, si las métricas no reflejan el objetivo real o si se comunican conclusiones de manera exagerada. Por eso este tomo insiste en una idea central: usar Machine Learning implica también desarrollar criterio.
+De esta manera, este tomo funciona como una primera etapa completa: una base sólida para construir, entrenar y evaluar modelos iniciales. El volumen siguiente retomará ese punto para avanzar hacia preguntas más profundas: cómo mejorar modelos, cómo compararlos con mayor criterio, cómo interpretarlos y cómo usarlos de manera responsable.
 
 ## Requisitos previos
 
@@ -83,15 +81,15 @@ Para aprovechar este libro conviene haber trabajado previamente con los contenid
 * uso básico de gráficos con Matplotlib;
 * lectura e interpretación inicial de tablas, distribuciones y comparaciones.
 
-No es necesario tener experiencia previa en Machine Learning. Este libro está pensado para lectores que se acercan al tema por primera vez. Tampoco se requiere un dominio avanzado de matemática, aunque sí se presentarán fundamentos matemáticos cuando sean necesarios para comprender una métrica, una idea de optimización, una distancia, un error o una medida de evaluación.
+No es necesario tener experiencia previa en Machine Learning. Este libro está pensado para lectores que se acercan al tema por primera vez. Tampoco se requiere un dominio avanzado de matemática, aunque sí se presentarán fundamentos matemáticos cuando sean necesarios para comprender una métrica, una distancia, un error o una medida de evaluación.
 
-El objetivo no es evitar la matemática, sino incorporarla de forma gradual y conectada con problemas concretos. Cuando una fórmula aparezca, lo hará para explicar una idea útil: cómo se mide un error, qué significa maximizar una separación, cómo se resume el desempeño de un modelo o por qué una métrica puede ser más adecuada que otra.
+El objetivo no es evitar la matemática, sino incorporarla de forma gradual y conectada con problemas concretos. Cuando una fórmula aparezca, lo hará para explicar una idea útil: cómo se mide un error, cómo se resume el desempeño de un modelo o por qué una métrica puede ser más adecuada que otra.
 
 ## A quién está dirigido
 
 Este material está pensado para personas que ya conocen Python y han trabajado con datos tabulares, pero no tienen experiencia previa en Machine Learning. Puede ser útil para estudiantes, docentes, programadores, analistas, profesionales que trabajan con datos, personas que preparan proyectos académicos y cualquier lector que quiera comprender los fundamentos de los modelos predictivos sin comenzar directamente por herramientas avanzadas.
 
-El enfoque es introductorio, pero no superficial. Se busca que el lector pueda entrenar modelos, evaluar resultados y comparar alternativas, pero también que entienda las limitaciones de cada procedimiento. En Machine Learning, obtener una métrica no significa necesariamente haber resuelto un problema. Hay que mirar los datos, revisar supuestos, analizar errores, evitar fugas de información, considerar sesgos y comunicar conclusiones con prudencia.
+El enfoque es introductorio, pero no superficial. Se busca que el lector pueda entrenar modelos iniciales, evaluar resultados y comparar alternativas simples, pero también que entienda las limitaciones de cada procedimiento. En Machine Learning, obtener una métrica no significa necesariamente haber resuelto un problema. Hay que mirar los datos, revisar supuestos, analizar errores, evitar fugas de información y comunicar conclusiones con prudencia.
 
 Este libro puede acompañar a quienes estén comenzando un curso de Machine Learning, preparando un proyecto académico, explorando datasets de Kaggle o intentando comprender mejor cómo se aplican modelos predictivos en problemas reales. No está pensado como un manual exhaustivo de todos los algoritmos existentes, sino como una base sólida para empezar a construir criterio.
 
@@ -101,9 +99,9 @@ Cada capítulo puede leerse directamente en el PDF, pero fue pensado también co
 
 En los cuadernos de Google Colab conviene ejecutar cada celda, observar la salida y preguntarse qué aporta ese resultado al problema que se está resolviendo. En Machine Learning, muchas veces el valor no está solo en que el código funcione, sino en interpretar qué ocurrió: cómo quedaron separados los datos, qué variables usó el modelo, qué métrica se obtuvo, qué errores cometió y si el resultado parece razonable.
 
-También es recomendable modificar los ejemplos. Cambiar una variable, probar otro modelo, ajustar un hiperparámetro, alterar el tamaño del conjunto de prueba o comparar distintas métricas ayuda a comprender que los modelos no son cajas mágicas. Cada decisión del proceso puede influir en el resultado final.
+También es recomendable modificar los ejemplos. Cambiar una variable, probar otro modelo, ajustar un parámetro, alterar el tamaño del conjunto de prueba o comparar distintas métricas ayuda a comprender que los modelos no son cajas mágicas. Cada decisión del proceso puede influir en el resultado final.
 
-Los capítulos fueron diseñados como una secuencia progresiva. Algunos conceptos reaparecen en distintos momentos porque forman parte del trabajo cotidiano con modelos. La separación entre entrenamiento y prueba, la evaluación sobre datos no vistos, el riesgo de sobreajuste, la importancia de elegir métricas adecuadas y el cuidado frente a la fuga de datos no se aprenden en una única aparición: se consolidan al verlos funcionar en distintos contextos.
+Los capítulos fueron diseñados como una secuencia progresiva. Algunos conceptos reaparecen en distintos momentos porque forman parte del trabajo cotidiano con modelos. La separación entre entrenamiento y prueba, la evaluación sobre datos no vistos, la importancia de elegir métricas adecuadas y el cuidado frente a la fuga de datos no se aprenden en una única aparición: se consolidan al verlos funcionar en distintos contextos.
 
 ## Enfoque del libro
 
@@ -116,8 +114,7 @@ A lo largo del recorrido se priorizan cuatro ideas:
 * no todos los problemas requieren el mismo tipo de modelo ni la misma métrica;
 * una predicción útil debe interpretarse dentro del contexto del problema, los datos disponibles y sus limitaciones.
 
-Con esa base, el lector queda preparado para avanzar hacia temas más especializados, como Deep Learning, procesamiento de lenguaje natural, series temporales, sistemas de recomendación o despliegue de modelos. Pero, sobre todo, queda mejor preparado para formular buenas preguntas, elegir herramientas con criterio y evitar algunos de los errores más comunes al comenzar a trabajar con Machine Learning.
-
+Con esa base, el lector queda preparado para avanzar hacia el volumen siguiente, donde se trabajarán temas como generalización, validación cruzada, sobreajuste, búsqueda de hiperparámetros, modelos más potentes, aprendizaje no supervisado, interpretación, sesgos y comunicación responsable de resultados. Pero, sobre todo, queda mejor preparado para formular buenas preguntas, elegir herramientas con criterio y evitar algunos de los errores más comunes al comenzar a trabajar con Machine Learning.
 
 ---
 
@@ -157,36 +154,6 @@ Con esa base, el lector queda preparado para avanzar hacia temas más especializ
 * Capítulo 14 · Regresión: predecir valores numéricos
 * Capítulo 15 · Regresión Lineal
 * Capítulo 16 · Métricas para regresión
-
-### Parte VI · Generalización, validación y mejora
-
-* Capítulo 17 · Sobreajuste y subajuste
-* Capítulo 18 · Validación cruzada
-* Capítulo 19 · Hiperparámetros y búsqueda de mejores modelos
-
-### Parte VII · Modelos más potentes
-
-* Capítulo 20 · Random Forest
-* Capítulo 21 · Gradient Boosting
-* Capítulo 22 · Support Vector Machines
-* Capítulo 23 · Naive Bayes
-
-### Parte VIII · Aprendizaje no supervisado
-
-* Capítulo 24 · Aprender sin etiquetas
-* Capítulo 25 · Clustering con K-Means
-* Capítulo 26 · Reducción de dimensionalidad con PCA
-* Capítulo 27 · Interpretar modelos
-* Capítulo 28 · Sesgos, datos y decisiones
-* Capítulo 29 · Errores comunes al construir modelos
-* Capítulo 30 · Comunicar resultados de Machine Learning
-
-### Parte X · Cierre y próximos caminos
-
-* Capítulo 31 · Cómo seguir aprendiendo Machine Learning
-
-
-
 
 ---
 
