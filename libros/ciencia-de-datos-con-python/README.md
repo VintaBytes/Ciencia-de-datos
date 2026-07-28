@@ -169,11 +169,11 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 * [Capítulo 7 · Clasificación: predecir categorías](volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno07.ipynb)
 * [Capítulo 8 · K-Nearest Neighbors](volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno08.ipynb)
 * [Capítulo 9 · Regresión logística: clasificar con probabilidades](volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno09.ipynb)
-* Capítulo 10 · Árboles de Decisión
+* [Capítulo 10 · Árboles de decisión: clasificar mediante preguntas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno10.ipynb)
 
 ### Parte IV · Evaluar modelos de clasificación
 
-* Capítulo 11 · Accuracy y matriz de confusión
+* [Capítulo 11 · Accuracy y matriz de confusión](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno11.ipynb)
 * Capítulo 12 · Precision, recall y F1-score
 * Capítulo 13 · Probabilidades, umbrales, ROC y AUC
 
