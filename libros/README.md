@@ -30,6 +30,8 @@ La colección propone un recorrido progresivo desde los primeros pasos con datos
       <br> <br>
       <a href="ciencia-de-datos-con-python/volumen-02/README.md">Ver cuadernos Colab del libro.</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="33%">
       <a href="ciencia-de-datos-con-python/volumen-03/README.md">
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada3.png" alt="Ciencia de Datos con Python - Volumen III">
@@ -37,9 +39,22 @@ La colección propone un recorrido progresivo desde los primeros pasos con datos
       <br>
       <strong><a href="https://drive.google.com/file/d/1rGDPSz8Ggy9xMjGUS_Vynr4_rzejMfdt/view?usp=drive_link">Descargar PDF del Volumen III</a></strong>
       <br>
-      Fundamentos de Machine Learning: construir modelos capaces de aprender patrones a partir de datos.
+      Fundamentos de Machine Learning I <br>
+      Construir modelos de Machine Learning con.
       <br>
       <a href="ciencia-de-datos-con-python/volumen-03/README.md">Ver cuadernos Colab del libro.</a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="ciencia-de-datos-con-python/volumen-04/README.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada4.png" alt="Ciencia de Datos con Python - Volumen IV">
+      </a>
+      <br>
+      <strong>PDF del Volumen IV en desarrollo.</strong>
+      <br>
+      Fundamentos de Machine Learning II<br>
+      Profundización del trabajo con modelos de Machine Learning aplicado con Python.
+      <br>
+      <a href="ciencia-de-datos-con-python/volumen-04/README.md">Ver cuadernos Colab del libro.</a>
     </td>
   </tr>
 </table>
