@@ -174,7 +174,7 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 ### Parte IV · Evaluar modelos de clasificación
 
 * [Capítulo 11 · Accuracy y matriz de confusión](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno11.ipynb)
-* Capítulo 12 · Precision, recall y F1-score
+* [Capítulo 12 · Precision, recall y F1-score](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno12.ipynb)
 * Capítulo 13 · Probabilidades, umbrales, ROC y AUC
 
 ### Parte V · Modelos de regresión
