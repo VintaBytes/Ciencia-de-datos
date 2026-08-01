@@ -179,7 +179,7 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 
 ### Parte V · Modelos de regresión
 
-* Capítulo 14 · Regresión: predecir valores numéricos
+* [Capítulo 14 · Regresión: predecir valores numéricos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno14.ipynb)
 * Capítulo 15 · Regresión Lineal
 * Capítulo 16 · Métricas para regresión
 ---
