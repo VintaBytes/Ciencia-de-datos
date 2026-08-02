@@ -111,7 +111,7 @@ Con esa base, el lector queda mejor preparado para avanzar hacia etapas posterio
 * [Capítulo 31 · Rankings, valores extremos y outliers](cuadernos/capitulo-031-rankings-valores-extremos-y-outliers.ipynb)
 * [Capítulo 32 · Organizar resúmenes con tablas dinámicas](cuadernos/CienciaDeDatos_Cap%C3%ADtulo032_Organizar_res%C3%BAmenes_con_tablas_din%C3%A1micas.ipynb)
 
-### Bloque 2: Visualizar e interpretar resultados (En construcción)
+### Bloque 2: Visualizar e interpretar resultados
 
 * [Capítulo 33 · Análisis temporal básico](cuadernos/CienciaDeDatos_Cap%C3%ADtulo033_An%C3%A1lisis_temporal_b%C3%A1sico.ipynb)
 * [Capítulo 34 · Visualizar distribuciones](cuadernos/CienciaDeDatos_Cap%C3%ADtulo034_Visualizar_distribuciones.ipynb)
