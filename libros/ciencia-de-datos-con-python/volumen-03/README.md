@@ -151,7 +151,7 @@ Con esa base, el lector queda preparado para avanzar hacia el volumen siguiente,
 
 * [Capítulo 14 · Regresión: predecir valores numéricos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno14.ipynb)
 * [Capítulo 15 · Regresión Lineal](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno15.ipynb)
-* Capítulo 16 · Métricas para regresión
+* [Capítulo 16 · Métricas para regresión](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-03/cuadernos/CienciaDeDatos_Tomo3_Cuaderno16.ipynb)
 
 ---
 
