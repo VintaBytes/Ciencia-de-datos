@@ -21,7 +21,9 @@
       <br>
       <strong><a href="https://drive.google.com/file/d/14Hg7IwWqpmukbvOe-B5TR1Twz2MzRWkP/view?usp=sharing">Descargar PDF del Volumen IV</a></strong>
       <br>
-      Machine Learning II<br>Este libro está en desarrollo.<br>Pasá en unos días para ver las novedades.
+      Fundamentos de Machine Learning II:<br>
+      Profundización del trabajo con modelos de<br>Machine Learning aplicado con Python.
+      <br>
     </td>
   </tr>
 </table>
