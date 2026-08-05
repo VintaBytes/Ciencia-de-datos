@@ -56,10 +56,10 @@
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada4.png" alt="Ciencia de Datos con Python - Volumen IV">
       </a>
       <br>
-      <strong>PDF del Volumen IV en desarrollo.</strong>
+      <strong><a href="https://drive.google.com/file/d/14Hg7IwWqpmukbvOe-B5TR1Twz2MzRWkP/view?usp=sharing">Descargar PDF del Volumen IV</a></strong>
       <br>
-      Fundamentos de Machine Learning II<br>
-      Profundización del trabajo con modelos de Machine Learning aplicado con Python.
+      Fundamentos de Machine Learning II:<br>
+      Profundización del trabajo con modelos de<br>Machine Learning aplicado con Python.
       <br>
       <a href="volumen-04/README.md">Ver cuadernos Colab del libro.</a><br>
     </td>
