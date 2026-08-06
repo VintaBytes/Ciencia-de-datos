@@ -137,13 +137,13 @@ Con esa base, el lector queda preparado para seguir avanzando hacia temas más e
 
 ## Listado de Cuadernos Colab
 
-#### (Esta parte está en construcción, y el contenido puede variar)
+#### (Esta parte está en construcción)
 
 ## Índice de capítulos
 
 ### Parte VI · Generalización, validación y mejora
 
-* Capítulo 17 · Sobreajuste y subajuste
+* [Capítulo 17 · Sobreajuste y subajuste](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno17.ipynb)
 * Capítulo 18 · Validación cruzada
 * Capítulo 19 · Hiperparámetros y búsqueda de mejores modelos
 
