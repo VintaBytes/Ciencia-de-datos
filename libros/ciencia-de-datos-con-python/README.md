@@ -64,6 +64,21 @@
       <a href="volumen-04/README.md">Ver cuadernos Colab del libro.</a><br>
     </td>
   </tr>
+
+   <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="volumen-05/README.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada5.png" alt="Ciencia de Datos con Python - Volumen V">
+      </a>
+      <br>
+      <strong><a href="https://drive.google.com/file/d/1o0cf42pVgXVXWOwSSzM64_7XsFRhgadP/view?usp=drive_link">Descargar PDF del Volumen V</a></strong>
+      <br>
+      Deep Learning I<br>
+      ¿Cómo funcionan las redes neuronales?<br>¿Cómo aprenden a partir de los datos?
+      <br>
+      <a href="volumen-05/README.md">Ver cuadernos Colab del libro.</a><br>
+    </td>
+  </tr>
 </table>
 
 Este directorio contiene una serie de libros en PDF y cuadernos Colab sobre **Ciencia de Datos con Python**, pensada como un recorrido progresivo, narrativo y autocontenido.
