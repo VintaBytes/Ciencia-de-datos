@@ -39,7 +39,7 @@ Los contenidos están organizados en dos grandes secciones: una colección de li
       <br>
       Análisis exploratorio y visualización de datos con Python
       <br> <br>
-      <a href="ciencia-de-datos-con-python/volumen-02/README.md">Ver cuadernos Colab del libro.</a>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-02/README.md">Ver cuadernos Colab del libro.</a>
     </td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Los contenidos están organizados en dos grandes secciones: una colección de li
       Fundamentos de Machine Learning I <br>
       Construir modelos de Machine Learning con.
       <br>
-      <a href="ciencia-de-datos-con-python/volumen-03/README.md">Ver cuadernos Colab del libro.</a>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-03/README.md">Ver cuadernos Colab del libro.</a>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/README.md">
@@ -65,7 +65,7 @@ Los contenidos están organizados en dos grandes secciones: una colección de li
       Fundamentos de Machine Learning II<br>
       Profundización del trabajo con modelos de Machine Learning aplicado con Python.
       <br>
-      <a href="ciencia-de-datos-con-python/volumen-04/README.md">Ver cuadernos Colab del libro.</a>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/README.md">Ver cuadernos Colab del libro.</a>
     </td>
   </tr>
 
@@ -80,7 +80,7 @@ Los contenidos están organizados en dos grandes secciones: una colección de li
       Deep Learning I<br>
       ¿Cómo funcionan las redes neuronales?<br>¿Cómo aprenden a partir de los datos?
       <br>
-      <a href="ciencia-de-datos-con-python/volumen-05/README.md">Ver cuadernos Colab del libro.</a><br>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/README.md">Ver cuadernos Colab del libro.</a><br>
     </td>
   </tr>
   
