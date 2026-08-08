@@ -71,7 +71,7 @@
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada5.png" alt="Ciencia de Datos con Python - Volumen V">
       </a>
       <br>
-      <strong><a href="https://drive.google.com/file/d/1o0cf42pVgXVXWOwSSzM64_7XsFRhgadP/view?usp=drive_link">Descargar PDF del Volumen V</a></strong>
+      <strong><a href="https://drive.google.com/file/d/1o0cf42pVgXVXWOwSSzM64_7XsFRhgadP/view?usp=drive_link">Versión preliminar<br>del PDF del Volumen V</a></strong>
       <br>
       Deep Learning I<br>
       ¿Cómo funcionan las redes neuronales?<br>¿Cómo aprenden a partir de los datos?
