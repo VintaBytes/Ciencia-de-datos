@@ -20,7 +20,7 @@ Los contenidos están organizados en dos grandes secciones: una colección de li
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/libros/ciencia-de-datos-con-python/volumen-01/README.md">
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-01/README.md">
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada1.png" alt="Ciencia de Datos con Python - Volumen I">
       </a>
       <br>
@@ -28,7 +28,7 @@ Los contenidos están organizados en dos grandes secciones: una colección de li
       <br>
       Introducción práctica al trabajo con datos usando Python.
       <br> <br>
-      <a href="ciencia-de-datos-con-python/volumen-01/README.md">Ver cuadernos Colab del libro.</a>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-01/README.md">Ver cuadernos Colab del libro.</a>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-02/README.md">
