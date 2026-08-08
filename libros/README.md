@@ -60,7 +60,7 @@ La colección propone un recorrido progresivo desde los primeros pasos con datos
 
   <tr>
      <td align="center" valign="top" width="33%">
-      <a href="volumen-05/README.md">
+      <a href="ciencia-de-datos-con-python/volumen-05/README.md">
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada5.png" alt="Ciencia de Datos con Python - Volumen V">
       </a>
       <br>
@@ -69,7 +69,7 @@ La colección propone un recorrido progresivo desde los primeros pasos con datos
       Deep Learning I<br>
       ¿Cómo funcionan las redes neuronales?<br>¿Cómo aprenden a partir de los datos?
       <br>
-      <a href="volumen-05/README.md">Ver cuadernos Colab del libro.</a><br>
+      <a href="ciencia-de-datos-con-python/volumen-05/README.md">Ver cuadernos Colab del libro.</a><br>
     </td>
   </tr>
   
