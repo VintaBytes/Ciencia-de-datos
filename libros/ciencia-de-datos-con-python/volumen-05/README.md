@@ -12,15 +12,13 @@
 
 ----
 
-### ESTE VOLUMEN ESTÁ EN CONSTRUCCIÓN
-
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada5.png" alt="Ciencia de Datos con Python - Vol 5">
       <br>
       <strong>Ciencia de Datos con Python - Volumen V <br>
-      (<a src="https://drive.google.com/file/d/1o0cf42pVgXVXWOwSSzM64_7XsFRhgadP/view?usp=drive_link">Versión preliminar del PDF</a>)</strong>
+      (<a href="https://drive.google.com/file/d/1o0cf42pVgXVXWOwSSzM64_7XsFRhgadP/view?usp=drive_link">Versión preliminar del PDF</a>)</strong>
       <br>
       Introducción al Deep Learning:<br>
       redes neuronales, entrenamiento, visión artificial,<br>
