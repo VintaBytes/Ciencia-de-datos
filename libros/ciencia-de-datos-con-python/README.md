@@ -233,6 +233,74 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 
 ---
 
+# Parte V - Deep Learning
+
+## Índice de capítulos
+
+### Parte I · Del Machine Learning a las redes neuronales
+
+* Capítulo 1 · ¿Qué es Deep Learning?
+* Capítulo 2 · La neurona artificial
+* Capítulo 3 · De una neurona a una red
+* Capítulo 4 · Funciones de activación
+
+### Parte II · Cómo aprende una red neuronal
+
+* Capítulo 5 · Medir el error: funciones de pérdida
+* Capítulo 6 · Descenso por gradiente
+* Capítulo 7 · Backpropagation
+* Capítulo 8 · Épocas, batches y optimizadores
+
+### Parte III · Primeras redes neuronales
+
+* Capítulo 9 · Primer modelo de Deep Learning
+* Capítulo 10 · Entrenamiento y validación
+* Capítulo 11 · Sobreajuste en redes neuronales
+
+### Parte IV · Imágenes como datos
+
+* Capítulo 12 · Cómo ve una computadora una imagen
+* Capítulo 13 · Reconocimiento de dígitos con MNIST
+* Capítulo 14 · De píxeles a características
+
+### Parte V · Redes neuronales convolucionales
+
+* Capítulo 15 · Convoluciones
+* Capítulo 16 · Pooling
+* Capítulo 17 · Primera red convolucional
+* Capítulo 18 · Clasificar imágenes con Fashion-MNIST
+* Capítulo 19 · Imágenes en color con CIFAR-10
+
+### Parte VI · Mejorar modelos de visión
+
+* Capítulo 20 · Data augmentation
+* Capítulo 21 · Transfer learning
+* Capítulo 22 · Un problema con imágenes propias
+
+### Parte VII · Texto y secuencias
+
+* Capítulo 23 · Texto como datos
+* Capítulo 24 · Clasificar textos
+* Capítulo 25 · Datos secuenciales y memoria
+
+### Parte VIII · Atención y transformers
+
+* Capítulo 26 · Atención
+* Capítulo 27 · Transformers
+
+### Parte IX · Modelos preentrenados
+
+* Capítulo 28 · El ecosistema actual de modelos preentrenados
+
+### Parte X · Evaluación, criterio y próximos caminos
+
+* Capítulo 29 · Analizar errores, confianza y datos desconocidos
+* Capítulo 30 · Datos, sesgos y decisiones
+* Capítulo 31 · Guardar, cargar y utilizar un modelo entrenado
+* Capítulo 32 · Cómo seguir aprendiendo Deep Learning
+
+---
+
 ## Herramientas principales
 
 A lo largo del recorrido se utilizan principalmente:
