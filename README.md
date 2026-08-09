@@ -51,7 +51,7 @@ Los contenidos están organizados en dos grandes secciones: una colección de li
       <strong><a href="https://drive.google.com/file/d/1rGDPSz8Ggy9xMjGUS_Vynr4_rzejMfdt/view?usp=drive_link">Descargar PDF del Volumen III</a></strong>
       <br>
       Fundamentos de Machine Learning I <br>
-      Construir modelos de Machine Learning con.
+      Construir modelos de Machine Learning con Python.
       <br>
       <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-03/README.md">Ver cuadernos Colab del libro.</a>
     </td>
