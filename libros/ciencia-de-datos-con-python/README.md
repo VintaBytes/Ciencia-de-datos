@@ -206,10 +206,10 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 ### Parte VI · Generalización, validación y mejora
 
 * [Capítulo 17 · Sobreajuste y subajuste](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno17.ipynb)
-* Capítulo 18 · Validación cruzada
-* Capítulo 19 · Hiperparámetros y búsqueda de mejores modelos
-* Capítulo 20 ·
-* 
+* [Capítulo 18 · Validación cruzada](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno18.ipynb)
+* [Capítulo 19 · Ajuste de hiperparámetros](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno19.ipynb)
+* [Capítulo 20 · Regularización y control de complejidad](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno20.ipynb)}
+
 ### Parte VII · Modelos más potentes
 
 * [Capítulo 21 · Random Forest](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno21.ipynb)
@@ -230,8 +230,6 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 ### Parte X · Cierre y próximos caminos
 
 * Capítulo 32 · Cómo seguir aprendiendo Machine Learning
-
-
 
 ---
 
