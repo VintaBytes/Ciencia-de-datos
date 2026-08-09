@@ -208,27 +208,28 @@ La propuesta prioriza una progresión cuidadosa: cada capítulo introduce pocas 
 * [Capítulo 17 · Sobreajuste y subajuste](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno17.ipynb)
 * Capítulo 18 · Validación cruzada
 * Capítulo 19 · Hiperparámetros y búsqueda de mejores modelos
-
+* Capítulo 20 ·
+* 
 ### Parte VII · Modelos más potentes
 
-* Capítulo 20 · Random Forest
-* Capítulo 21 · Gradient Boosting
-* Capítulo 22 · Support Vector Machines
-* Capítulo 23 · Naive Bayes
+* [Capítulo 21 · Random Forest](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno21.ipynb)
+* [Capítulo 22 · Gradient Boosting](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno22.ipynb)
+* Capítulo 23 · Support Vector Machines
+* Capítulo 24 · Naive Bayes
 
 ### Parte VIII · Aprendizaje no supervisado
 
-* Capítulo 24 · Aprender sin etiquetas
-* Capítulo 25 · Clustering con K-Means
-* Capítulo 26 · Reducción de dimensionalidad con PCA
-* Capítulo 27 · Interpretar modelos
-* Capítulo 28 · Sesgos, datos y decisiones
-* Capítulo 29 · Errores comunes al construir modelos
-* Capítulo 30 · Comunicar resultados de Machine Learning
+* Capítulo 25 · Aprender sin etiquetas
+* Capítulo 26 · Clustering con K-Means
+* Capítulo 27 · Reducción de dimensionalidad con PCA
+* Capítulo 28 · Interpretar modelos
+* Capítulo 29 · Sesgos, datos y decisiones
+* Capítulo 30 · Errores comunes al construir modelos
+* Capítulo 31 · Comunicar resultados de Machine Learning
 
 ### Parte X · Cierre y próximos caminos
 
-* Capítulo 31 · Cómo seguir aprendiendo Machine Learning
+* Capítulo 32 · Cómo seguir aprendiendo Machine Learning
 
 
 
