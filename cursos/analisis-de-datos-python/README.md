@@ -33,6 +33,13 @@ Las clases 1 a 4 no están incluidas en este directorio porque corresponden a un
 
 ## Índice de contenidos
 
+### Clase 01 · Acceso a datos
+
+Pequeño cuaderno que muestra como acceder en Colab, usando Pandas, a archivos XLSX, CSV, TXT y JSON.
+* [Lectura de archivos con Pandas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/analisis-de-datos-python/clases/clase-01/Lectura_archivos_con_Pandas.ipynb)
+
+---
+
 ### Clase 05 · Limpieza de datos con Pandas
 
 * [Técnicas para limpiar datos con Pandas](clases/clase-05/contenido.ipynb)
