@@ -152,8 +152,8 @@ Con esa base, el lector queda preparado para seguir avanzando hacia temas más e
 
 * [Capítulo 21 · Random Forest](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno21.ipynb)
 * [Capítulo 22 · Gradient Boosting](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno22.ipynb)
-* Capítulo 23 · Support Vector Machines
-* Capítulo 24 · Naive Bayes
+* [Capítulo 23 · Support Vector Machines](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno23.ipynb)
+* [Capítulo 24 · Naive Bayes](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno24.ipynb)
 
 ### Parte VIII · Aprendizaje no supervisado
 
