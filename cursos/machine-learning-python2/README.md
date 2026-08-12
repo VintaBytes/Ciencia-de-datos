@@ -35,7 +35,7 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
 ## Índice de contenidos
 <table>
   <tr>
-    <td valign="top" width="5" align="center">
+    <td valign="top" align="center">
       <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 1" width="100">
     </td>
     <td valign="top" width="38%">
