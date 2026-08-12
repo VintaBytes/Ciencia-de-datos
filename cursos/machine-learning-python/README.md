@@ -185,14 +185,6 @@ A lo largo del recorrido se trabajan modelos de regresión, clasificación y clu
 
 ---
 
-## Versión en PDF
-
-La carpeta de exportaciones PDF fue retirada del repositorio para evitar duplicar archivos pesados. La versión compilada del material podrá descargarse desde Google Drive.
-
-<!-- Agregar aquí el enlace de Google Drive cuando esté disponible. -->
-
----
-
 ## Herramientas principales
 
 A lo largo del recorrido se utilizan principalmente:
