@@ -86,10 +86,11 @@ Los contenidos están organizados en dos grandes secciones: una colección de li
 
 ## Materiales de apoyo de cursos
 
-| Recorrido | Descripción |
-| --- | --- |
-| [Análisis de Datos con Python](cursos/analisis-de-datos-python/README.md) | Limpieza, selección, agrupamiento, estadística descriptiva y visualización de datos. | 
-| [Machine Learning con Python](cursos/machine-learning-python/README.md) | Preparación de datos, regresión, clasificación, clustering, pipelines y evaluación de modelos. | 
+| Curso | Fecha | Contenidos principales | Estado |
+| --- | --- | --- | --- |
+| **[Machine Learning con Python](cursos/machine-learning-python2/README.md)** |  2do Sem 2026 |Preparación de datos, modelos supervisados y no supervisados, pipelines y evaluación. | **En curso** |
+| [Machine Learning con Python](cursos/machine-learning-python/README.md) |  1er Sem 2026 |Preparación de datos, modelos supervisados y no supervisados, pipelines y evaluación. | Finalizado |
+| [Análisis de Datos con Python](cursos/analisis-de-datos-python/README.md) | 2do Sem. 2025 | Limpieza, selección, agrupamiento, estadística descriptiva y visualización. | Finalizado |
 
 Estos cuadernos fueron creados para acompañar cursos específicos. Se conservan en el repositorio como material gratuito de consulta, práctica y apoyo.
 
