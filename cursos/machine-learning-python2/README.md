@@ -36,7 +36,7 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
 <table>
   <tr>
     <td valign="top"  width="12%" align="center">
-      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 1" width="100">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 1" width="120">
     </td>
     <td valign="top" width="88%">
       <strong>Clase 1 · Repaso de Pandas y formatos de archivos</strong><br><br>
