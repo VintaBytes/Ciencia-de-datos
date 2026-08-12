@@ -35,10 +35,10 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
 ## Índice de contenidos
 <table>
   <tr>
-    <td valign="top" align="center">
+    <td valign="top"  width="12%" align="center">
       <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 1" width="100">
     </td>
-    <td valign="top" width="38%">
+    <td valign="top" width="88%">
       <strong>Clase 1 · Repaso de Pandas y formatos de archivos</strong><br><br>
       <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase01/Lectura_archivos_con_Pandas.ipynb">Lectura de archivos con Pandas</a><br><br>
       Este primer cuaderno presenta una aproximación inicial al trabajo con datasets en el contexto de machine learning. Se muestra como usar el entorno Colab y como cargar distintos tipos de archivos en un dataframe de Pandas.
