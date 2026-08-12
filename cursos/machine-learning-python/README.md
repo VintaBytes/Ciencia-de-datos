@@ -18,19 +18,13 @@ Este directorio reúne cuadernos Colab creados como material de apoyo para un re
 
 > **Estado del material:** curso finalizado. Los cuadernos se conservan como recursos de consulta y práctica.
 
-El material está pensado para estudiantes que ya tienen una base inicial en Python y cierto contacto previo con el trabajo con datos usando Pandas. A partir de esa base, los cuadernos avanzan hacia la preparación de datasets, la división de datos, el entrenamiento de modelos, la evaluación de resultados y la comparación entre distintas técnicas de aprendizaje automático.
+El material fue pensado para estudiantes que tenian una base inicial en Python y cierto contacto previo con el trabajo con datos usando Pandas. A partir de esa base, los cuadernos avanzan hacia la preparación de datasets, la división de datos, el entrenamiento de modelos, la evaluación de resultados y la comparación entre distintas técnicas de aprendizaje automático.
 
-Este recorrido forma parte del repositorio general **Ciencia de Datos con Python**, pero tiene un objetivo específico: introducir los principales conceptos y procedimientos del machine learning supervisado y no supervisado mediante ejemplos prácticos en Google Colab.
+Este recorrido tiene un objetivo específico: introducir los principales conceptos y procedimientos del machine learning supervisado y no supervisado mediante ejemplos prácticos en Google Colab.
 
----
+Cada notebook combina explicación conceptual, código Python, análisis de salidas y comentarios sobre la interpretación de los resultados. El foco no se puso únicamente en ejecutar modelos, sino también en comprender qué problema estamos resolviendo, qué decisiones tomamos durante el proceso y cómo evaluar si un modelo es adecuado.
 
-## Sobre este recorrido
-
-Los cuadernos están pensados para ser abiertos y ejecutados en **Google Colab**.
-
-Cada notebook combina explicación conceptual, código Python, análisis de salidas y comentarios sobre la interpretación de los resultados. El foco no está solamente en ejecutar modelos, sino también en comprender qué problema estamos resolviendo, qué decisiones tomamos durante el proceso y cómo evaluar si un modelo es adecuado.
-
-A lo largo del recorrido se trabajan modelos de regresión, clasificación y clustering. También se incorporan herramientas habituales del flujo de trabajo en machine learning, como partición de datos, validación cruzada, métricas de evaluación, pipelines y búsqueda de hiperparámetros.
+Se trabajaron modelos de regresión, clasificación y clustering. También se incorporaron herramientas habituales del flujo de trabajo en machine learning, como partición de datos, validación cruzada, métricas de evaluación, pipelines y búsqueda de hiperparámetros.
 
 ---
 
@@ -198,7 +192,7 @@ A lo largo del recorrido se utilizan principalmente:
 * Plotly
 * scikit-learn
 
-También se trabajan conceptos generales de análisis exploratorio de datos, preparación de datasets, evaluación de modelos y comunicación de resultados.
+También se trabajaron conceptos generales de análisis exploratorio de datos, preparación de datasets, evaluación de modelos y comunicación de resultados. Para profundizar en esos temas, **podes mirar los volumenes I y II de [Ciencia de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/libros).**
 
 ---
 
