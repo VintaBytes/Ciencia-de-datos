@@ -185,7 +185,7 @@ El enfoque está dirigido a personas que ya conocen los fundamentos de Python y 
 * [Capítulo 17 · Sobreajuste y subajuste](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno17.ipynb)
 * [Capítulo 18 · Validación cruzada](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno18.ipynb)
 * [Capítulo 19 · Ajuste de hiperparámetros](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno19.ipynb)
-* [Capítulo 20 · Regularización y control de complejidad](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno20.ipynb)}
+* [Capítulo 20 · Regularización y control de complejidad](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno20.ipynb)
 
 ### Parte VII · Modelos más potentes
 
