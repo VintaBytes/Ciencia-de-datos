@@ -13,6 +13,8 @@
 
 Este es mi repositorio de libros, cuadernos de Google Colab y materiales educativos sobre **programación**, **análisis de datos** y **Machine Learning con Python**. Los contenidos están organizados en dos grandes secciones: una colección de **libros de estudio** y una sección con **materiales de apoyo** correspondientes a cursos sobre estos temas que estoy dictando o he dictado en el pasado.
 
+**El contenido del repositorio se actualiza casi a diario.**
+
 ## Libros y cuadernos complementarios
 
 Cada uno de los capítulos de los libros en PDF poseen un cuaderno Jupyter complementario, con el código y ejemplos necesarios para experimentar con los conceptos expuestos.
@@ -84,6 +86,8 @@ Cada uno de los capítulos de los libros en PDF poseen un cuaderno Jupyter compl
 
 [Ver la colección completa y su índice de capítulos](libros/ciencia-de-datos-con-python/README.md).
 
+---
+
 ## Materiales de apoyo de cursos
 
 | Curso | Fecha | Contenidos principales | Estado |
@@ -94,11 +98,13 @@ Cada uno de los capítulos de los libros en PDF poseen un cuaderno Jupyter compl
 
 Estos cuadernos fueron creados para acompañar cursos específicos. Se conservan en el repositorio como material gratuito de consulta, práctica y apoyo.
 
+---
+
 ## Cómo utilizar los cuadernos
 
-Los archivos con extensión `.ipynb` pueden visualizarse directamente en GitHub o abrirse en Google Colab mediante el botón incluido al comienzo de cada cuaderno. En Colab es posible ejecutar el código, modificar los ejemplos y guardar una copia personal en Google Drive.
+Los archivos con extensión `.ipynb` pueden visualizarse directamente en GitHub o abrirse en Google Colab mediante el botón incluido al comienzo de cada cuaderno. En Colab es posible ejecutar el código, modificar los ejemplos y guardar una copia personal en Google Drive. Algunas actividades utilizan archivos ubicados en una carpeta `datos`. 
 
-Algunas actividades utilizan archivos ubicados en una carpeta `datos`. Si descargás el repositorio completo, conviene conservar la estructura de carpetas para que las rutas relativas funcionen correctamente.
+---
 
 ## Autor, licencia y colaboración
 
