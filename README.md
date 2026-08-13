@@ -90,13 +90,13 @@ Cada uno de los capítulos de los libros en PDF poseen un cuaderno Jupyter compl
 
 ## Materiales de apoyo de cursos
 
+Estos cuadernos fueron creados para acompañar cursos específicos. Algunos de ellos ya han finalizado, pero se conservan en el repositorio como material gratuito de consulta, práctica y apoyo.
+
 | Curso | Fecha | Contenidos principales | Estado |
 | --- | --- | --- | --- |
-| **[Machine Learning con Python](cursos/machine-learning-python2/README.md)** |  2do Sem 2026 |Preparación de datos, modelos supervisados y no supervisados, pipelines y evaluación. | **En curso** |
-| [Machine Learning con Python](cursos/machine-learning-python/README.md) |  1er Sem 2026 |Preparación de datos, modelos supervisados y no supervisados, pipelines y evaluación. | Finalizado |
-| [Análisis de Datos con Python](cursos/analisis-de-datos-python/README.md) | 2do Sem. 2025 | Limpieza, selección, agrupamiento, estadística descriptiva y visualización. | Finalizado |
-
-Estos cuadernos fueron creados para acompañar cursos específicos. Se conservan en el repositorio como material gratuito de consulta, práctica y apoyo.
+| **[Machine Learning con Python](cursos/machine-learning-python2/README.md)** |  2do Semestre 2026 |Preparación de datos, modelos supervisados y no supervisados, pipelines y evaluación. | **En curso** |
+| [Machine Learning con Python](cursos/machine-learning-python/README.md) |  1er Semestre 2026 |Preparación de datos, modelos supervisados y no supervisados, pipelines y evaluación. | Finalizado |
+| [Análisis de Datos con Python](cursos/analisis-de-datos-python/README.md) | 2do Semestre. 2025 | Limpieza, selección, agrupamiento, estadística descriptiva y visualización. | Finalizado |
 
 ---
 
