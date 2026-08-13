@@ -11,11 +11,11 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn\&logoColor=white)
 
 
-Repositorio de libros, cuadernos de Google Colab y materiales educativos sobre programación, análisis de datos y Machine Learning con Python.
-
-Los contenidos están organizados en dos grandes secciones: una colección de libros de estudio y materiales de apoyo correspondientes a cursos ya finalizados.
+Este es mi repositorio de libros, cuadernos de Google Colab y materiales educativos sobre **programación**, **análisis de datos** y **Machine Learning con Python**. Los contenidos están organizados en dos grandes secciones: una colección de **libros de estudio** y una sección con **materiales de apoyo** correspondientes a cursos sobre estos temas que estoy dictando o he dictado en el pasado.
 
 ## Libros y cuadernos complementarios
+
+Cada uno de los capítulos de los libros en PDF poseen un cuaderno Jupyter complementario, con el código y ejemplos necesarios para experimentar con los conceptos expuestos.
 
 <table align="center">
   <tr>
