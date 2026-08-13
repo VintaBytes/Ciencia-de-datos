@@ -81,9 +81,9 @@ Estos cuadernos fueron creados para acompañar cursos específicos. Algunos de e
 
 | Curso | Fecha | Contenidos principales | Estado |
 | --- | --- | --- | --- |
-| **[Machine Learning con Python](cursos/machine-learning-python2/README.md)** |  2do Semestre 2026 |Preparación de datos, modelos supervisados y no supervisados, pipelines y evaluación. | **En curso** |
-| [Machine Learning con Python](cursos/machine-learning-python/README.md) |  1er Semestre 2026 |Preparación de datos, modelos supervisados y no supervisados, pipelines y evaluación. | Finalizado |
-| [Análisis de Datos con Python](cursos/analisis-de-datos-python/README.md) | 2do Semestre. 2025 | Limpieza, selección, agrupamiento, estadística descriptiva y visualización. | Finalizado |
+| **[Machine Learning con Python](cursos/machine-learning-python2/README.md)** | **2do Semestre 2026**| *Preparación de datos, modelos supervisados y no supervisados, pipelines y evaluación. En el curso se trabaja con modelos de regresión, clasificación y clustering. También se incorporan herramientas habituales del flujo de trabajo en machine learning, como partición de datos, validación cruzada, métricas de evaluación, pipelines y búsqueda de hiperparámetros.* | **En curso** |
+| [Machine Learning con Python](cursos/machine-learning-python/README.md) |  1er Semestre 2026 |Preparación de datos, modelos supervisados y no supervisados, pipelines y evaluación. En el curso se trabaja con modelos de regresión, clasificación y clustering. También se incorporan herramientas habituales del flujo de trabajo en machine learning, como partición de datos, validación cruzada, métricas de evaluación, pipelines y búsqueda de hiperparámetros.| Finalizado |
+| [Análisis de Datos con Python](cursos/analisis-de-datos-python/README.md) |2do Semestre. 2025 | Limpieza, selección, agrupamiento, estadística descriptiva y visualización. El recorrido está orientado al trabajo exploratorio con datos usando Python. A lo largo de los cuadernos se abordan tareas habituales del análisis de datos: limpieza, selección y filtrado, agrupamiento, estadística descriptiva, visualización y construcción de dashboards simples.| Finalizado |
 
 ---
 
