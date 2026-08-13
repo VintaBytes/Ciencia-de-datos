@@ -11,23 +11,19 @@
 
 ----
 
-Este directorio reúne cuadernos Colab creados como material de apoyo para el curso **Análisis de Datos con Python**, dictado en el marco de **Talento Tech** durante el segundo cuatrimestre de 2025.
+Este directorio reúne cuadernos Colab que fueron creados como material de apoyo para el curso **Análisis de Datos con Python**, dictado en el marco de **Talento Tech** durante el segundo cuatrimestre de 2025.
 
-> **Estado del material:** curso finalizado. Los cuadernos se conservan como recursos de consulta y práctica.
+> **Estado del material:** Este curso ha finalizado. Los cuadernos se conservan como recursos de consulta y práctica.
 
 El recorrido está orientado al trabajo exploratorio con datos usando Python. A lo largo de los cuadernos se abordan tareas habituales del análisis de datos: limpieza, selección y filtrado, agrupamiento, estadística descriptiva, visualización y construcción de dashboards simples.
 
-Este material forma parte del repositorio general **Ciencia de Datos con Python**, pero tiene un objetivo específico: acompañar un curso introductorio de análisis de datos, con clases y actividades prácticas organizadas por tema.
+Este material tiene un objetivo específico: acompañar un curso introductorio de análisis de datos, con clases y actividades prácticas organizadas por tema. Si deseas profundizar, puedes ver los PDFs y cuadernos **[Ciencia de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/README.md)**.
 
 ---
 
 ## Sobre este recorrido
 
-Los cuadernos están pensados para ser abiertos y ejecutados en **Google Colab**.
-
-Cada clase combina explicaciones conceptuales, ejemplos de código y actividades prácticas. En algunos casos, los notebooks principales presentan el tema de la clase, mientras que los notebooks de actividad permiten aplicar lo trabajado sobre datasets concretos.
-
-Las clases 1 a 4 no están incluidas en este directorio porque corresponden a un repaso inicial de sintaxis y estructuras básicas de Python. El material publicado comienza en la clase 5, cuando el curso entra de lleno en el trabajo con datos.
+Los cuadernos están pensados para ser abiertos y ejecutados en **Google Colab**. Cada clase combina explicaciones conceptuales, ejemplos de código y actividades prácticas. En algunos casos, los notebooks principales presentan el tema de la clase, mientras que los notebooks de actividad permiten aplicar lo trabajado sobre datasets concretos. Las clases 1 a 4 no están incluidas en este directorio porque corresponden a un repaso inicial de sintaxis y estructuras básicas de Python. El material publicado comienza en la clase 5, cuando el curso entra de lleno en el trabajo con datos.
 
 ---
 
@@ -131,16 +127,6 @@ A lo largo del recorrido se utilizan principalmente:
 * Seaborn
 
 También se trabajan conceptos generales de análisis exploratorio de datos, interpretación de resultados y comunicación visual de información.
-
----
-
-## Relación con otros recorridos del repositorio
-
-Este directorio puede tener puntos de contacto con otras secciones del repositorio, especialmente con **[Ciencia de Datos con Python](../../libros/ciencia-de-datos-con-python/README.md)** y **[Machine Learning con Python](../machine-learning-python/README.md)**.
-
-La diferencia principal está en el enfoque. Este recorrido conserva la estructura de un curso de análisis de datos organizado por clases. En cambio, otros directorios pueden tener un formato más narrativo, progresivo o centrado en modelos de machine learning.
-
-Por eso, los materiales pueden complementarse entre sí, aunque algunos temas aparezcan en más de una sección.
 
 ---
 
