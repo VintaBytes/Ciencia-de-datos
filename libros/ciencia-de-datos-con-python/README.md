@@ -196,8 +196,8 @@ El enfoque está dirigido a personas que ya conocen los fundamentos de Python y 
 
 ### Parte VIII · Aprendizaje no supervisado
 
-* Capítulo 25 · Aprender sin etiquetas
-* Capítulo 26 · Clustering con K-Means
+* [Capítulo 25 · Aprender sin etiquetas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno25.ipynb)
+* [Capítulo 26 · Clustering con K-Means](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno26.ipynb)
 * Capítulo 27 · Reducción de dimensionalidad con PCA
 * Capítulo 28 · Interpretar modelos
 * Capítulo 29 · Sesgos, datos y decisiones
