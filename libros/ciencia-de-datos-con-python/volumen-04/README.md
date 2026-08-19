@@ -160,7 +160,7 @@ Con esa base, el lector queda preparado para seguir avanzando hacia temas más e
 * [Capítulo 25 · Aprender sin etiquetas](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno25.ipynb)
 * [Capítulo 26 · Clustering con K-Means](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno26.ipynb)
 * [Capítulo 27 · Reducción de dimensionalidad con PCA](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno27.ipynb)
-* Capítulo 28 · Interpretar modelos
+* [Capítulo 28 · Interpretar modelos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno28.ipynb)
 * Capítulo 29 · Sesgos, datos y decisiones
 * Capítulo 30 · Errores comunes al construir modelos
 * Capítulo 31 · Comunicar resultados de Machine Learning
