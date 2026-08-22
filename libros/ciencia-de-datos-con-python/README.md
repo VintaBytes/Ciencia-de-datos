@@ -201,7 +201,7 @@ El enfoque está dirigido a personas que ya conocen los fundamentos de Python y 
 * [Capítulo 27 · Reducción de dimensionalidad con PCA](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno27.ipynb)
 * [Capítulo 28 · Interpretar modelos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno28.ipynb)
 * [Capítulo 29 · Sesgos, datos y decisiones](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno29.ipynb)
-* Capítulo 30 · Errores comunes al construir modelos
+* [Capítulo 30 · Errores comunes al construir modelos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno30.ipynb)
 * Capítulo 31 · Comunicar resultados de Machine Learning
 
 ### Parte X · Cierre y próximos caminos
