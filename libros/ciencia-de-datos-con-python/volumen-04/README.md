@@ -163,7 +163,7 @@ Con esa base, el lector queda preparado para seguir avanzando hacia temas más e
 * [Capítulo 28 · Interpretar modelos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno28.ipynb)
 * [Capítulo 29 · Sesgos, datos y decisiones](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno29.ipynb)
 * [Capítulo 30 · Errores comunes al construir modelos](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno30.ipynb)
-* Capítulo 31 · Comunicar resultados de Machine Learning
+* [Capítulo 31 · Comunicar resultados de Machine Learning](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno31.ipynb)
 
 ### Parte X · Cierre y próximos caminos
 
