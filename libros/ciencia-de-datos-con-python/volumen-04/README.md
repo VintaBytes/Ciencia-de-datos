@@ -167,7 +167,7 @@ Con esa base, el lector queda preparado para seguir avanzando hacia temas más e
 
 ### Parte X · Cierre y próximos caminos
 
-* Capítulo 32 · Cómo seguir aprendiendo Machine Learning
+* [Capítulo 32 · Cómo seguir aprendiendo Machine Learning](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/cuadernos/CienciaDeDatos_Tomo3_Cuaderno32.ipynb)
 
 ---
 
