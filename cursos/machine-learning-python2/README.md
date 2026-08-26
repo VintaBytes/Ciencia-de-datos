@@ -44,6 +44,17 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
       Este primer cuaderno presenta una aproximación inicial al trabajo con datasets en el contexto de machine learning. Se muestra como usar el entorno Colab y como cargar distintos tipos de archivos en un dataframe de Pandas.
     </td>
   </tr>
+  
+  <tr>
+    <td valign="top"  width="12%" align="center">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 1" width="120">
+    </td>
+    <td valign="top" width="88%"> 
+      <strong>Cuaderno 2 · Preparación de datos para Machine Learning: exploración y limpieza</strong><br><br>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase04/Preparaci%C3%B3n_de_datos_para_Machine_Learning_exploraci%C3%B3n_y_limpieza.ipynb">Exploración y limpieza de datos</a><br><br>
+      Esta etapa es fundamental en un proyecto de Machine Learning. Antes de entrenar un modelo necesitamos comprender los datos con los que vamos a trabajar y asegurarnos de que tengan una estructura y una calidad adecuadas.
+    </td>
+  </tr>
 </table>
 
 ---
