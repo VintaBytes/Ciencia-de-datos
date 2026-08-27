@@ -49,7 +49,7 @@ La colección propone un recorrido progresivo desde los primeros pasos con datos
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada4.png" alt="Ciencia de Datos con Python - Volumen IV">
       </a>
       <br>
-      <strong>PDF del Volumen IV en desarrollo.</strong>
+      <strong>Descargar PDF del Volumen IV</strong>
       <br>
       Fundamentos de Machine Learning II<br>
       Profundización del trabajo con modelos de Machine Learning aplicado con Python.
