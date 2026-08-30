@@ -181,7 +181,7 @@ La intención es que, al finalizar el recorrido, el lector pueda observar una ar
 
 * [Capítulo 1 · ¿Qué es Deep Learning?](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno01.ipynb)
 * [Capítulo 2 · La neurona artificial](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno02.ipynb)
-* Capítulo 3 · De una neurona a una red
+* [Capítulo 3 · De una neurona a una red](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno03.ipynb)
 * Capítulo 4 · Funciones de activación
 
 ### Parte II · Cómo aprende una red neuronal
