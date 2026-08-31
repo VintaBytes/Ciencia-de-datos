@@ -55,7 +55,21 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
       Esta etapa es fundamental en un proyecto de Machine Learning. Antes de entrenar un modelo necesitamos comprender los datos con los que vamos a trabajar y asegurarnos de que tengan una estructura y una calidad adecuadas.
     </td>
   </tr>
+  
+  <tr>
+    <td valign="top"  width="12%" align="center">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 1" width="120">
+    </td>
+    <td valign="top" width="88%"> 
+      <strong>Cuaderno 3 · Transformación de datos y Feature Engineering.</strong><br><br>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase04/Transformacion_de_datos_el_primer_paso_hacia_el_modelo.ipynb">Transformación de datos: el primer paso hacia el modelo</a><br><br>
+      Se trabaja sobre la preparación de los datos antes del modelado. Feature Engineering con fechas y variables derivadas. Crear columnas derivadas. Transformación de variables categóricas. Label Encoding. One-Hot Encoding. Normalización y estandarización de variables numéricas.
+    </td>
+  </tr>
 </table>
+
+
+
 
 ---
 
