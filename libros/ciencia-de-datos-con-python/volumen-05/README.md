@@ -11,7 +11,7 @@
 🤝 [Apoyar este proyecto](https://vintabytes.github.io/apoyar/) · 📚 [Ver la colección](../README.md) · 🏠 [Volver al inicio](../../../README.md)
 
 ----
-**Este libro está en desarrollo**. El **25/08/2026** se agregó el **Capítulo 6 · Descenso por gradiente**. Pronto estará disponible el capítulo siguiente.
+**Este libro está en desarrollo**. El **04/09/2026** se agregó el **Capítulo 7 · Backpropagation: aprender desde el error**. Aún restan pulir el renderizado de algunas expresiones LaTex 🫩. Pronto estará disponible el capítulo siguiente.
 
 <table align="center">
   <tr>
