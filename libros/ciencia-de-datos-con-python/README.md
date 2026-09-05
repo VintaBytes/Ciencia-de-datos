@@ -69,11 +69,9 @@ Este directorio contiene una serie de libros en PDF y cuadernos Colab sobre **Ci
          <img src="https://github.com/VintaBytes/VintaBytes.github.io/blob/main/images/PortadaPolars1.png" alt="Polars para usuarios de Pandas">
       </a>
       <br>
-      <strong>Polars para usuarios de Pandas<br>
-      (<a href="https://drive.google.com/file/d/1M0f31seZbuAPPxjaTSHPc9hJUZZc9LE1/view?usp=drive_link">Versión preliminar del PDF</a>)</strong>
+      <a href="https://drive.google.com/file/d/1M0f31seZbuAPPxjaTSHPc9hJUZZc9LE1/view?usp=drive_link">Versión preliminar del PDF<br>"Polars para usuarios de Pandas"</a></strong>
       <br>
-      Una introducción progresiva a Polars para lectores<br>
-      que ya trabajan con Pandas y análisis de datos en Python.
+      Una introducción progresiva a Polars para lectores que ya trabajan con Pandas y análisis de datos en Python.
       <br>
       <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/polars-01/README.md">Ver cuadernos Colab del libro.</a><br>
     </td>
