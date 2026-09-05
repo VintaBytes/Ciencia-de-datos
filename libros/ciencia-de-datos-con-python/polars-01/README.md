@@ -14,10 +14,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="" alt="Polars para usuarios de Pandas">
+      <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portadaPolars1.png" alt="Polars para usuarios de Pandas">
       <br>
       <strong>Polars para usuarios de Pandas<br>
-      (<a href="">Versión preliminar del PDF</a>)</strong>
+      (<a href="https://drive.google.com/file/d/1M0f31seZbuAPPxjaTSHPc9hJUZZc9LE1/view?usp=drive_link">Versión preliminar del PDF</a>)</strong>
       <br>
       Una introducción progresiva a Polars para lectores<br>
       que ya trabajan con Pandas y análisis de datos en Python.
