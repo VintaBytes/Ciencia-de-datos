@@ -68,8 +68,23 @@ Cada uno de los capítulos de los libros en PDF poseen un cuaderno Jupyter compl
       <br>
       <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/README.md">Ver cuadernos Colab del libro.</a><br>
     </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/polars-01/README.md">
+         <img src="https://github.com/VintaBytes/VintaBytes.github.io/blob/main/images/PortadaPolars1.png" alt="Polars para usuarios de Pandas">
+      </a>
+      <br>
+      <a href="https://drive.google.com/file/d/1M0f31seZbuAPPxjaTSHPc9hJUZZc9LE1/view?usp=drive_link">Versión preliminar del PDF<br>"Polars para usuarios de Pandas"</a></strong>
+      <br>
+      Una introducción progresiva a Polars para lectores que ya trabajan con Pandas y análisis de datos en Python.
+      <br>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/polars-01/README.md">Ver cuadernos Colab del libro.</a><br>
+    </td>
+  </tr>
+    
   </tr>
 </table>
+
+
 
 [Ver la colección completa y su índice de capítulos](libros/ciencia-de-datos-con-python/README.md).
 
