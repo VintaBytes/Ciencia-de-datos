@@ -64,8 +64,21 @@ Este directorio contiene una serie de libros en PDF y cuadernos Colab sobre **Ci
       <br>
       <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/README.md">Ver cuadernos Colab del libro.</a><br>
     </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/README.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada5.png" alt="Ciencia de Datos con Python - Volumen V">
+      </a>
+      <br>
+      <strong><a href="https://drive.google.com/file/d/1o0cf42pVgXVXWOwSSzM64_7XsFRhgadP/view?usp=drive_link">Versión preliminar<br>del PDF del Volumen V</a></strong>
+      <br>
+      Deep Learning I<br>
+      ¿Cómo funcionan las redes neuronales?<br>¿Cómo aprenden a partir de los datos?
+      <br>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/README.md">Ver cuadernos Colab del libro.</a><br>
+    </td>
   </tr>
 </table>
+
 
 
 El enfoque está dirigido a personas que ya conocen los fundamentos de Python y quieren comenzar a trabajar con datos usando Pandas. No se asume experiencia previa en ciencia de datos ni en análisis exploratorio. Los cuadernos están pensados para ser abiertos y ejecutados en **Google Colab**. El objetivo no es solo mostrar código, sino construir una forma de pensar el trabajo con datos.
