@@ -4,6 +4,8 @@
 ![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
 
 🤝 [Apoyar este proyecto](https://vintabytes.github.io/apoyar/) · 📚 [Ver la colección](../README.md) · 🏠 [Volver al inicio](../../../README.md)
 
