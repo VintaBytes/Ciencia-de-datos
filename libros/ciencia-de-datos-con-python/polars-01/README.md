@@ -14,7 +14,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portadaPolars1.png" alt="Polars para usuarios de Pandas">
+      <img src="https://github.com/VintaBytes/VintaBytes.github.io/blob/main/images/PortadaPolars1.png" alt="Polars para usuarios de Pandas">
       <br>
       <strong>Polars para usuarios de Pandas<br>
       (<a href="https://drive.google.com/file/d/1M0f31seZbuAPPxjaTSHPc9hJUZZc9LE1/view?usp=drive_link">Versión preliminar del PDF</a>)</strong>
