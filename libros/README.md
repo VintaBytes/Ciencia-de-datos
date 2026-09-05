@@ -2,64 +2,45 @@
 
 Esta sección contiene libros gratuitos y sus correspondientes cuadernos ejecutables de Google Colab.
 
-## Ciencia de Datos con Python
-
-La colección propone un recorrido progresivo desde los primeros pasos con datos tabulares hasta el análisis exploratorio, la visualización y los fundamentos de Machine Learning.
-
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="ciencia-de-datos-con-python/volumen-01/README.md">
-        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada1.png" alt="Ciencia de Datos con Python - Volumen I">
-      </a>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-01/README.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada1.png" alt="Ciencia de Datos con Python - Volumen I"></a>
       <br>
-      <strong><a href="https://drive.google.com/file/d/1a4udSL7svFQUgukpKiqX_eAU3WDCaojL/view?usp=drive_link">Descargar PDF del Volumen I</a></strong>
-      <br>
-      Introducción práctica al trabajo con datos usando Python.
-      <br> <br>
-      <a href="ciencia-de-datos-con-python/volumen-01/README.md">Ver cuadernos Colab del libro.</a>
+      <strong><a href="https://drive.google.com/file/d/1a4udSL7svFQUgukpKiqX_eAU3WDCaojL/view?usp=drive_link">Descargar PDF del Volumen I</a></strong><br>
+      Introducción práctica al trabajo con datos usando Python. <br> <br>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-01/README.md">Ver cuadernos Colab del libro.</a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="ciencia-de-datos-con-python/volumen-02/README.md">
-        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada2.png" alt="Ciencia de Datos con Python - Volumen II">
-      </a>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-02/README.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada2.png" alt="Ciencia de Datos con Python - Volumen II"></a>
       <br>
-      <strong><a href="https://drive.google.com/file/d/1zC0sUpQ28Chfxj_MJCXJ-yc1a2pP7VFI/view?usp=drive_link">Descargar PDF del Volumen II</a></strong>
+      <strong><a href="https://drive.google.com/file/d/1zC0sUpQ28Chfxj_MJCXJ-yc1a2pP7VFI/view?usp=drive_link">Descargar PDF del Volumen II</a></strong><br>
+      Análisis exploratorio y visualización de datos con Python <br> <br>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-02/README.md">Ver cuadernos Colab del libro.</a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-03/README.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada3.png" alt="Ciencia de Datos con Python - Volumen III"></a>
       <br>
-      Análisis exploratorio y visualización de datos con Python
-      <br> <br>
-      <a href="ciencia-de-datos-con-python/volumen-02/README.md">Ver cuadernos Colab del libro.</a>
+      <strong><a href="https://drive.google.com/file/d/1rGDPSz8Ggy9xMjGUS_Vynr4_rzejMfdt/view?usp=drive_link">Descargar PDF del Volumen III</a></strong><br>
+      Fundamentos de Machine Learning I <br>
+      Construir modelos de Machine Learning con Python. <br>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-03/README.md">Ver cuadernos Colab del libro.</a>
     </td>
   </tr>
-  <tr>
+  <tr>    
     <td align="center" valign="top" width="33%">
-      <a href="ciencia-de-datos-con-python/volumen-03/README.md">
-        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada3.png" alt="Ciencia de Datos con Python - Volumen III">
-      </a>
-      <br>
-      <strong><a href="https://drive.google.com/file/d/1rGDPSz8Ggy9xMjGUS_Vynr4_rzejMfdt/view?usp=drive_link">Descargar PDF del Volumen III</a></strong>
-      <br>
-      Fundamentos de Machine Learning I <br>
-      Construir modelos de Machine Learning con.
-      <br>
-      <a href="ciencia-de-datos-con-python/volumen-03/README.md">Ver cuadernos Colab del libro.</a>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="ciencia-de-datos-con-python/volumen-04/README.md">
-        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada4.png" alt="Ciencia de Datos con Python - Volumen IV">
-      </a>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/README.md">
+        <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada4.png" alt="Ciencia de Datos con Python - Volumen IV"></a>
       <br>
       <strong><a href="https://drive.google.com/file/d/14Hg7IwWqpmukbvOe-B5TR1Twz2MzRWkP/view?usp=drive_link">Descargar PDF del Volumen IV</a></strong>
-      <br>
-      Fundamentos de Machine Learning II<br>
-      Profundización del trabajo con modelos de Machine Learning aplicado con Python.
-      <br>
-      <a href="ciencia-de-datos-con-python/volumen-04/README.md">Ver cuadernos Colab del libro.</a>
+      <br>Fundamentos de Machine Learning II<br>Profundización del trabajo con modelos de Machine Learning aplicado con Python.<br>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-04/README.md">Ver cuadernos Colab del libro.</a>
     </td>
-  </tr>
-  <tr>
-     <td align="center" valign="top" width="33%">
-      <a href="ciencia-de-datos-con-python/volumen-05/README.md">
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/README.md">
         <img src="https://github.com/VintaBytes/VintaBytes.github.io/raw/main/images/portada5.png" alt="Ciencia de Datos con Python - Volumen V">
       </a>
       <br>
@@ -68,7 +49,7 @@ La colección propone un recorrido progresivo desde los primeros pasos con datos
       Deep Learning I<br>
       ¿Cómo funcionan las redes neuronales?<br>¿Cómo aprenden a partir de los datos?
       <br>
-      <a href="ciencia-de-datos-con-python/volumen-05/README.md">Ver cuadernos Colab del libro.</a><br>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/README.md">Ver cuadernos Colab del libro.</a><br>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/polars-01/README.md">
@@ -80,9 +61,9 @@ La colección propone un recorrido progresivo desde los primeros pasos con datos
       Una introducción progresiva a Polars para lectores que ya trabajan con Pandas y análisis de datos en Python.
       <br>
       <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/polars-01/README.md">Ver cuadernos Colab del libro.</a><br>
-       </td>
+    </td>
   </tr>
-</table>
+ </table>
 
 [Ver la colección, los volúmenes y el índice de capítulos](ciencia-de-datos-con-python/README.md).
 
