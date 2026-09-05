@@ -69,17 +69,16 @@ Este directorio contiene una serie de libros en PDF y cuadernos Colab sobre **Ci
          <img src="https://github.com/VintaBytes/VintaBytes.github.io/blob/main/images/PortadaPolars1.png" alt="Polars para usuarios de Pandas">
       </a>
       <br>
-      <strong><a href="https://drive.google.com/file/d/1o0cf42pVgXVXWOwSSzM64_7XsFRhgadP/view?usp=drive_link">Versión preliminar<br>del PDF del Volumen V</a></strong>
+      <strong>Polars para usuarios de Pandas<br>
+      (<a href="https://drive.google.com/file/d/1M0f31seZbuAPPxjaTSHPc9hJUZZc9LE1/view?usp=drive_link">Versión preliminar del PDF</a>)</strong>
       <br>
-      Deep Learning I<br>
-      ¿Cómo funcionan las redes neuronales?<br>¿Cómo aprenden a partir de los datos?
+      Una introducción progresiva a Polars para lectores<br>
+      que ya trabajan con Pandas y análisis de datos en Python.
       <br>
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/README.md">Ver cuadernos Colab del libro.</a><br>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/polars-01/README.md">Ver cuadernos Colab del libro.</a><br>
     </td>
   </tr>
 </table>
-
-
 
 
 El enfoque está dirigido a personas que ya conocen los fundamentos de Python y quieren comenzar a trabajar con datos usando Pandas. No se asume experiencia previa en ciencia de datos ni en análisis exploratorio. Los cuadernos están pensados para ser abiertos y ejecutados en **Google Colab**. El objetivo no es solo mostrar código, sino construir una forma de pensar el trabajo con datos.
