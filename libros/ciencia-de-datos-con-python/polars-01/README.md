@@ -82,20 +82,20 @@ Los cuadernos no están pensados como hojas de ejercicios. Funcionan como recorr
 
 ### Parte I · De Pandas a Polars
 
-* Capítulo 1 · ¿Por qué Polars? — sin cuaderno independiente
-* [Capítulo 2 · Nuestro primer DataFrame con Polars]()
-* Capítulo 3 · Un DataFrame parecido, pero no igual — sin cuaderno independiente
-* [Capítulo 4 · Seleccionar columnas con `select()`]()
-* [Capítulo 5 · Filtrar filas con `filter()`]()
-* [Capítulo 6 · Combinar condiciones]()
-* [Capítulo 7 · Crear y transformar columnas con `with_columns()`]()
-* [Capítulo 8 · Transformaciones condicionales con `when()`, `then()` y `otherwise()`]()
-* [Capítulo 9 · Ordenar, buscar extremos y construir rankings]()
+* Capítulo 1 · ¿Por qué Polars? *(sin cuaderno independiente)*
+* Capítulo 2 · Nuestro primer DataFrame con Polars
+* Capítulo 3 · Un DataFrame parecido, pero no igual *(sin cuaderno independiente)*
+* Capítulo 4 · Seleccionar columnas con `select()`
+* Capítulo 5 · Filtrar filas con `filter()`
+* Capítulo 6 · Combinar condiciones
+* Capítulo 7 · Crear y transformar columnas con `with_columns()`
+* Capítulo 8 · Transformaciones condicionales con `when()`, `then()` y `otherwise()`
+* Capítulo 9 · Ordenar, buscar extremos y construir rankings
 
 ### Parte II · Preparar y limpiar datos
 
-* [Capítulo 10 · Tipos de datos y esquema]()
-* [Capítulo 11 · Valores faltantes: `null` no es `NaN`]()
+* Capítulo 10 · Tipos de datos y esquema
+* Capítulo 11 · Valores faltantes: `null` no es `NaN`
 * Capítulo 12 · Limpiar textos y categorías *(en desarrollo)*
 * Capítulo 13 · Duplicados, valores únicos y consistencia *(en desarrollo)*
 * Capítulo 14 · Fechas y datos temporales *(en desarrollo)*
