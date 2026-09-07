@@ -230,12 +230,12 @@ El enfoque está dirigido a personas que ya conocen los fundamentos de Python y 
 * [Capítulo 1 · ¿Qué es Deep Learning?](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno01.ipynb)
 * [Capítulo 2 · La neurona artificial](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno02.ipynb)
 * [Capítulo 3 · De una neurona a una red](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno03.ipynb)
-* Capítulo 4 · Funciones de activación
+* [Capítulo 4 · Funciones de activación](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno04.ipynb)
 
 ### Parte II · Cómo aprende una red neuronal
 
-* Capítulo 5 · Medir el error: funciones de pérdida
-* Capítulo 6 · Descenso por gradiente
+* [Capítulo 5 · Medir el error: funciones de pérdida](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno05.ipynb)
+* [Capítulo 6 · Descenso por gradiente](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno06.ipynb)
 * Capítulo 7 · Backpropagation
 * Capítulo 8 · Épocas, batches y optimizadores
 
