@@ -85,9 +85,9 @@ Los cuadernos no están pensados como hojas de ejercicios. Funcionan como recorr
 ### Parte I · De Pandas a Polars
 
 * Capítulo 1 · ¿Por qué Polars? *(sin cuaderno independiente)*
-* Capítulo 2 · Nuestro primer DataFrame con Polars
+* [Capítulo 2 · Nuestro primer DataFrame con Polars](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/polars-01/cuadernos/Polars_Cuaderno02_Primer_DataFrame.ipynb)
 * Capítulo 3 · Un DataFrame parecido, pero no igual *(sin cuaderno independiente)*
-* Capítulo 4 · Seleccionar columnas con `select()`
+* [Capítulo 4 · Seleccionar columnas con `select()`](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/polars-01/cuadernos/Polars_Cuaderno04_Seleccionar_columnas.ipynb)
 * Capítulo 5 · Filtrar filas con `filter()`
 * Capítulo 6 · Combinar condiciones
 * Capítulo 7 · Crear y transformar columnas con `with_columns()`
