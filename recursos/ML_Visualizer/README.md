@@ -18,6 +18,16 @@ Aplicación de escritorio didáctica para explorar modelos sencillos de Machine 
 
 El programa permite comenzar con **Ninguno — solo datos**, observar la distribución de los puntos y elegir después un modelo. Seleccionar o cambiar el modelo conserva exactamente el dataset visible.
 
+<table align="center">
+  <tr>
+    <td align="center">
+        <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/recursos/imagenes/MLV1.png" width="800">
+    </td>
+  </tr>
+</table>
+
+
+
 ## Funciones principales
 
 - Tres tipos de problema: clasificación, regresión y agrupamiento.
@@ -39,6 +49,14 @@ El programa permite comenzar con **Ninguno — solo datos**, observar la distrib
 | Agrupamiento     | K-Means                                                               | Tres grupos, grupos desiguales, lunas, círculos y aleatorio                     |
 
 Los modelos supervisados se ajustan con el 75 % de los datos y se evalúan con el 25 % restante. K-Means utiliza el conjunto completo porque trabaja sin etiquetas objetivo.
+
+<table align="center">
+  <tr>
+    <td align="center">
+        <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/recursos/imagenes/MLV2.png" width="800">
+    </td>
+  </tr>
+</table>
 
 ## Requisitos
 
