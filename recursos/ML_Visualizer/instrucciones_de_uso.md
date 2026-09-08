@@ -14,6 +14,8 @@
 
 ML Visualizer permite generar un conjunto de datos sintético, observarlo sin aplicar ningún algoritmo y comparar luego cómo distintos modelos aprenden a partir de esos mismos datos. No pretende enseñar por sí solo toda la teoría de Machine Learning: funciona como una herramienta visual para acompañar explicaciones, demostraciones y experiencias de aula.
 
+[![Descargar AppImage](https://img.shields.io/badge/Descargar-AppImage_2.0-2CCCE4?logo=appimage&logoColor=white)](https://drive.google.com/file/d/1Bg8LvE4o37OaHgU7GvsXdwa5ulseUxVr/view?usp=sharing) 
+
 ## Recorrido básico
 
 1. Seleccione el **Tipo de problema**.
