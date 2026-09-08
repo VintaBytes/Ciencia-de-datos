@@ -1,5 +1,19 @@
 # ML Visualizer 2.0
 
+🤝 [Apoyar este proyecto](https://vintabytes.github.io/apoyar/) 🤝 
+
+![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?logo=python&logoColor=white)
+![ttkbootstrap](https://img.shields.io/badge/ttkbootstrap-7952B3?logo=bootstrap&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-306998?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?logo=python&logoColor=white)
+![AppImage](https://img.shields.io/badge/AppImage-2CCCE4?logo=appimage&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows11&logoColor=white)
+
+
 Aplicación de escritorio didáctica para explorar modelos sencillos de Machine Learning mediante datasets sintéticos y visualizaciones interactivas. Está desarrollada con Python, `ttkbootstrap`, Tkinter, NumPy, Pillow y scikit-learn.
 
 El programa permite comenzar con **Ninguno — solo datos**, observar la distribución de los puntos y elegir después un modelo. Seleccionar o cambiar el modelo conserva exactamente el dataset visible.
