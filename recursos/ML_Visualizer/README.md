@@ -18,6 +18,25 @@ Aplicación de escritorio didáctica para explorar modelos sencillos de Machine 
 
 El programa permite comenzar con **Ninguno — solo datos**, observar la distribución de los puntos y elegir después un modelo. Seleccionar o cambiar el modelo conserva exactamente el dataset visible.
 
+## Contenido
+
+- [Funciones principales](#funciones-principales)
+- [Modelos y datasets](#modelos-y-datasets)
+- [Requisitos](#requisitos)
+- [Usar el programa en Linux](#usar-el-programa-en-linux)
+- [Usar el programa en Windows](#usar-el-programa-en-windows)
+- [Manual de uso](#manual-de-uso)
+- [Configuraciones JSON](#configuraciones-json)
+- [Crear un ejecutable para Windows con PyInstaller](#crear-un-ejecutable-para-windows-con-pyinstaller)
+- [Crear una AppImage en Linux](#crear-una-appimage-en-linux)
+  - [Crear el ejecutable autocontenido](#1-crear-el-ejecutable-autocontenido)
+  - [Preparar el AppDir](#2-preparar-el-appdir)
+  - [Generar la AppImage](#3-generar-la-appimage)
+- [Estructura del proyecto](#estructura-del-proyecto)
+- [Atajos principales](#atajos-principales)
+- [Autoría](#autoría)
+
+
 <table align="center">
   <tr>
     <td align="center">
@@ -26,7 +45,7 @@ El programa permite comenzar con **Ninguno — solo datos**, observar la distrib
   </tr>
 </table>
 
-[![Descargar AppImage](https://img.shields.io/badge/Descargar-AppImage_2.0-2CCCE4?logo=appimage&logoColor=white)](https://drive.google.com/file/d/1Bg8LvE4o37OaHgU7GvsXdwa5ulseUxVr/view?usp=sharing)
+[![Descargar AppImage](https://img.shields.io/badge/Descargar-AppImage_2.0-2CCCE4?logo=appimage&logoColor=white)](https://drive.google.com/file/d/1Bg8LvE4o37OaHgU7GvsXdwa5ulseUxVr/view?usp=sharing) 
 
 ## Funciones principales
 
