@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ML Visualizer
+Comment=Visualizador didáctico de modelos de Machine Learning
+Exec=ML_Visualizer
+Icon=ml-visualizer
+Type=Application
+Terminal=false
+Categories=Education;Science;

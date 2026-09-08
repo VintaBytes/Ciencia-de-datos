@@ -1,0 +1,40 @@
+{
+  "aplicacion": "ML Visualizer",
+  "version": "2.0",
+  "tema": "nord-dark",
+  "tipo_problema": "Regresión",
+  "dataset": "Con ruido",
+  "numero_muestras": 120,
+  "modelo": "Regresión lineal",
+  "parametros": {
+    "Regresión logística": {
+      "C": 1.0
+    },
+    "KNN": {
+      "vecinos": 5
+    },
+    "Árbol de decisión": {
+      "profundidad": 4
+    },
+    "Random Forest": {
+      "arboles": 50,
+      "profundidad": 5
+    },
+    "Regresión lineal": {},
+    "Regresión polinómica": {
+      "grado": 2
+    },
+    "KNN regresión": {
+      "vecinos": 5
+    },
+    "Árbol de regresión": {
+      "profundidad": 4
+    },
+    "K-Means": {
+      "clusters": 6
+    }
+  },
+  "representacion_mapa": "Normal",
+  "visualizacion_didactica": true,
+  "seed_dataset": 284958461
+}

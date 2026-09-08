@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# AppRun se ejecuta desde la raíz montada de la AppImage.
+DIRECTORIO_APP="$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)"
+exec "$DIRECTORIO_APP/usr/bin/ML_Visualizer" "$@"
