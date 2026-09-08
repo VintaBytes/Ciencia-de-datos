@@ -1,5 +1,17 @@
 # Instrucciones de uso de ML Visualizer 2.0
 
+![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?logo=python&logoColor=white)
+![ttkbootstrap](https://img.shields.io/badge/ttkbootstrap-7952B3?logo=bootstrap&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-306998?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?logo=python&logoColor=white)
+![AppImage](https://img.shields.io/badge/AppImage-2CCCE4?logo=appimage&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows11&logoColor=white)
+
+
 ML Visualizer permite generar un conjunto de datos sintético, observarlo sin aplicar ningún algoritmo y comparar luego cómo distintos modelos aprenden a partir de esos mismos datos. No pretende enseñar por sí solo toda la teoría de Machine Learning: funciona como una herramienta visual para acompañar explicaciones, demostraciones y experiencias de aula.
 
 ## Recorrido básico
@@ -23,6 +35,14 @@ Determina qué clase de tarea se estudiará:
 - **Agrupamiento:** los puntos no tienen una clase conocida; K-Means intenta organizarlos en grupos.
 
 Al cambiar el tipo de problema, el programa selecciona el primer dataset compatible, vuelve a **Ninguno — solo datos** y genera una muestra nueva. Los modelos y controles disponibles se actualizan porque no todos sirven para las mismas tareas.
+
+<table align="center">
+  <tr>
+    <td align="center">
+        <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/recursos/imagenes/MLV3.png" width="800">
+    </td>
+  </tr>
+</table>
 
 ### Dataset sintético
 
@@ -137,6 +157,14 @@ Permite elegir entre los temas claros y oscuros disponibles en `ttkbootstrap`. E
 - **Manual de uso:** abre la ayuda desplazable integrada. También puede abrirse con `F1`.
 - **Acerca de:** muestra el nombre, la versión, la autoría y el enlace del proyecto.
 
+<table align="center">
+  <tr>
+    <td align="center">
+        <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/recursos/imagenes/MLV5.png" width="800">
+    </td>
+  </tr>
+</table>
+
 ## Atajos de teclado
 
 | Atajo | Acción |
@@ -152,3 +180,12 @@ Permite elegir entre los temas claros y oscuros disponibles en `ttkbootstrap`. E
 ## Sugerencia para comparar modelos
 
 Para que una comparación resulte clara, genere una muestra y no pulse **Nuevo dataset** mientras cambia de modelo o modifica hiperparámetros. Así todos los resultados se obtendrán sobre exactamente los mismos puntos. Si desea conservar las opciones y regenerar posteriormente la muestra original, guarde una configuración antes de continuar.
+
+<table align="center">
+  <tr>
+    <td align="center">
+        <img src="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/recursos/imagenes/MLV4.png" width="800">
+    </td>
+  </tr>
+</table>
+
