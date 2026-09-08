@@ -26,7 +26,7 @@ El programa permite comenzar con **Ninguno — solo datos**, observar la distrib
   </tr>
 </table>
 
-
+[![Descargar AppImage](https://img.shields.io/badge/Descargar-AppImage_2.0-2CCCE4?logo=appimage&logoColor=white)](https://drive.google.com/file/d/1Bg8LvE4o37OaHgU7GvsXdwa5ulseUxVr/view?usp=sharing)
 
 ## Funciones principales
 
