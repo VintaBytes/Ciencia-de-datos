@@ -16,6 +16,30 @@ ML Visualizer permite generar un conjunto de datos sintético, observarlo sin ap
 
 [![Descargar AppImage](https://img.shields.io/badge/Descargar-AppImage_2.0-2CCCE4?logo=appimage&logoColor=white)](https://drive.google.com/file/d/1Bg8LvE4o37OaHgU7GvsXdwa5ulseUxVr/view?usp=sharing) 
 
+## Contenido
+
+- [Recorrido básico](#recorrido-básico)
+- [Panel lateral](#panel-lateral)
+  - [Tipo de problema](#tipo-de-problema)
+  - [Dataset sintético](#dataset-sintético)
+  - [Número de muestras](#número-de-muestras)
+  - [Modelo](#modelo)
+  - [Parámetros del modelo](#parámetros-del-modelo)
+  - [Representación del mapa](#representación-del-mapa)
+  - [Visualización didáctica (V)](#visualización-didáctica-v)
+  - [Nuevo dataset](#nuevo-dataset)
+  - [Reentrenar](#reentrenar)
+  - [Métricas](#métricas)
+- [Gráfico interactivo](#gráfico-interactivo)
+  - [Movimiento del mouse](#movimiento-del-mouse)
+  - [Agregar y quitar puntos](#agregar-y-quitar-puntos)
+- [Menús](#menús)
+  - [Archivo](#archivo)
+  - [Apariencia](#apariencia)
+  - [Ayuda](#ayuda)
+- [Atajos de teclado](#atajos-de-teclado)
+- [Sugerencia para comparar modelos](#sugerencia-para-comparar-modelos)
+
 ## Recorrido básico
 
 1. Seleccione el **Tipo de problema**.
