@@ -66,6 +66,17 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
       Se trabaja sobre la preparación de los datos antes del modelado. Feature Engineering con fechas y variables derivadas. Crear columnas derivadas. Transformación de variables categóricas. Label Encoding. One-Hot Encoding. Normalización y estandarización de variables numéricas.
     </td>
   </tr>
+
+  <tr>
+    <td valign="top"  width="12%" align="center">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 1" width="120">
+    </td>
+    <td valign="top" width="88%"> 
+      <strong>Cuaderno 4 · División en Entrenamiento/Prueba.</strong><br><br>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase05/Division_y_validacion_del_dataset.ipynb">División y validación del dataset</a><br><br>
+      En esta clase todavía **no vamos a estudiar en profundidad cómo funciona un algoritmo de Machine Learning**. Nuestro objetivo es anterior y muy importante: comprender **cómo debemos organizar los datos para entrenar y evaluar un modelo de manera confiable**.
+    </td>
+  </tr>
 </table>
 
 
