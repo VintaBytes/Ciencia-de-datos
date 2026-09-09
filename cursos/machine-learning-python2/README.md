@@ -39,8 +39,8 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
       <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 1" width="120">
     </td>
     <td valign="top" width="88%">
-      <strong>Cuaderno 1 · Repaso de Pandas y formatos de archivos</strong><br><br>
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase01/Lectura_archivos_con_Pandas.ipynb">Lectura de archivos con Pandas</a><br><br>
+      <strong>
+      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase01/Lectura_archivos_con_Pandas.ipynb">Lectura de archivos con Pandas</a></strong><br><br>
       Este primer cuaderno presenta una aproximación inicial al trabajo con datasets en el contexto de machine learning. Se muestra como usar el entorno Colab y como cargar distintos tipos de archivos en un dataframe de Pandas.
     </td>
   </tr>
@@ -50,8 +50,7 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
       <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 1" width="120">
     </td>
     <td valign="top" width="88%"> 
-      <strong>Cuaderno 2 · Preparación de datos para Machine Learning: exploración y limpieza</strong><br><br>
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase04/Preparaci%C3%B3n_de_datos_para_Machine_Learning_exploraci%C3%B3n_y_limpieza.ipynb">Exploración y limpieza de datos</a><br><br>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase04/Preparaci%C3%B3n_de_datos_para_Machine_Learning_exploraci%C3%B3n_y_limpieza.ipynb">Exploración y limpieza de datos</a></strong><br><br>
       Esta etapa es fundamental en un proyecto de Machine Learning. Antes de entrenar un modelo necesitamos comprender los datos con los que vamos a trabajar y asegurarnos de que tengan una estructura y una calidad adecuadas.
     </td>
   </tr>
@@ -61,8 +60,7 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
       <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 1" width="120">
     </td>
     <td valign="top" width="88%"> 
-      <strong>Cuaderno 3 · Transformación de datos y Feature Engineering.</strong><br><br>
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase04/Transformacion_de_datos_el_primer_paso_hacia_el_modelo.ipynb">Transformación de datos: el primer paso hacia el modelo</a><br><br>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase04/Transformacion_de_datos_el_primer_paso_hacia_el_modelo.ipynb">Transformación de datos: el primer paso hacia el modelo</a></strong><br><br>
       Se trabaja sobre la preparación de los datos antes del modelado. Feature Engineering con fechas y variables derivadas. Crear columnas derivadas. Transformación de variables categóricas. Label Encoding. One-Hot Encoding. Normalización y estandarización de variables numéricas.
     </td>
   </tr>
@@ -72,8 +70,7 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
       <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 1" width="120">
     </td>
     <td valign="top" width="88%"> 
-      <strong>Cuaderno 4 · División en Entrenamiento/Prueba.</strong><br><br>
-      <a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase05/Division_y_validacion_del_dataset.ipynb">División y validación del dataset</a><br><br>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase05/Division_y_validacion_del_dataset.ipynb">División y validación del dataset</a></strong><br><br>
       En esta clase todavía **no vamos a estudiar en profundidad cómo funciona un algoritmo de Machine Learning**. Nuestro objetivo es anterior y muy importante: comprender **cómo debemos organizar los datos para entrenar y evaluar un modelo de manera confiable**.
     </td>
   </tr>
