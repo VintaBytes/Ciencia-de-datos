@@ -46,6 +46,7 @@ El programa permite comenzar con **Ninguno — solo datos**, observar la distrib
 </table>
 
 [![Descargar AppImage](https://img.shields.io/badge/Descargar-AppImage_2.0-2CCCE4?logo=appimage&logoColor=white)](https://drive.google.com/file/d/1Bg8LvE4o37OaHgU7GvsXdwa5ulseUxVr/view?usp=sharing) 
+[![Descargar para Windows](https://img.shields.io/badge/Descargar-Windows_2.0-2CCCE4?logo=windows&logoColor=white)](https://drive.google.com/file/d/1oAFfma7YP744RVE_IhEzFalNwRocLcFg/view?usp=sharing)
 
 ## Funciones principales
 
