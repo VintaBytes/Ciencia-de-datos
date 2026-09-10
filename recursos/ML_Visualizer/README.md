@@ -251,3 +251,5 @@ La AppImage resultante debe probarse en al menos otra distribución Linux antes 
 ## Autoría
 
 ML Visualizer 2.0 fue creado por **Ariel Palazzesi** con ayuda de IA (ChatGPT). Puede encontrarse junto con más material de Ciencia de Datos y Machine Learning en [VintaBytes/Ciencia-de-datos](https://github.com/VintaBytes/Ciencia-de-datos).
+
+La versión ejecutable para Windows fue creada gentilmente por [Pablo Damian.](https://github.com/Pablo-Damian/ML_Visualizer_Windows)
