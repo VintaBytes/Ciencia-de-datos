@@ -188,7 +188,7 @@ La intención es que, al finalizar el recorrido, el lector pueda observar una ar
 
 * [Capítulo 5 · Medir el error: funciones de pérdida](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno05.ipynb)
 * [Capítulo 6 · Descenso por gradiente](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno06.ipynb)
-* Capítulo 7 · Backpropagation
+* [Capítulo 7 · Backpropagation](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno07.ipynb)
 * Capítulo 8 · Épocas, batches y optimizadores
 
 ### Parte III · Primeras redes neuronales
