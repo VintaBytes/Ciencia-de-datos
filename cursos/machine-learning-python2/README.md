@@ -74,6 +74,18 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
       En esta clase todavía no vamos a estudiar en profundidad cómo funciona un algoritmo de Machine Learning. Nuestro objetivo es anterior y muy importante: comprender cómo debemos organizar los datos para entrenar y evaluar un modelo de manera confiable.
     </td>
   </tr>
+
+<tr>
+    <td valign="top"  width="12%" align="center">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 1" width="120">
+    </td>
+    <td valign="top" width="88%">
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase06/cuaderno-05-regresion-lineal-y-evaluacion-del-modelo.ipynb">Regresión lineal y evaluación de modelos</a></strong><br><br>
+      Regresión lineal y métricas de evaluación: <b>MAE, MSE, RMSE y R²</b><br>
+      Se presenta un primer modelo supervisado de regresión. Además de entrenar el modelo, se trabajan métricas de evaluación que permiten interpretar la magnitud de los errores y la calidad general de las predicciones.
+         </td>
+</tr>
+  
 </table>
 
 
