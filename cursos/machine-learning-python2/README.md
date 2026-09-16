@@ -14,7 +14,7 @@
 
 ----
 
-Este directorio reúne cuadernos Colab creados como material de apoyo para el recorrido introductorio de **Machine Learning con Python** del segundo semestre de 2026 en **Talento Tech**.
+Este directorio reúne cuadernos Colab creados como material de apoyo para el recorrido introductorio de **Machine Learning con Python** del segundo semestre de 2026 en **Talento Tech** (CABA, Argentina).
 
 > **Estado del material:** curso en desarrolo. Los cuadernos se van agregando clase a clase.
 
