@@ -91,7 +91,7 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
       <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 1" width="120">
     </td>
     <td valign="top" width="88%">
-      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase06/cuaderno-05-regresion-lineal-y-evaluacion-del-modelo.ipynb">Regresión lineal y evaluación de modelos II - "La venganza de Times Listed"</a></strong><br><br>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase06/cuaderno-05b-regresion-times-listed.ipynb">Regresión lineal y evaluación de modelos II - "La venganza de Times Listed"</a></strong><br><br>
       En el cuaderno anterior intentamos predecir <b>Rating</b> mediante una regresión lineal y obtuvimos un <b>R² ≈ 0.2375</b>. Esto indicaba que las variables elegidas explicaban solo una parte limitada de la variabilidad de la valoración de los videojuegos. <br>En este cuaderno breve vamos a plantear una pregunta diferente: <b>¿Podemos obtener un modelo lineal más explicativo si intentamos predecir `Times Listed`?</b>. <br>Y la respuesta es...sorprendente!
     </td>
 </tr>
