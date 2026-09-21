@@ -96,6 +96,18 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
     </td>
 </tr>
 
+<tr>
+    <td valign="top" width="12%" align="center">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 6" width="120">
+    </td>
+    <td valign="top" width="38%">
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase07/cuaderno_06_regresion_logistica_y_evaluacion_del_modelo_corregido.ipynb">Regresión Logística y Métricas de Evaluacion</a></strong><br><br>
+      En esta oportunidad cambia el tipo de problema: ahora no queremos predecir “cuánto”, sino tomar una decisión entre dos opciones posibles.<br>
+      Para eso vamos a usar un modelo llamado regresión logística. Aunque su nombre incluya la palabra “regresión”, este modelo se utiliza principalmente para resolver problemas de clasificación. <br>
+      Se trabaja con conceptos como matriz de confusión, accuracy, precision, recall y F1-score.
+    </td>
+  </tr>
+
 </table>
 
 
