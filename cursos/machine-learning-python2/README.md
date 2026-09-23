@@ -108,6 +108,18 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
     </td>
   </tr>
 
+<tr>
+    <td valign="top" width="12%" align="center">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 6" width="120">
+    </td>
+    <td valign="top" width="38%">
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase07/cuaderno_06_regresion_logistica_y_evaluacion_del_modelo_corregido.ipynb">Cuaderno Pre-Entrega Lab</a></strong><br><br>
+      En este cuaderno vamos a trabajar sobre las etapas necesarias para preparar la <b>Pre-Entrega del Proyecto Integrador del curso de Machine Learning</b>. <br>
+      La idea principal no es entrenar todavía un modelo, sino dejar preparado un dataset para poder hacerlo más adelante. Para eso vamos a recorrer las etapas previas al modelado: selección del dataset, análisis inicial, limpieza, transformaciones básicas, selección de variables y división del conjunto de datos.<br>
+      Muchas de las decisiones que tomemos a lo largo del cuaderno podrán adaptarse a otros datasets. Por eso, además de resolver el caso propuesto, iremos explicando qué conviene observar y justificar en cada etapa.   
+    </td>
+  </tr>
+  
 </table>
 
 
