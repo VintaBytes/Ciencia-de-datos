@@ -2,7 +2,7 @@
 
 ## Ariel Palazzesi
 
-Soy docente y desarrollador de contenidos educativos, con experiencia en programación, análisis de datos, Machine Learning, tecnología educativa y enseñanza de ciencias.
+Soy docente y desarrollador de contenidos educativos, con experiencia en programación, IoT, análisis de datos, Machine Learning, tecnología educativa y enseñanza de ciencias.
 
 Este repositorio nació como un espacio para reunir materiales preparados para clases, cursos y proyectos de formación. Con el tiempo se incorporaron cuadernos de Google Colab, actividades prácticas y libros que buscan ofrecer recorridos progresivos y accesibles para quienes quieren aprender a trabajar con datos utilizando Python.
 
