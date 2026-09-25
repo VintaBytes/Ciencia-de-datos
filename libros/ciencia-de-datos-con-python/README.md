@@ -237,11 +237,11 @@ El enfoque está dirigido a personas que ya conocen los fundamentos de Python y 
 * [Capítulo 5 · Medir el error: funciones de pérdida](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno05.ipynb)
 * [Capítulo 6 · Descenso por gradiente](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno06.ipynb)
 * [Capítulo 7 · Backpropagation](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno07.ipynb)
-* Capítulo 8 · Épocas, batches y optimizadores
+* [Capítulo 8 · Épocas, batches y optimizadores](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno08.ipynb)
 
 ### Parte III · Primeras redes neuronales
 
-* Capítulo 9 · Primer modelo de Deep Learning
+* [Capítulo 9 · Primer modelo de Deep Learning](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/volumen-05/cuadernos/CienciaDeDatos_Tomo5_Cuaderno09.ipynb)
 * Capítulo 10 · Entrenamiento y validación
 * Capítulo 11 · Sobreajuste en redes neuronales
 
