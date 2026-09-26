@@ -119,6 +119,16 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
       Muchas de las decisiones que tomemos a lo largo del cuaderno podrán adaptarse a otros datasets. Por eso, además de resolver el caso propuesto, iremos explicando qué conviene observar y justificar en cada etapa.   
     </td>
   </tr>
+
+<tr>
+    <td valign="top" width="12%" align="center">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 6" width="120">
+    </td>
+    <td valign="top" width="38%">
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase08/Cuaderno07_Clasificacion_con_KNN_(K_Nearest_Neighbors).ipynb">Clasificación con KNN (K-Nearest Neighbors)</a></strong><br><br>
+     Se aborda el algoritmo KNN como modelo de clasificación basado en cercanía entre observaciones. El cuaderno permite analizar la importancia de la escala de las variables y el efecto de elegir distintos valores de <code>k</code>.  
+    </td>
+  </tr>
   
 </table>
 
