@@ -11,8 +11,7 @@
 🤝 [Apoyar este proyecto](https://vintabytes.github.io/apoyar/) · 📚 [Ver la colección](../README.md) · 🏠 [Volver al inicio](../../../README.md)
 
 ----
-**Este libro está en desarrollo**. El **04/09/2026** se agregó el **Capítulo 7 · Backpropagation: aprender desde el error**. Pronto estará disponible el capítulo siguiente.
-Se actualizó el PDF, hasta el **Capítulo 8 · Épocas, batches y optimizadores**. 
+**Este libro está en desarrollo**. El **29/09/2026** se agregó el **Capítulo 11 · Sobreajuste en redes neuronales**. 
 
 <table align="center">
   <tr>
