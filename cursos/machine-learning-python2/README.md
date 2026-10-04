@@ -122,7 +122,7 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
 
 <tr>
     <td valign="top" width="12%" align="center">
-      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 6" width="120">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 7" width="120">
     </td>
     <td valign="top" width="38%">
       <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase08/Cuaderno07_Clasificacion_con_KNN_(K_Nearest_Neighbors).ipynb">Clasificación con KNN (K-Nearest Neighbors)</a></strong><br><br>
@@ -130,6 +130,15 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
     </td>
   </tr>
   
+<tr>
+    <td valign="top" width="12%" align="center">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 8" width="120">
+    </td>
+    <td valign="top" width="38%">
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase09/Cuaderno08_%C3%81rboles_de_Decisi%C3%B3n_y_Random_Forest.ipynb">Árboles de Decisión y Random Forest</a></strong><br><br>
+     Este cuaderno presenta modelos basados en árboles. Se trabaja la diferencia entre un árbol individual y un ensamble como Random Forest, junto con ideas como profundidad, sobreajuste, importancia de variables y comparación de desempeño.
+    </td>
+  </tr>
 </table>
 
 
