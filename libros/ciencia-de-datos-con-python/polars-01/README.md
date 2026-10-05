@@ -89,7 +89,7 @@ Los cuadernos no están pensados como hojas de ejercicios. Funcionan como recorr
 * Capítulo 3 · Un DataFrame parecido, pero no igual *(sin cuaderno independiente)*
 * [Capítulo 4 · Seleccionar columnas con `select()`](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/polars-01/cuadernos/Polars_Cuaderno04_Seleccionar_columnas.ipynb)
 * [Capítulo 5 · Filtrar filas con `filter()`](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/polars-01/cuadernos/Polars_Cuaderno05_Filtrar_filas.ipynb)
-* Capítulo 6 · Combinar condiciones
+* [Capítulo 6 · Combinar condiciones](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/libros/ciencia-de-datos-con-python/polars-01/cuadernos/Polars_Cuaderno06_Combinar_condiciones.ipynb)
 * Capítulo 7 · Crear y transformar columnas con `with_columns()`
 * Capítulo 8 · Transformaciones condicionales con `when()`, `then()` y `otherwise()`
 * Capítulo 9 · Ordenar, buscar extremos y construir rankings
