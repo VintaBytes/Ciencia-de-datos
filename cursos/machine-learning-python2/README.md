@@ -139,6 +139,22 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
      Este cuaderno presenta modelos basados en árboles. Se trabaja la diferencia entre un árbol individual y un ensamble como Random Forest, junto con ideas como profundidad, sobreajuste, importancia de variables y comparación de desempeño.
     </td>
   </tr>
+
+  <tr>
+    <td valign="top" width="12%" align="center">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 9" width="120">
+    </td>
+    <td valign="top" width="38%">
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase11/Cuaderno09A_K_Means_DatosSinteticos.ipynb">Cuaderno 9A · Introducción al clustering con datos sintéticos.</a></strong><br>
+      Introducción al aprendizaje no supervisado mediante el algoritmo K-Means, utilizando datos preparados para comprender la lógica del algoritmo y la formación de grupos.<br><br>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase11/Cuaderno09B_K_Means_Pinguinos.ipynb">Cuaderno 9B · K-Means y Pinguinos.</a></strong><br>
+      K-Means en datos reales: cuando el clustering ayuda, pero no alcanza.<br><br>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase11/Cuaderno09C_K_Means_Consumidores.ipynb">Cuaderno 9C · K-Means con datos reales.</a></strong><br>
+      Aplicación de K-Means sobre datos reales para analizar cómo puede ayudar el clustering y reconocer las limitaciones que aparecen cuando los grupos no están claramente separados.
+    </td>
+  </tr>
+
+  
 </table>
 
 
