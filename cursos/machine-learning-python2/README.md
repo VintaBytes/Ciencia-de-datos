@@ -154,7 +154,15 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
     </td>
   </tr>
 
-  
+<tr>
+    <td valign="top" width="12%" align="center">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno 12" width="120">
+    </td>
+    <td valign="top" width="38%">
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase12/cuaderno_10_pipelines_v2.ipynb">Cuaderno 10 · Pipelines y GridSearchCV V2</a></strong><br><br>
+     Este cuaderno está orientado a organizar el flujo completo de trabajo mediante pipelines. También introduce la búsqueda de hiperparámetros con GridSearchCV, una herramienta clave para comparar configuraciones de modelos de manera sistemática.
+    </td>
+  </tr>
 </table>
 
 
