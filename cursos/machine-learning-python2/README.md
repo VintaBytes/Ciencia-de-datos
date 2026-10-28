@@ -169,7 +169,7 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
       <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno Extra" width="120">
     </td>
     <td valign="top" width="38%">
-      <strong><a href="">Guardar y recuperar un modelo entrenado en scikit-learn.</a></strong><br><br>
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Extra/cuaderno-extra-guardar-y-recuperar-modelos.ipynb">Guardar y recuperar un modelo entrenado en scikit-learn.</a></strong><br><br>
      En este mini-cuaderno vamos a entrenar rápidamente un modelo de clasificación y luego veremos cómo guardarlo en un archivo para poder reutilizarlo más adelante sin repetir el entrenamiento.<br>
      También veremos por qué, en un proyecto real, suele ser más conveniente guardar el **pipeline completo** y no solamente el estimador final.
     </td>
