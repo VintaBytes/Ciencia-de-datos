@@ -163,6 +163,17 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
      Este cuaderno está orientado a organizar el flujo completo de trabajo mediante pipelines. También introduce la búsqueda de hiperparámetros con GridSearchCV, una herramienta clave para comparar configuraciones de modelos de manera sistemática.
     </td>
   </tr>
+
+  <tr>
+    <td valign="top" width="12%" align="center">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno Extra" width="120">
+    </td>
+    <td valign="top" width="38%">
+      <strong><a href="">Guardar y recuperar un modelo entrenado en scikit-learn.</a></strong><br><br>
+     En este mini-cuaderno vamos a entrenar rápidamente un modelo de clasificación y luego veremos cómo guardarlo en un archivo para poder reutilizarlo más adelante sin repetir el entrenamiento.<br>
+     También veremos por qué, en un proyecto real, suele ser más conveniente guardar el **pipeline completo** y no solamente el estimador final.
+    </td>
+  </tr>
 </table>
 
 
