@@ -174,6 +174,27 @@ En el curso se trabaja con modelos de regresión, clasificación y clustering. T
      También veremos por qué, en un proyecto real, suele ser más conveniente guardar el <b>pipeline completo</b> y no solamente el estimador final.
     </td>
   </tr>
+
+  <tr>
+    <td valign="top" width="12%" align="center">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno" width="120">
+    </td>
+    <td valign="top" width="38%">
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase13/cuaderno-11-evaluacion-de-modelos.ipynb">Comparación y evaluación de modelos.</a></strong><br><br>
+     En este cuaderno comparamos distintos modelos y métricas. No alcanza con entrenar un modelo: también es necesario evaluar resultados, interpretar errores y elegir la alternativa más adecuada para el problema que estamos resolviendo.
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="12%" align="center">
+      <img src="../../recursos/imagenes/imagen-cuaderno.png" alt="Imagen del Cuaderno" width="120">
+    </td>
+    <td valign="top" width="38%">
+      <strong><a href="https://github.com/VintaBytes/Ciencia-de-datos/blob/main/cursos/machine-learning-python2/Clase14/cuaderno-13-proyecto-final.ipynb">Exploración y preparación de un dataset clínico.</a></strong><br><br>
+     Este cuaderno propone trabajar con un dataset de contexto clínico, poniendo el foco en la exploración inicial, la preparación de variables y las decisiones previas al entrenamiento de modelos. Avanza sobre el entrenamiento, la evaluación y la selección de modelos para integrar varias etapas del flujo de trabajo en un caso más completo.
+    </td>
+  </tr>
+  
 </table>
 
 
